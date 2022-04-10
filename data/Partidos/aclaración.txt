@@ -1,0 +1,1 @@
+El archivo con los ids es necesario para poder matchear en los archivos de los eventos de los partidos y así tener los nombres de jugadores/equipos
