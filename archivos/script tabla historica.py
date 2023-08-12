@@ -1,9 +1,7 @@
 #La sheet en la cual está la tabla es esta --> https://docs.google.com/spreadsheets/d/15CqzJhJH434Fqno_BSV_QVgsixlr2nM93nzDMOncY5k/edit?usp=sharing 
 #Los paths a los archivos son propios de cada cpu y directorio.
+#Tutorial sobre como configurar pygsheets: https://medium.com/@jb.ranchana/write-and-append-dataframes-to-google-sheets-in-python-f62479460cf0
 
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
 import pygsheets
 from datetime import date
@@ -22,15 +20,10 @@ equivalenciaNombres = {'Argentinos':'Argentinos Juniors',
 'Union': 'Unión',
 "Newells": "Newell's Old Boys"}
 
-#Armo driver con selenium para sacar tablas de Promiedos.
-options = Options()
-driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
-driver.get('https://www.promiedos.com.ar/primera') #Se puede usar otro link de otra tabla más vieja de Promiedos.
-html = driver.page_source
-driver.close()
+#Uso la función de pandas para scrapear html y así sacar tablas de Promiedos.
+df = pd.read_html('https://www.promiedos.com.ar/primera')
 
-#Va variando donde colocar la tabla en el sheet cuando empieza un nuevo torneo
-df_1 = pd.read_html(html)[0]
+df_1 = df[0]
 
 #Dejo el ejemplo de como lo actualizo en mi sheet yo, para que lo emulen. Tendrian que cambiar la ubicación de donde setean la sheet y su nombre.
 gc = pygsheets.authorize(service_file={{creds}})
