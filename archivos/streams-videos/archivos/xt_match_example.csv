@@ -1,0 +1,963 @@
+,match_id,id,minute,team_name,type_name,sub_type_name,player_name,x,y,end_x,end_y,outcome_name,shot_statsbomb_xg,goal,shoot,move,xt
+5,2275127,9f55eb20-c086-408e-990c-549b19d3f5eb,0,Reading WFC,Pass,Kick Off,Fara Williams,61.0,40.1,47.7,49.4,,,False,False,True,-0.00979463490323049
+7,2275127,c00224f6-8376-4c12-bc52-356830e1ee22,0,Reading WFC,Carry,,Jade Moore,47.7,49.4,50.4,50.5,,,False,False,True,0.0
+9,2275127,3a8941d3-6f16-49e4-a358-a89b2e4548c9,0,Reading WFC,Pass,,Jade Moore,50.4,50.5,80.5,25.2,,,False,False,True,0.020302902691088837
+14,2275127,9167c849-5488-418b-b560-6c351182a5e6,0,Everton LFC,Pass,Recovery,Chloe Kelly,49.1,26.7,36.0,9.9,,,False,False,True,-0.0031402412924073078
+17,2275127,94382d3d-97df-4e95-a490-b409c62b6d59,0,Everton LFC,Carry,,Danielle Turner,36.0,9.9,35.6,9.2,,,False,False,True,0.0
+23,2275127,ddfc067a-02f7-4b3a-b9f9-7d9415518739,0,Everton LFC,Pass,Throw-in,Danielle Turner,30.1,0.1,41.4,3.7,,,False,False,True,0.0031089534681797617
+25,2275127,12312af4-5313-4b6a-a2bd-d06e0a1ba21a,0,Everton LFC,Carry,,Molly Pike,41.4,3.7,37.8,1.2,,,False,False,True,0.0
+27,2275127,082b2db9-d1a9-48fb-b7ae-09937d3944a6,0,Everton LFC,Pass,,Molly Pike,37.8,1.2,64.2,0.1,,,False,False,True,0.0021295547434014763
+30,2275127,b7fa3d9e-bf4d-4f85-b8be-c22c0188626f,0,Everton LFC,Carry,,Simone Magill,64.2,0.1,66.2,0.8,,,False,False,True,0.0
+32,2275127,33679f90-c7a6-4d03-9426-23d48d7907ce,0,Reading WFC,Pass,Throw-in,Brooke Chaplen,58.6,80.0,50.1,50.7,,,False,False,True,0.004459139700186289
+38,2275127,c94bc545-c87c-474d-9804-876d06a0fa96,1,Everton LFC,Carry,,Molly Pike,48.0,26.9,55.8,26.3,,,False,False,True,0.001513927565102175
+40,2275127,a1c0d5fb-cfb3-42ee-a4ab-8cd7dca1e7a9,1,Everton LFC,Pass,,Molly Pike,55.8,26.3,66.9,28.7,,,False,False,True,0.007227292408018865
+43,2275127,5fa4818e-b1e6-4368-b906-53f9f4ce7029,1,Everton LFC,Carry,,Simone Magill,66.9,28.7,67.5,28.5,,,False,False,True,-0.00011089601886498518
+46,2275127,ef51e941-e5e6-4a85-b8d4-83e6f47ef001,1,Everton LFC,Pass,Recovery,Lucy Hope,64.6,38.2,85.5,24.9,,,False,False,True,0.018302974659927786
+50,2275127,60a92267-2dbb-4635-9efc-287da926104a,1,Reading WFC,Carry,,Grace Moloney,3.6,56.3,15.1,40.1,,,False,False,True,0.001120447476507131
+51,2275127,1f6e611d-e689-45ca-a779-cfd65e908a76,1,Reading WFC,Pass,,Grace Moloney,15.1,40.1,22.1,21.6,,,False,False,True,0.0024595032216754784
+53,2275127,72278b61-fa1c-4b5f-b498-67d65afacc68,1,Reading WFC,Carry,,Sophie Howard,22.1,21.6,25.3,15.5,,,False,False,True,0.0011078746547875072
+55,2275127,67959d8e-25f3-437b-bd65-95f067c95b54,1,Reading WFC,Pass,,Sophie Howard,25.3,15.5,31.7,4.2,,,False,False,True,0.0025672599353624365
+57,2275127,f87570d0-d935-46de-99a0-9b2d1d756b56,1,Reading WFC,Carry,,Rachel Rowe,31.7,4.2,26.6,6.6,,,False,False,True,-0.0004292711336114398
+67,2275127,269d858a-cb88-4aee-b79b-21d23412b0a1,1,Everton LFC,Carry,,Maéva Clemaron,76.6,58.6,75.3,51.5,,,False,False,True,-0.034891968329131905
+68,2275127,f2ce4b16-0b0a-4c71-928c-b467b4df5b89,1,Everton LFC,Pass,,Maéva Clemaron,75.3,51.5,89.9,33.6,,,False,False,True,0.028723638979009737
+70,2275127,7f574ce3-90f5-480d-9f9a-583c30efef84,1,Everton LFC,Carry,,Chloe Kelly,89.9,33.6,97.8,49.9,,,False,False,True,-0.0033833956995348927
+76,2275127,ae7a83fd-1970-430f-a0ee-fdee39706237,2,Reading WFC,Pass,Recovery,Rachel Rowe,41.7,20.1,57.2,24.1,,,False,False,True,0.0025926106014660232
+78,2275127,0d3e8734-ac40-4aba-9612-64140528c17c,2,Reading WFC,Carry,,Millie Laura Farrow,57.2,24.1,57.2,23.2,,,False,False,True,0.0
+90,2275127,36ae2b7d-7242-4042-93d0-3d436e8dca0c,2,Reading WFC,Carry,,Jade Moore,57.9,26.3,65.0,24.1,,,False,False,True,0.004490588162726506
+94,2275127,fee69235-a139-4a14-8dc2-b3026d61ce99,2,Reading WFC,Carry,,Jade Moore,65.0,24.1,81.2,4.4,,,False,False,True,-0.005924369975413964
+96,2275127,7050f968-853b-44b3-acc8-052f5d05bc93,2,Reading WFC,Pass,,Jade Moore,81.2,4.4,93.4,18.1,,,False,False,True,0.021315227229044192
+98,2275127,45298d5a-05f4-49e0-a6e2-ca35ab821ad3,2,Reading WFC,Carry,,Fara Williams,93.4,18.1,102.5,5.5,,,False,False,True,-0.017341998689824088
+103,2275127,d2999803-5126-4759-a9e5-9fda5feff2ac,3,Reading WFC,Pass,Throw-in,Rachel Rowe,51.0,0.1,67.4,13.3,,,False,False,True,-0.012781202313230496
+105,2275127,65f76a06-35cb-4ee1-a16c-bf1df45bede1,3,Reading WFC,Carry,,Millie Laura Farrow,67.4,13.3,66.3,16.1,,,False,False,True,0.0013139413436130468
+108,2275127,5e3389bb-d395-4035-8f43-16073e6fc29c,3,Everton LFC,Pass,Recovery,Molly Pike,54.0,57.1,62.4,63.3,,,False,False,True,0.0061501033281116165
+110,2275127,1c044d67-7fd8-463c-b729-13062dbcee41,3,Everton LFC,Pass,,Lucy Hope,62.4,63.3,69.7,65.3,,,False,False,True,-0.0029582102240835843
+113,2275127,ab50ffbf-535d-41fc-9e51-6111e7842317,3,Everton LFC,Carry,,Simone Magill,69.7,65.3,70.6,62.4,,,False,False,True,0.0
+116,2275127,41e7ebe4-f19c-4e9a-a6ee-da5fa7a64ef4,4,Everton LFC,Pass,Free Kick,Kika van Es,69.7,62.4,54.7,31.6,,,False,False,True,0.0012970752260412985
+118,2275127,f9e7a635-d5a9-44ae-8a41-896e0b8c4468,4,Everton LFC,Carry,,Gabrielle George,54.7,31.6,50.7,27.2,,,False,False,True,-0.000807130110664734
+119,2275127,d39a98db-aa47-47ce-b6c6-2d26f8b95a34,4,Everton LFC,Pass,,Gabrielle George,50.7,27.2,58.0,1.9,,,False,False,True,0.0011047045055274061
+121,2275127,693a864d-94f8-41a0-8623-eaa812afd7f2,4,Everton LFC,Carry,,Danielle Turner,58.0,1.9,63.1,2.5,,,False,False,True,0.004239690367260388
+126,2275127,8e600d8a-c4e8-4796-8303-1e2002d41c66,4,Everton LFC,Pass,Throw-in,Danielle Turner,88.6,0.1,94.4,6.5,,,False,False,True,0.0027284999954373824
+128,2275127,1d2e85a2-af2c-4bc3-81f0-4c2cf59b9592,4,Everton LFC,Carry,,Chloe Kelly,94.4,6.5,93.9,6.1,,,False,False,True,0.0
+132,2275127,43ba76c5-44b0-4d40-ae94-6a599dae4153,4,Reading WFC,Pass,Recovery,Brooke Chaplen,33.3,77.3,36.6,70.9,,,False,False,True,0.0002812121730992887
+134,2275127,8f3c8559-19f1-4a8f-80e5-a1beb72307c6,4,Reading WFC,Carry,,Fara Williams,36.6,70.9,40.6,70.7,,,False,False,True,0.0029764118080983
+135,2275127,5124bb89-5cb6-496f-aef7-0165244b8a56,4,Reading WFC,Pass,,Fara Williams,40.6,70.7,36.2,76.7,,,False,False,True,-0.0032576239811975887
+137,2275127,3be32419-44d5-4c63-ab66-85db670df0b4,4,Reading WFC,Carry,,Jade Moore,36.2,76.7,36.4,76.4,,,False,False,True,0.0
+140,2275127,2cf9e093-7b2f-45ad-8e2b-305a13216bca,4,Everton LFC,Pass,Recovery,Gabrielle George,52.7,6.5,24.7,21.8,,,False,False,True,0.0008483560525566307
+142,2275127,5e637966-9ac1-4628-847c-6d766b0a9f5e,4,Everton LFC,Carry,,Tinja-Riikka Tellervo Korpela,24.7,21.8,23.6,24.5,,,False,False,True,0.0
+144,2275127,02c5b6cf-857e-4502-93be-3378d161b3f9,4,Everton LFC,Pass,,Tinja-Riikka Tellervo Korpela,23.6,24.5,28.5,9.2,,,False,False,True,-0.0008051923727497631
+146,2275127,415d6757-08d3-4294-938a-12f6d97142ae,4,Everton LFC,Carry,,Gabrielle George,28.5,9.2,43.1,4.1,,,False,False,True,0.002066971944052044
+151,2275127,e93eddc1-fbe1-413b-9b59-7abcbde5cd41,5,Everton LFC,Pass,Recovery,Danielle Turner,63.3,14.5,71.3,37.8,,,False,False,True,-0.004051270612182632
+153,2275127,8467593c-7799-4056-b2c4-079ef4e8e2d6,5,Everton LFC,Carry,,Molly Pike,71.3,37.8,71.1,37.4,,,False,False,True,0.0
+156,2275127,0954579f-29c9-4b55-ad88-9d565d6c9157,5,Reading WFC,Pass,Recovery,Sophie Howard,36.2,41.2,56.1,60.9,,,False,False,True,0.00815140600267147
+158,2275127,05ca28f5-d82e-46f9-8fec-f78843ed0484,5,Reading WFC,Carry,,Brooke Chaplen,56.1,60.9,79.4,56.0,,,False,False,True,0.043202990079650394
+163,2275127,63c56c2c-1fa6-4b05-8b58-a6151034882a,5,Reading WFC,Pass,,Fara Williams,77.8,58.5,108.9,41.6,,,False,False,True,0.1714741067101636
+167,2275127,8aa1ccbf-fcc0-410e-98dd-a646c56aea82,6,Everton LFC,Pass,Kick Off,Maéva Clemaron,60.0,40.0,63.8,38.7,,,False,False,True,0.0
+169,2275127,1690a06a-3562-4706-a23a-b7ed8e246b52,6,Everton LFC,Carry,,Chloe Kelly,63.8,38.7,72.6,25.6,,,False,False,True,0.006225394227932418
+175,2275127,d4c27dd5-a9bd-4e6f-9886-a07fa346c867,7,Everton LFC,Pass,Free Kick,Danielle Turner,59.3,1.7,42.3,4.1,,,False,False,True,0.0021101356238589115
+177,2275127,7866159c-a49c-4862-ae43-ab5d447ba8c5,7,Everton LFC,Carry,,Gabrielle George,42.3,4.1,51.1,8.8,,,False,False,True,-0.0031590148690612274
+186,2275127,1832ddf8-4ee7-41cb-9a51-094e365e2bf1,7,Everton LFC,Carry,,Lucy Hope,61.5,38.0,62.9,38.0,,,False,False,True,0.0
+191,2275127,370a1f37-93ee-4c68-9fca-7bfe5dc7e572,7,Reading WFC,Carry,,Grace Moloney,14.4,29.7,14.2,29.7,,,False,False,True,0.0
+192,2275127,ab348e7f-480f-410f-8a1c-615b51d3bb0b,7,Reading WFC,Pass,,Grace Moloney,14.2,29.7,23.5,61.4,,,False,False,True,-0.0007098106899666233
+194,2275127,724fc073-10b7-42bb-90d1-f8360b1602b8,7,Reading WFC,Carry,,Kristine Leine,23.5,61.4,44.8,61.8,,,False,False,True,-0.0012116090541085542
+195,2275127,24929640-e3bb-49c3-ba24-a9ee5d102479,7,Reading WFC,Pass,,Kristine Leine,44.8,61.8,51.2,78.4,,,False,False,True,-0.00030213102128722196
+197,2275127,f44a61fe-3975-4639-af4c-d3af7b4291bd,7,Reading WFC,Carry,,Natasha Harding,51.2,78.4,58.1,78.9,,,False,False,True,0.001262196069868766
+201,2275127,a4fb607c-8e1b-4879-bf89-13eb507775aa,8,Reading WFC,Pass,Free Kick,Natasha Harding,60.1,78.9,44.1,71.3,,,False,False,True,-0.0008079535075514403
+203,2275127,416848c6-0fc1-481e-81ea-b76f0d8ee318,8,Reading WFC,Carry,,Kristine Leine,44.1,71.3,44.6,69.1,,,False,False,True,0.0
+204,2275127,da3e0004-03a4-438b-b90c-5ba5c4ea66f3,8,Reading WFC,Pass,,Kristine Leine,44.6,69.1,44.4,32.5,,,False,False,True,0.002210254627402595
+206,2275127,bd5073ff-27cc-4032-b447-88b1c8f902d6,8,Reading WFC,Carry,,Sophie Howard,44.4,32.5,45.3,35.4,,,False,False,True,-0.008109067324480808
+208,2275127,2d7016dc-e819-4b0c-b00e-01bbb53808d6,8,Everton LFC,Pass,Recovery,Kika van Es,27.2,51.8,46.5,52.9,,,False,False,True,0.004439726346676632
+210,2275127,06cbc7c1-0854-4135-925b-e5a44b355074,8,Everton LFC,Carry,,Maéva Clemaron,46.5,52.9,45.6,56.9,,,False,False,True,0.0014604319344078444
+212,2275127,7a978f2c-9b5c-4b2a-8536-7e85eecb2e54,8,Everton LFC,Pass,,Maéva Clemaron,45.6,56.9,41.1,72.4,,,False,False,True,-0.0031964230385930405
+214,2275127,dabbfe56-0a01-42d4-84e5-86fc17637db2,8,Everton LFC,Carry,,Inessa Kaagman,41.1,72.4,41.4,69.1,,,False,False,True,0.0
+215,2275127,11fdaac5-59c0-413b-ab1d-bac2da4fc56e,8,Everton LFC,Pass,,Inessa Kaagman,41.4,69.1,29.6,68.0,,,False,False,True,-0.002352367146376282
+217,2275127,5920a1e1-44e1-4a80-a803-1f0b6b44b471,8,Everton LFC,Carry,,Kika van Es,29.6,68.0,32.3,68.4,,,False,False,True,-0.0006240446617220181
+221,2275127,f7b8b75a-e235-40e2-a352-4745503741df,8,Reading WFC,Pass,Recovery,Kristine Leine,13.5,20.1,3.6,37.6,,,False,False,True,-0.0010979663777381798
+223,2275127,e8874c29-d025-4d04-90ee-00212228f673,8,Reading WFC,Carry,,Grace Moloney,3.6,37.6,4.9,38.8,,,False,False,True,0.0
+228,2275127,1bb1807d-dfd9-4757-af33-37d49c4a6e0a,8,Reading WFC,Pass,Recovery,Jade Moore,34.2,41.2,43.9,37.0,,,False,False,True,-0.0009000219029904645
+230,2275127,7fdc107d-145c-4e4d-8295-3cd5c6df08bf,8,Reading WFC,Pass,,Remi Allen,43.0,38.3,44.4,50.9,,,False,False,True,0.0012005978404509227
+232,2275127,78dc2a2e-e3e6-4594-94a8-b735bf87c19d,8,Reading WFC,Carry,,Fara Williams,44.4,50.9,41.5,53.6,,,False,False,True,0.0010315699164710878
+236,2275127,da455169-e3b1-448d-9550-a06eb3d2c271,8,Everton LFC,Carry,,Chloe Kelly,81.1,25.6,91.3,21.4,,,False,False,True,0.0338693363374683
+245,2275127,85bec6c5-707e-4c7c-85ba-6c8877e03a69,9,Everton LFC,Pass,Recovery,Megan Finnigan,104.3,57.1,91.5,52.7,,,False,False,True,0.07269642311468653
+247,2275127,2648adaa-66e5-41de-a397-ccc85ed1323f,9,Everton LFC,Pass,,Maéva Clemaron,92.1,52.4,114.8,39.4,,,False,False,True,0.3098316935480633
+254,2275127,f2b2aff9-3a32-4bd5-a274-3236f8207d6b,10,Reading WFC,Pass,Kick Off,Fara Williams,61.0,40.1,60.6,27.9,,,False,False,True,0.0002927128641383274
+256,2275127,0ae1569e-dfab-49ac-bad6-0d25b716529d,10,Reading WFC,Carry,,Millie Laura Farrow,60.6,27.9,61.9,37.2,,,False,False,True,-0.0019959461199789592
+259,2275127,79fe1f0d-a593-4184-8014-98e8235ea84b,10,Everton LFC,Carry,,Molly Pike,53.3,32.3,54.0,32.5,,,False,False,True,0.0
+260,2275127,67596267-0573-44be-b61b-08634ceba9e0,10,Everton LFC,Pass,,Molly Pike,54.0,32.5,57.1,38.9,,,False,False,True,0.000849433407291102
+262,2275127,4bacf9b9-b79e-4606-bf7e-d5cb53bb76ab,10,Everton LFC,Carry,,Lucy Hope,57.1,38.9,64.2,40.0,,,False,False,True,0.005088710335186245
+266,2275127,b2a40127-cdfd-4384-9c89-1c40eaf3c7b9,10,Everton LFC,Pass,Free Kick,Lucy Hope,61.8,43.3,54.4,26.7,,,False,False,True,-0.007641376998317979
+268,2275127,68cd4f4e-6b42-4033-9f83-c546e410fbf5,10,Everton LFC,Carry,,Gabrielle George,54.4,26.7,70.0,6.3,,,False,False,True,0.009682302471794253
+270,2275127,3b433e01-259c-4db1-9456-87c16d7f3c8d,10,Everton LFC,Pass,,Gabrielle George,70.0,6.3,77.5,1.9,,,False,False,True,-0.01040928683004427
+273,2275127,8e66bc52-390e-46d8-8caa-fc389c2673d7,10,Everton LFC,Carry,,Danielle Turner,77.5,1.9,83.1,3.2,,,False,False,True,0.003417814007995552
+278,2275127,b0da98ab-64eb-4c3b-b909-87ab4bce199e,10,Everton LFC,Pass,Recovery,Chloe Kelly,73.7,3.9,61.3,4.5,,,False,False,True,-0.005145037709671193
+280,2275127,eceb710c-7c8e-4b3e-9810-d3fd81a8e126,10,Everton LFC,Pass,,Danielle Turner,59.1,5.0,66.4,9.6,,,False,False,True,0.0011770029999972759
+289,2275127,a3a21dab-a2f5-4d13-94ab-ddb72d6b6c86,11,Reading WFC,Pass,Recovery,Natasha Harding,15.8,71.6,3.6,55.8,,,False,False,True,0.0006454185379649777
+294,2275127,344c33cf-a43f-4514-a083-9be2927ac3af,11,Reading WFC,Carry,,Amalie Vevle Eikeland,55.0,42.1,85.2,50.3,,,False,False,True,-0.006807249385083959
+298,2275127,5adf50dd-d02b-4a25-aa63-df12df0f7dce,12,Reading WFC,Pass,Free Kick,Fara Williams,84.9,46.1,104.5,23.7,,,False,False,True,-0.015802098985805046
+300,2275127,b6661f7c-300c-4873-8a47-b0faee94fe86,12,Reading WFC,Carry,,Rachel Rowe,104.5,23.7,104.5,23.7,,,False,False,True,0.0
+304,2275127,05047a81-6269-4230-b45a-dc3aeb68ed63,12,Reading WFC,Carry,,Amalie Vevle Eikeland,62.5,14.1,64.1,14.6,,,False,False,True,0.0
+305,2275127,0bf74e51-0a70-49a0-b4ba-9fd47d7fbaaf,12,Reading WFC,Pass,,Amalie Vevle Eikeland,64.1,14.6,86.3,7.9,,,False,False,True,-0.0024498040478258386
+307,2275127,3a559855-ebf6-4955-875f-21c0b1c86c3e,12,Reading WFC,Carry,,Rachel Rowe,86.3,7.9,100.0,16.8,,,False,False,True,-0.007499443074880688
+310,2275127,554fa296-2828-4c1a-a4dc-4278c1da1334,12,Everton LFC,Carry,,Tinja-Riikka Tellervo Korpela,3.7,38.2,13.2,44.0,,,False,False,True,-0.0019647232693496973
+311,2275127,dfc94b6d-8590-40f9-877a-bd24f9504c72,12,Everton LFC,Pass,,Tinja-Riikka Tellervo Korpela,13.2,44.0,14.3,56.9,,,False,False,True,0.00015492141427017993
+313,2275127,716709e2-1cd0-4450-b9a8-4d4c1df448a9,12,Everton LFC,Carry,,Megan Finnigan,14.3,56.9,15.6,56.9,,,False,False,True,-0.00150056933380135
+314,2275127,4f12cd47-a503-4928-bddd-ffcb28f09eac,12,Everton LFC,Pass,,Megan Finnigan,15.6,56.9,36.3,54.4,,,False,False,True,0.0026476016854978927
+316,2275127,5e56ab2e-a94b-4212-95fd-dc50b42f337f,12,Everton LFC,Carry,,Maéva Clemaron,36.3,54.4,38.3,56.9,,,False,False,True,0.0013841215064958005
+320,2275127,2e5ed158-9ee6-4b52-9f82-84b886f94d1a,12,Reading WFC,Carry,,Rachel Rowe,76.3,16.4,78.3,18.1,,,False,False,True,0.0
+321,2275127,cd7050d2-23d8-43ea-a1e1-7e90ac24292a,12,Reading WFC,Pass,,Rachel Rowe,78.3,18.1,90.9,33.0,,,False,False,True,0.05435061373490047
+324,2275127,b3e88633-79af-42fd-831b-4b2fa4a29eb7,12,Reading WFC,Carry,,Fara Williams,90.9,33.0,90.7,30.8,,,False,False,True,0.0
+325,2275127,1f7ff36c-71da-48bc-8792-4c56b232a625,12,Reading WFC,Pass,,Fara Williams,90.7,30.8,99.8,33.9,,,False,False,True,0.132956164606414
+327,2275127,77aa0a24-f7d6-454f-8573-5409be8411dd,12,Reading WFC,Carry,,Millie Laura Farrow,99.8,33.9,100.3,36.8,,,False,False,True,0.0
+338,2275127,461cb21b-87f6-4446-98e1-fb8ed4e44940,13,Everton LFC,Carry,,Inessa Kaagman,10.1,14.3,10.5,13.4,,,False,False,True,0.0
+342,2275127,2340c468-f3f1-46e3-bb76-42e1e7bc4839,13,Everton LFC,Carry,,Inessa Kaagman,6.8,16.1,2.8,6.3,,,False,False,True,-0.004217615564553818
+349,2275127,10a97fc0-0ce3-4ed0-9935-206037d229ab,14,Reading WFC,Pass,Recovery,Kristine Leine,69.0,71.6,57.2,50.1,,,False,False,True,0.01679267624687861
+351,2275127,7b33e596-555a-4697-b8d7-348314c604bd,14,Reading WFC,Carry,,Sophie Howard,57.2,50.1,62.3,54.5,,,False,False,True,-0.021688448818211047
+354,2275127,fd846dde-e599-4885-9c9d-a10737d6286f,14,Reading WFC,Pass,,Sophie Howard,62.3,54.5,59.3,74.8,,,False,False,True,-0.00014450333933509977
+356,2275127,edd3e47c-2190-4fbb-8922-1cb868491247,14,Reading WFC,Carry,,Kristine Leine,59.3,74.8,49.7,75.1,,,False,False,True,-0.001262196069868766
+357,2275127,7f09636d-0f50-4d2d-98b9-ad54d90198d2,14,Reading WFC,Pass,,Kristine Leine,49.7,75.1,12.4,48.3,,,False,False,True,0.0009440217828147847
+359,2275127,5e191183-2cae-4414-b784-205ca0e76215,14,Reading WFC,Carry,,Grace Moloney,12.4,48.3,12.4,48.3,,,False,False,True,0.0
+360,2275127,12268991-5441-47b7-99d1-e8c80cb153df,14,Reading WFC,Pass,,Grace Moloney,12.4,48.3,26.8,75.6,,,False,False,True,-0.002149071425242274
+362,2275127,510ac14e-45bc-4bb7-8e25-c5e2f41ac2d5,14,Reading WFC,Carry,,Kristine Leine,26.8,75.6,22.9,68.7,,,False,False,True,0.0028380271619210663
+363,2275127,7fbd8c0a-8871-41a1-a4dd-0c52d057cd2e,14,Reading WFC,Pass,,Kristine Leine,22.9,68.7,12.2,48.1,,,False,False,True,-0.0006889557366787924
+373,2275127,ff31143a-b163-449f-8792-ac29a0391697,15,Reading WFC,Pass,Goal Kick,Grace Moloney,7.0,44.1,12.9,27.0,,,False,False,True,0.001583055139736108
+375,2275127,8b31c110-b497-4375-94ba-c6d1569e3250,15,Reading WFC,Carry,,Sophie Howard,12.9,27.0,17.1,23.9,,,False,False,True,0.0012746648699970458
+378,2275127,0eec0ded-67d2-4f9c-b3ec-298076ba6cd5,15,Everton LFC,Pass,Recovery,Maéva Clemaron,80.2,60.0,91.5,61.1,,,False,False,True,-0.05611305202797525
+380,2275127,256a100b-22e1-4ce7-9694-58aac4d18ac8,15,Everton LFC,Carry,,Lucy Hope,91.5,61.1,93.7,61.3,,,False,False,True,0.0
+385,2275127,8bc627cd-bebd-4e8d-87a4-f5669766111c,15,Reading WFC,Carry,,Sophie Howard,14.0,16.8,12.4,5.3,,,False,False,True,0.00016797065810480322
+390,2275127,efaa8d12-c60c-49ee-9a22-3c54705bafeb,15,Reading WFC,Carry,,Remi Allen,29.7,18.4,35.3,12.4,,,False,False,True,-0.0006788680182514273
+392,2275127,cc7630d1-fad3-42da-b68c-5b2a940577e6,15,Reading WFC,Pass,,Remi Allen,35.3,12.4,22.6,48.3,,,False,False,True,-0.002645612848517102
+394,2275127,49140d32-eaf6-4b24-8cbb-b0d7e93c4e20,15,Reading WFC,Carry,,Natasha Harding,22.6,48.3,22.0,54.7,,,False,False,True,-0.0011359988469955354
+400,2275127,fbe75c73-da26-4bc0-a890-a663af915f9b,15,Reading WFC,Pass,Recovery,Remi Allen,55.2,36.5,63.9,36.5,,,False,False,True,0.005088710335186245
+402,2275127,0205b446-460a-4e2a-9f05-a50e6c25d829,15,Reading WFC,Carry,,Millie Laura Farrow,63.9,36.5,63.9,36.5,,,False,False,True,0.0
+403,2275127,af72a74f-b7a8-4791-b5ad-e91485c86e10,15,Reading WFC,Pass,,Millie Laura Farrow,63.9,36.5,73.0,48.5,,,False,False,True,0.030863184747193642
+406,2275127,c6637c16-e5df-43e9-be57-0c2d6014fe11,15,Reading WFC,Carry,,Remi Allen,73.0,48.5,73.9,42.3,,,False,False,True,-0.0364642959130117
+407,2275127,d6b470a5-65f9-48fb-af9b-cfc737c6db61,15,Reading WFC,Pass,,Remi Allen,73.9,42.3,92.3,15.7,,,False,False,True,0.020251210294134892
+409,2275127,49696deb-a055-4568-b18b-1a7b08994bef,15,Reading WFC,Carry,,Amalie Vevle Eikeland,92.3,15.7,112.9,22.6,,,False,False,True,-0.01763826916044888
+413,2275127,3051baab-23fe-40f4-9570-6266de7d4f5f,16,Reading WFC,Pass,Corner,Fara Williams,120.0,0.1,118.4,39.0,,,False,False,True,0.3631794180469963
+417,2275127,6b531d94-a4be-4f4f-ab94-2ff313434cef,17,Everton LFC,Pass,Kick Off,Maéva Clemaron,60.0,40.0,51.8,40.9,,,False,False,True,-0.007054136291452186
+419,2275127,934736d6-29a8-4d78-85a9-ef33ce90f610,17,Everton LFC,Carry,,Lucy Hope,51.8,40.9,52.7,34.0,,,False,False,True,0.0019654259562659412
+421,2275127,53925c3f-48c6-4be5-a586-3fe27f9f7f4a,17,Everton LFC,Pass,,Lucy Hope,52.7,34.0,49.6,3.7,,,False,False,True,0.013406346300799342
+423,2275127,d7f8a8f4-adb2-4abd-b69f-71aa063bfa48,17,Everton LFC,Carry,,Danielle Turner,49.6,3.7,50.5,3.4,,,False,False,True,0.0
+424,2275127,6c2f8409-8d25-4c53-b53d-27dbed14919a,17,Everton LFC,Pass,,Danielle Turner,50.5,3.4,65.8,0.6,,,False,False,True,-0.009718514945967384
+427,2275127,c2910075-63c7-41a9-9340-a4a8006b79e3,17,Everton LFC,Carry,,Chloe Kelly,65.8,0.6,63.3,2.5,,,False,False,True,0.0
+431,2275127,2a46681d-b104-4b3e-ab54-136a47bca8ae,17,Everton LFC,Carry,,Chloe Kelly,63.3,2.5,82.2,3.2,,,False,False,True,-0.0052642491203730764
+435,2275127,906401e0-3fb2-46af-aefe-ef3d32b92392,18,Everton LFC,Pass,Throw-in,Danielle Turner,90.1,0.1,100.3,11.2,,,False,False,True,0.01268376581418637
+437,2275127,0e383a23-f36d-4d33-8cc1-000c6cd29e5d,18,Everton LFC,Carry,,Simone Magill,100.3,11.2,98.1,12.1,,,False,False,True,0.0
+442,2275127,8cc63fe6-4096-4e8a-9c1e-a88a38359069,18,Reading WFC,Pass,Recovery,Brooke Chaplen,35.3,76.4,37.3,68.0,,,False,False,True,0.0002812121730992887
+444,2275127,d645074a-1a7e-4ddc-99e5-c4c88f89146c,18,Reading WFC,Pass,,Fara Williams,37.5,68.7,45.7,78.0,,,False,False,True,-0.003985344665869859
+447,2275127,40988cd3-a203-4da1-aa8f-c32cb9d47414,18,Reading WFC,Carry,,Brooke Chaplen,45.7,78.0,41.7,77.1,,,False,False,True,0.00256659875785458
+448,2275127,426e984e-da2d-43ff-a81e-0ad00472cbbc,18,Reading WFC,Pass,,Brooke Chaplen,41.7,77.1,42.6,66.5,,,False,False,True,-0.002264467736567358
+452,2275127,6f2f96bd-6859-44bc-93ec-eca50777c151,18,Everton LFC,Pass,Free Kick,Gabrielle George,49.8,6.3,54.9,21.2,,,False,False,True,-0.013548982253653002
+454,2275127,5f066452-c305-4c14-8523-12b333977edd,18,Everton LFC,Carry,,Maéva Clemaron,54.9,21.2,42.5,21.4,,,False,False,True,-0.0025926106014660232
+455,2275127,209fa605-e860-41c8-92b4-4800354295f7,18,Everton LFC,Pass,,Maéva Clemaron,42.5,21.4,64.6,71.7,,,False,False,True,0.0018464641614903462
+457,2275127,636edcb7-076a-420e-950d-1246613fa32a,18,Everton LFC,Carry,,Inessa Kaagman,64.6,71.7,69.5,57.5,,,False,False,True,-0.009748712720637685
+460,2275127,3f6ff107-00d5-44f8-afa2-8b4cefcf2404,19,Reading WFC,Pass,Free Kick,Grace Moloney,24.6,33.4,31.3,65.4,,,False,False,True,-0.004970668107000969
+462,2275127,6a6c13f9-7d7c-4deb-a6d8-aded17900141,19,Reading WFC,Carry,,Kristine Leine,31.3,65.4,45.5,63.8,,,False,False,True,-0.000439712667939479
+465,2275127,1df7cfb7-a2a9-45f3-b1f1-5422f47a4fc7,19,Everton LFC,Pass,Recovery,Kika van Es,31.6,41.6,43.6,33.8,,,False,False,True,-0.0009000219029904645
+467,2275127,f28403d4-ca49-4086-8a04-2c14d0d4cbfd,19,Everton LFC,Carry,,Maéva Clemaron,43.6,33.8,46.2,34.9,,,False,False,True,-0.003858634042662924
+473,2275127,e39f220b-1812-43b8-89c9-bb65c821521d,19,Everton LFC,Carry,,Molly Pike,60.4,40.2,67.8,49.6,,,False,False,True,0.02915995149135301
+474,2275127,2bf36ff4-bcb3-48cc-87e2-c3c815564ed2,19,Everton LFC,Pass,,Molly Pike,67.8,49.6,71.3,65.3,,,False,False,True,-0.038098403715712284
+476,2275127,80d14bbb-8ae6-4393-b1b7-cd790e3ccc16,19,Everton LFC,Carry,,Inessa Kaagman,71.3,65.3,73.3,56.6,,,False,False,True,-0.008490986480134622
+482,2275127,521c63c6-e7d7-4045-8933-b35f895334dc,20,Everton LFC,Pass,Recovery,Chloe Kelly,56.9,1.9,61.3,15.4,,,False,False,True,0.0024909443436103226
+485,2275127,0bae1abe-8603-4daa-9688-d2428750d831,20,Everton LFC,Carry,,Lucy Hope,61.3,15.4,55.3,13.0,,,False,False,True,0.00409852101947001
+486,2275127,fba3a768-cb7e-46aa-bc65-5e43ed438679,20,Everton LFC,Pass,,Lucy Hope,55.3,13.0,62.9,5.2,,,False,False,True,-0.0023497749958199445
+489,2275127,8015be91-6ffb-43dd-9d7b-5a0275d32e6b,20,Everton LFC,Carry,,Chloe Kelly,62.9,5.2,64.2,6.1,,,False,False,True,0.0
+492,2275127,8e2e7669-577c-4791-b199-00eba41df8f0,20,Reading WFC,Pass,Recovery,Fara Williams,57.2,68.9,13.8,48.3,,,False,False,True,-0.0006450142150175005
+494,2275127,224aff3d-93eb-470c-8a79-d22e8f679476,20,Reading WFC,Carry,,Grace Moloney,13.8,48.3,14.0,47.8,,,False,False,True,0.0
+495,2275127,7bdb4f99-efe6-488b-863b-92e9c5ef7a48,20,Reading WFC,Pass,,Grace Moloney,14.0,47.8,22.9,32.5,,,False,False,True,0.006093725902287024
+497,2275127,54be58a3-c234-493f-8532-7eb84651d6e5,20,Reading WFC,Carry,,Sophie Howard,22.9,32.5,24.0,31.0,,,False,False,True,0.0
+498,2275127,bf08c610-a30b-4d05-9365-2a9c2f8e0075,20,Reading WFC,Pass,,Sophie Howard,24.0,31.0,40.6,6.6,,,False,False,True,0.0032445560085873418
+500,2275127,c7e4c08b-9fcc-4bc9-9548-d10eca7ff8d2,20,Reading WFC,Carry,,Rachel Rowe,40.6,6.6,35.3,7.7,,,False,False,True,-0.0063550814217936255
+502,2275127,9806fc3f-20cd-4dac-aadf-c8d68d0f556b,20,Reading WFC,Pass,,Rachel Rowe,35.3,7.7,21.1,27.4,,,False,False,True,0.00038164057252475063
+504,2275127,bbeef701-b6e6-4266-9114-38fa909b0457,20,Reading WFC,Carry,,Sophie Howard,21.1,27.4,20.6,15.9,,,False,False,True,0.0035068932905201198
+506,2275127,5dc0dbd0-3524-4979-b680-5a2dd8cbd9b5,20,Reading WFC,Pass,,Sophie Howard,20.6,15.9,41.7,9.7,,,False,False,True,-0.0016554256267846835
+508,2275127,97ed3d03-f297-45bb-b3ce-2c41dd495d83,20,Reading WFC,Pass,,Amalie Vevle Eikeland,41.7,9.7,58.3,23.7,,,False,False,True,0.002421060621249296
+511,2275127,09777a6f-fd24-4d2e-94cc-ba0cc45a08bf,20,Reading WFC,Carry,,Millie Laura Farrow,58.3,23.7,56.3,24.1,,,False,False,True,0.0
+515,2275127,a5e0feaa-0537-42b4-aab6-86f0e9e3a0ea,20,Everton LFC,Carry,,Chloe Kelly,70.0,48.9,72.4,51.5,,,False,False,True,0.0
+516,2275127,b563c75b-0c44-4216-9f76-9822bad452e1,20,Everton LFC,Pass,,Chloe Kelly,72.4,51.5,86.2,58.9,,,False,False,True,-0.040510165287744544
+518,2275127,57aadae8-e9ff-43a2-befb-5bf314862e81,20,Everton LFC,Carry,,Molly Pike,86.2,58.9,85.9,58.2,,,False,False,True,0.0
+519,2275127,8543e023-2cbc-4881-a1f9-d9fe511ab07a,20,Everton LFC,Pass,,Molly Pike,85.9,58.2,103.9,62.0,,,False,False,True,-0.0060792249081023635
+521,2275127,809cf623-625c-407c-8803-21fe3a24eeec,20,Everton LFC,Carry,,Simone Magill,103.9,62.0,116.5,58.2,,,False,False,True,0.0
+536,2275127,b6a77a24-a645-4891-be65-3bbec2f9c126,22,Reading WFC,Pass,Kick Off,Fara Williams,61.0,40.1,50.4,43.4,,,False,False,True,-0.008757369547292818
+538,2275127,2e8a4ef2-6b92-4d10-9fb4-8a4bdbec913f,22,Reading WFC,Carry,,Jade Moore,50.4,43.4,53.5,41.0,,,False,False,True,0.0011339638636434814
+549,2275127,e0f2bd77-f81c-4c13-a98a-3c81a116be5f,23,Reading WFC,Pass,Recovery,Amalie Vevle Eikeland,66.8,22.6,73.2,31.4,,,False,False,True,0.0026258082264273737
+553,2275127,6b621544-8fd8-493d-9911-1f9244181767,23,Everton LFC,Pass,Recovery,Gabrielle George,37.4,38.7,53.8,35.4,,,False,False,True,0.003098057700566475
+555,2275127,ff1671a5-d461-4921-8010-cdf14a8c8c6d,23,Everton LFC,Carry,,Molly Pike,53.8,35.4,52.9,30.9,,,False,False,True,-0.000849433407291102
+560,2275127,a0eeffee-a0c1-4cc8-8927-a2ef5093bc1e,23,Reading WFC,Carry,,Natasha Harding,56.1,63.6,58.8,62.3,,,False,False,True,0.0
+562,2275127,8182811b-f6fc-473e-8667-61b018411a9a,23,Reading WFC,Pass,,Natasha Harding,58.8,62.3,65.7,44.7,,,False,False,True,0.004519376756169039
+564,2275127,d0b4424b-cea9-4068-b75b-9d64d31460e3,23,Reading WFC,Carry,,Remi Allen,65.7,44.7,65.7,43.6,,,False,False,True,0.0
+565,2275127,5ba1ed9b-b5e7-4325-8011-0643b0477315,23,Reading WFC,Pass,,Remi Allen,65.7,43.6,77.4,44.5,,,False,False,True,0.00627933348952003
+568,2275127,a1a4d9a8-3b6a-402b-9e58-511997908b3b,23,Reading WFC,Carry,,Fara Williams,77.4,44.5,78.7,46.3,,,False,False,True,0.0
+572,2275127,ff50b4b6-7f23-45bd-adde-02f10092d474,23,Everton LFC,Carry,,Tinja-Riikka Tellervo Korpela,13.2,34.5,15.9,52.9,,,False,False,True,0.0003873982660523071
+584,2275127,6e369ac7-28e5-47d6-a291-737ab64d54cd,24,Reading WFC,Pass,Recovery,Rachel Rowe,58.1,10.4,76.7,17.5,,,False,False,True,0.03210768389897509
+586,2275127,711ef66c-3d34-472e-bed9-f23b9220dba4,24,Reading WFC,Pass,,Millie Laura Farrow,76.5,17.5,82.5,33.9,,,False,False,True,0.0011619373147590678
+590,2275127,65bf5c90-7bca-4df2-98f3-79de71805090,24,Reading WFC,Pass,,Brooke Chaplen,82.9,33.2,96.3,28.3,,,False,False,True,0.035074700621471874
+602,2275127,0f53d5b2-7b2c-456a-914e-94c852a5cfe8,25,Reading WFC,Carry,,Kristine Leine,55.9,65.6,42.4,63.4,,,False,False,True,-0.010694462895829284
+603,2275127,f89cc42e-7e45-4852-b761-f6a1f81a017b,25,Reading WFC,Pass,,Kristine Leine,42.4,63.4,14.2,41.9,,,False,False,True,0.001189127474626836
+605,2275127,03da42d1-0c8c-4fe0-8c37-e2dc0f7c2216,25,Reading WFC,Carry,,Grace Moloney,14.2,41.9,14.7,42.1,,,False,False,True,0.0
+608,2275127,c30b1c6c-359d-431f-bfbf-8efd41f7276a,25,Everton LFC,Pass,Free Kick,Gabrielle George,45.8,27.2,25.2,28.7,,,False,False,True,-2.9715879201024087e-05
+610,2275127,e55d2039-db29-4420-8fef-f0b9d911abd5,26,Everton LFC,Carry,,Tinja-Riikka Tellervo Korpela,25.2,28.7,28.1,28.5,,,False,False,True,0.0
+611,2275127,f05f4aa2-fba7-4823-95d7-5e1b1acbcd55,26,Everton LFC,Pass,,Tinja-Riikka Tellervo Korpela,28.1,28.5,38.7,20.7,,,False,False,True,-0.001048967157162824
+613,2275127,46cf0342-3c32-4d0f-989d-79a975666750,26,Everton LFC,Carry,,Gabrielle George,38.7,20.7,40.3,9.4,,,False,False,True,0.00017154998021672724
+620,2275127,8dc10d1c-6b06-411f-b8ee-06859da239f1,26,Reading WFC,Carry,,Brooke Chaplen,63.2,77.8,58.6,79.1,,,False,False,True,-0.0035311021035525332
+623,2275127,e32c20bb-b4bc-4df4-ab32-6f3cc1d6e861,26,Reading WFC,Pass,Recovery,Natasha Harding,55.2,78.2,59.0,72.2,,,False,False,True,0.00032683992796351917
+625,2275127,01f5e768-f30b-4754-a4f3-3db7ff44f2d0,26,Reading WFC,Carry,,Jade Moore,59.0,72.2,60.3,72.2,,,False,False,True,0.006246208691597046
+627,2275127,8cf50bc5-ace7-42b2-90a0-ad3ae45372a4,26,Reading WFC,Pass,,Jade Moore,60.3,72.2,69.6,76.9,,,False,False,True,0.008053264536345466
+630,2275127,1685ea51-e812-4dd7-8676-1b3e54609471,26,Reading WFC,Carry,,Brooke Chaplen,69.6,76.9,71.4,74.9,,,False,False,True,0.0
+633,2275127,c2b1498d-adfd-48f7-9ece-dfccdd42c48e,26,Everton LFC,Carry,,Gabrielle George,48.7,5.2,50.2,2.8,,,False,False,True,0.0
+635,2275127,2f1a4d54-2112-4928-b8a6-5956401a12dd,26,Everton LFC,Pass,,Gabrielle George,50.2,2.8,68.4,7.9,,,False,False,True,-0.0042435655065482525
+638,2275127,fd2c98dd-93f4-4686-b5cf-7001657585ac,26,Everton LFC,Carry,,Simone Magill,68.4,7.9,72.2,3.2,,,False,False,True,-0.00032991172974793787
+642,2275127,9f4b4a55-28f6-46e0-8778-bd9d3efb2b8b,27,Reading WFC,Pass,Goal Kick,Grace Moloney,7.0,36.1,10.9,23.5,,,False,False,True,0.0010979663777381798
+644,2275127,8210a624-64f1-456e-b63f-16e1550acf97,27,Reading WFC,Carry,,Sophie Howard,10.9,23.5,12.9,25.9,,,False,False,True,0.0
+645,2275127,70469afe-f456-4bd7-9bf5-094e53154a2a,27,Reading WFC,Pass,,Sophie Howard,12.9,25.9,5.8,38.8,,,False,False,True,-0.0010979663777381798
+647,2275127,93964bbf-2fa2-463c-8266-033819cf0af1,27,Reading WFC,Carry,,Grace Moloney,5.8,38.8,6.0,37.6,,,False,False,True,0.0
+649,2275127,d42ab7ad-9212-4790-b70e-021b8714e9a8,27,Reading WFC,Pass,,Grace Moloney,6.0,37.6,13.8,18.1,,,False,False,True,0.003198935469572648
+651,2275127,12ab19a0-de5a-4116-ad9c-80d645615cec,27,Reading WFC,Carry,,Sophie Howard,13.8,18.1,15.1,11.0,,,False,False,True,-0.003000500258749655
+653,2275127,2d843c6a-a144-4df9-9ebb-bf966f53415d,27,Reading WFC,Pass,,Sophie Howard,15.1,11.0,28.6,14.1,,,False,False,True,0.0009516733140602042
+655,2275127,67869bc4-0ea8-418c-a1f8-bf4a7ceccfe7,27,Reading WFC,Carry,,Amalie Vevle Eikeland,28.6,14.1,28.6,14.1,,,False,False,True,0.0
+658,2275127,3952dba9-2643-4d4a-b198-62498431a9e2,27,Everton LFC,Pass,Recovery,Kika van Es,89.3,71.3,89.5,66.2,,,False,False,True,0.016663254918443095
+660,2275127,cfcb16ad-e854-4aaa-bf63-1804a92d5e1e,27,Everton LFC,Carry,,Lucy Hope,89.5,66.2,89.5,65.5,,,False,False,True,0.0
+664,2275127,b30d4666-ed5d-4852-959b-753242932ac5,27,Everton LFC,Pass,Recovery,Inessa Kaagman,96.6,73.3,82.4,64.9,,,False,False,True,0.048154479354511316
+666,2275127,c665593d-a4fc-44fb-81a4-3d5aee409dcc,27,Everton LFC,Carry,,Lucy Hope,82.4,64.9,82.4,64.9,,,False,False,True,0.0
+670,2275127,d4a5e154-8cb0-4509-8e48-c217449e4dba,27,Reading WFC,Carry,,Sophie Howard,6.9,5.0,6.0,6.8,,,False,False,True,0.001936104482377913
+672,2275127,cab39f3c-fb1a-46ab-a769-feaa62737d65,27,Reading WFC,Pass,,Sophie Howard,6.0,6.8,10.0,25.2,,,False,False,True,0.0038879691980140407
+674,2275127,f3663e19-3116-4c02-a116-1677878c6e77,27,Reading WFC,Carry,,Kristine Leine,10.0,25.2,10.0,26.3,,,False,False,True,0.0
+676,2275127,f9d70b07-f434-48ff-a561-d951d5cd59a9,27,Reading WFC,Pass,,Kristine Leine,10.0,26.3,25.1,5.5,,,False,False,True,0.002190130948896014
+678,2275127,cea355fd-8767-48e9-bd22-42e6d984fe29,27,Reading WFC,Carry,,Rachel Rowe,25.1,5.5,25.3,6.2,,,False,False,True,0.0
+682,2275127,69b6cfe2-7265-42d0-948d-7e896d3dd7b5,27,Reading WFC,Carry,,Rachel Rowe,28.8,9.0,34.6,19.9,,,False,False,True,-0.0014640767121145894
+686,2275127,05cc257f-3656-43d2-ba10-78fa0d32f4b1,27,Reading WFC,Carry,,Rachel Rowe,34.6,19.9,36.8,24.6,,,False,False,True,0.00012925772200610836
+687,2275127,a9123778-7ee5-4c8d-a651-10c60d39cf00,27,Reading WFC,Pass,,Rachel Rowe,36.8,24.6,55.2,29.7,,,False,False,True,0.0009940809154389413
+689,2275127,3a759fce-cb78-409a-98b3-124b87c0e6c5,27,Reading WFC,Carry,,Fara Williams,55.2,29.7,81.4,42.5,,,False,False,True,0.013920710487838009
+690,2275127,80ca463a-8b0c-43fa-8bf3-bf8c9b7d52da,27,Reading WFC,Pass,,Fara Williams,81.4,42.5,108.9,28.6,,,False,False,True,0.039981404889004674
+692,2275127,620267d6-d05e-43b7-b4b0-8f985b0cd873,27,Reading WFC,Carry,,Amalie Vevle Eikeland,108.9,28.6,118.2,26.6,,,False,False,True,-0.05095214166649739
+714,2275127,8fd65b60-7f47-4706-9e80-46f49a63f1a1,28,Reading WFC,Pass,Recovery,Jade Moore,54.1,39.0,42.6,48.7,,,False,False,True,-0.005578263230353176
+716,2275127,093aed96-ad12-4317-ae59-99e02abab940,28,Reading WFC,Carry,,Kristine Leine,42.6,48.7,40.4,50.3,,,False,False,True,0.0
+717,2275127,c2b95997-b54e-43ab-b3e6-ba425f26fff6,28,Reading WFC,Pass,,Kristine Leine,40.4,50.3,8.2,42.3,,,False,False,True,-0.0016545053559914352
+719,2275127,a2581464-bc3a-4e64-b231-f8d2ae8e38ee,28,Reading WFC,Carry,,Grace Moloney,8.2,42.3,12.0,41.6,,,False,False,True,0.0
+720,2275127,e846ed2d-d50e-4f96-8fe7-82ac4dca2524,28,Reading WFC,Pass,,Grace Moloney,12.0,41.6,51.2,13.9,,,False,False,True,0.008028153690997136
+722,2275127,6b047a0b-0dee-4d30-a88a-e57d807d186f,28,Reading WFC,Carry,,Amalie Vevle Eikeland,51.2,13.9,49.5,14.8,,,False,False,True,0.0
+724,2275127,0f5834f8-e164-42cf-b75f-6f4d7321c061,28,Everton LFC,Pass,Recovery,Maéva Clemaron,64.6,50.4,82.8,33.1,,,False,False,True,0.043607834618337976
+729,2275127,17f8bc8a-8490-493e-a9d5-e74cd1aa35b9,29,Reading WFC,Carry,,Grace Moloney,9.1,41.6,12.2,42.3,,,False,False,True,0.0
+730,2275127,6dfe4625-0a58-4901-ba80-2b25fa60c92a,29,Reading WFC,Pass,,Grace Moloney,12.2,42.3,22.4,64.7,,,False,False,True,-0.0002606070410056745
+732,2275127,85c4d659-3b6d-4498-8ecf-b66a9c2860ee,29,Reading WFC,Carry,,Kristine Leine,22.4,64.7,42.6,77.1,,,False,False,True,0.0013359473029461964
+734,2275127,aa733956-ec53-4054-af23-ad185ce96709,29,Reading WFC,Pass,,Kristine Leine,42.6,77.1,73.6,76.4,,,False,False,True,0.013321910467920216
+737,2275127,04bc76b7-6b5e-47e6-92f6-2a18a97aacca,29,Reading WFC,Carry,,Fara Williams,73.6,76.4,74.1,77.6,,,False,False,True,0.0
+738,2275127,a752931a-679f-41ce-8bcf-804eef21f28f,29,Reading WFC,Pass,,Fara Williams,74.1,77.6,73.4,71.8,,,False,False,True,-0.009586037245238495
+740,2275127,546e8b99-eef6-45bb-883d-f228671157d7,29,Reading WFC,Carry,,Brooke Chaplen,73.4,71.8,104.9,62.7,,,False,False,True,-0.008215940011744655
+744,2275127,9129c170-d779-4dfd-9be5-bc8fdbb36b45,29,Everton LFC,Pass,Goal Kick,Tinja-Riikka Tellervo Korpela,6.0,36.0,9.2,17.0,,,False,False,True,0.003198935469572648
+746,2275127,ec002ea2-cda4-4835-8a05-3688768d2737,29,Everton LFC,Carry,,Gabrielle George,9.2,17.0,9.7,17.4,,,False,False,True,0.0
+752,2275127,916272e9-63ba-4deb-83f3-729fb07f9c0d,30,Reading WFC,Pass,Recovery,Remi Allen,61.0,66.2,69.4,57.6,,,False,False,True,-0.011449196704218206
+754,2275127,bb8ec798-0315-4ef1-b941-a5335ef383bc,30,Reading WFC,Carry,,Fara Williams,69.4,57.6,69.6,59.2,,,False,False,True,0.0
+758,2275127,4bc326ef-446a-4108-baea-b9b2144e6443,30,Everton LFC,Carry,,Inessa Kaagman,101.5,69.5,103.2,66.0,,,False,False,True,-0.00496214189042609
+764,2275127,f3a80c2a-ea3d-43ea-8c05-b7a1aa079811,30,Everton LFC,Carry,,Kika van Es,105.7,71.5,91.5,73.3,,,False,False,True,-0.024703722328519785
+765,2275127,8c538ae6-db82-4e6b-adb6-860ab1e3a8a1,30,Everton LFC,Pass,,Kika van Es,91.5,73.3,90.6,57.3,,,False,False,True,0.013444426692697325
+767,2275127,59bd00d2-75fa-4efa-ad2f-2bfc4b03b439,30,Everton LFC,Carry,,Molly Pike,90.6,57.3,90.6,56.0,,,False,False,True,0.0
+768,2275127,9900a77c-81e9-4f99-a4e1-e9c2bf5fde99,30,Everton LFC,Pass,,Molly Pike,90.6,56.0,88.6,70.8,,,False,False,True,-0.015279735292528476
+770,2275127,ab8fe06a-e2f0-4d60-b86b-592d4e042116,30,Everton LFC,Carry,,Kika van Es,88.6,70.8,84.2,69.3,,,False,False,True,0.0
+774,2275127,388bdbab-d162-49f2-a1fe-384ecf92116c,30,Reading WFC,Carry,,Grace Moloney,4.9,34.3,16.9,39.0,,,False,False,True,0.0031420203738873054
+775,2275127,069b4ba6-65b6-400f-a62c-07641fb669e3,30,Reading WFC,Pass,,Grace Moloney,16.9,39.0,16.6,61.8,,,False,False,True,-0.005367350684242677
+777,2275127,e074df95-f516-4c8d-95bf-d84d03b38676,30,Reading WFC,Carry,,Kristine Leine,16.6,61.8,22.9,66.9,,,False,False,True,0.0004023260645851937
+778,2275127,229f0f8c-ef3f-4f18-bae7-d953b9214785,30,Reading WFC,Pass,,Kristine Leine,22.9,66.9,40.2,78.2,,,False,False,True,0.0009336212383610027
+780,2275127,5c36411b-b964-4c59-b2f2-5cbe100c2b45,30,Reading WFC,Carry,,Natasha Harding,40.2,78.2,36.4,74.4,,,False,False,True,-0.0018388780731823096
+781,2275127,258e89c8-a49f-4921-acb0-dd7ad6bd2ace,30,Reading WFC,Pass,,Natasha Harding,36.4,74.4,25.7,37.4,,,False,False,True,0.00756359471327477
+783,2275127,7957cb3c-212b-4528-89ca-d77e8cec11bc,30,Reading WFC,Carry,,Sophie Howard,25.7,37.4,29.3,33.7,,,False,False,True,0.0
+785,2275127,3722e961-ad2c-4b76-9d0f-404c9ca17458,30,Reading WFC,Pass,,Sophie Howard,29.3,33.7,52.6,33.0,,,False,False,True,-0.00041672172297947327
+787,2275127,9045fa21-960e-4449-8fd1-1810d20a379d,30,Reading WFC,Carry,,Fara Williams,52.6,33.0,52.3,32.1,,,False,False,True,-0.000807130110664734
+788,2275127,0859e01d-bebd-44ca-ba3e-dd569aff3956,30,Reading WFC,Pass,,Fara Williams,52.3,32.1,47.5,43.2,,,False,False,True,-0.00030886243831010525
+790,2275127,3701cd36-3223-4557-8e43-6c95111af730,31,Reading WFC,Carry,,Remi Allen,47.5,43.2,54.1,42.5,,,False,False,True,0.0011339638636434814
+791,2275127,5fdd8b44-fd65-423c-a6f8-9191404b5548,31,Reading WFC,Pass,,Remi Allen,54.1,42.5,70.8,41.2,,,False,False,True,0.0003190612619906417
+793,2275127,0d7dd434-9500-4030-b800-e45c919aec0d,31,Reading WFC,Carry,,Millie Laura Farrow,70.8,41.2,72.5,56.0,,,False,False,True,-0.010125094282835204
+797,2275127,50999e5a-1a8d-4ca3-bd7f-615c761d6ee8,31,Everton LFC,Pass,Throw-in,Danielle Turner,25.0,0.1,32.5,14.5,,,False,False,True,7.1759456245681225e-06
+799,2275127,0203bdd4-eaa3-4d70-a265-bfe4e5e38a69,31,Everton LFC,Carry,,Lucy Hope,32.5,14.5,32.5,14.3,,,False,False,True,0.0
+800,2275127,2ca4d731-fc60-4135-a829-f1323feb7eaa,31,Everton LFC,Pass,,Lucy Hope,32.5,14.3,14.8,3.2,,,False,False,True,7.16328554186893e-05
+802,2275127,1595fb5c-2a53-4476-9139-9125639c93eb,31,Everton LFC,Carry,,Gabrielle George,14.8,3.2,16.3,1.0,,,False,False,True,-0.006565300897893216
+805,2275127,1cf43c7c-48d2-43d6-82bc-367f9a6f35df,31,Reading WFC,Carry,,Grace Moloney,14.7,62.3,20.4,63.4,,,False,False,True,-0.000374112298417681
+806,2275127,519431dc-fe48-40d4-ad54-cfba5158a2ab,31,Reading WFC,Pass,,Grace Moloney,20.4,63.4,45.5,50.3,,,False,False,True,0.004490684315146672
+808,2275127,b717870f-cbda-47bb-8e06-1fa8ff7bffef,31,Reading WFC,Carry,,Fara Williams,45.5,50.3,39.3,59.2,,,False,False,True,-0.0015440020016784742
+810,2275127,07ea107d-a319-49ed-89e4-c08b6ed08744,31,Reading WFC,Pass,,Fara Williams,39.3,59.2,41.3,77.6,,,False,False,True,-0.001610735010522001
+812,2275127,e6fdbdd3-a4a4-4c09-8878-319e00ecb305,31,Reading WFC,Carry,,Natasha Harding,41.3,77.6,41.3,76.2,,,False,False,True,0.0
+814,2275127,12b2d8ba-6b27-40f8-89a2-762697182609,31,Reading WFC,Pass,,Natasha Harding,41.3,76.2,35.5,63.4,,,False,False,True,0.0007540485330914913
+816,2275127,8e784b14-49a2-4d00-b87a-f8da41b161dc,31,Reading WFC,Carry,,Fara Williams,35.5,63.4,35.3,59.6,,,False,False,True,-0.0005274350290652907
+818,2275127,54f6e88a-ad5c-42c9-95e4-bce80f4854ff,31,Reading WFC,Pass,,Fara Williams,35.3,59.6,29.3,40.1,,,False,False,True,0.000509575400528409
+820,2275127,d2b298f8-e767-49f8-9c78-533824c05412,31,Reading WFC,Carry,,Sophie Howard,29.3,40.1,30.8,39.9,,,False,False,True,0.0023231817192830044
+821,2275127,d6736c38-9e99-439e-8c68-920f1ca5c7b7,31,Reading WFC,Pass,,Sophie Howard,30.8,39.9,43.5,44.7,,,False,False,True,-0.0030933516355950985
+823,2275127,f6ba7f6e-e7da-4023-87dc-ef897e4f94d0,31,Reading WFC,Carry,,Remi Allen,43.5,44.7,47.0,47.4,,,False,False,True,0.00318871802395796
+828,2275127,d1041f1f-91f7-4039-bdfc-7d5ac7c96fd6,31,Everton LFC,Carry,,Lucy Hope,57.8,30.7,62.0,33.6,,,False,False,True,0.005938143742477347
+829,2275127,94a6e408-e866-453f-a364-0ae2c825df46,31,Everton LFC,Pass,,Lucy Hope,62.0,33.6,77.1,27.2,,,False,False,True,0.00024420887576032807
+831,2275127,880b3bb0-e0a5-43ed-b71e-8ffa997da59c,31,Everton LFC,Carry,,Simone Magill,77.1,27.2,77.1,27.2,,,False,False,True,0.0
+833,2275127,e5db71c9-796b-4d9c-9abd-41a08d72ed2d,31,Reading WFC,Pass,Recovery,Kristine Leine,25.7,56.9,4.2,47.0,,,False,False,True,0.00045979398216789043
+835,2275127,db56a84c-bc94-4f93-a757-659a025df07a,31,Reading WFC,Carry,,Grace Moloney,4.2,47.0,4.2,47.0,,,False,False,True,0.0
+836,2275127,7925fe39-22a9-4864-abb2-ce66a2e61ba8,31,Reading WFC,Pass,,Grace Moloney,4.2,47.0,21.7,52.3,,,False,False,True,1.3955921101611608e-05
+838,2275127,acb960b6-eb13-40cc-8ae6-7b6a987dd0cd,31,Reading WFC,Carry,,Remi Allen,21.7,52.3,21.7,52.3,,,False,False,True,0.0
+839,2275127,9d70e6b7-343d-4aa1-a20c-cafb7a53120b,31,Reading WFC,Pass,,Remi Allen,21.7,52.3,22.0,76.9,,,False,False,True,0.0028784436253551766
+841,2275127,8716f7db-ea48-4cd5-8933-48635141fdf4,31,Reading WFC,Carry,,Kristine Leine,22.0,76.9,44.4,77.3,,,False,False,True,-0.0015323657059459197
+842,2275127,a4ff2ea4-58a1-483d-801d-11659a69298e,31,Reading WFC,Pass,,Kristine Leine,44.4,77.3,58.3,77.8,,,False,False,True,-0.0013044026879858138
+845,2275127,126e2697-ed6d-46c4-b048-a92fb4a35626,32,Reading WFC,Carry,,Natasha Harding,58.3,77.8,58.8,78.4,,,False,False,True,0.0
+848,2275127,e2a3127a-7f23-4b9e-a4ec-ce180713c6a7,32,Everton LFC,Pass,Recovery,Danielle Turner,54.0,3.7,63.1,8.5,,,False,False,True,0.0011770029999972759
+850,2275127,72efa172-14a1-49ca-b616-45ad5ef81be3,32,Everton LFC,Carry,,Maéva Clemaron,63.1,8.5,62.4,9.4,,,False,False,True,0.0
+851,2275127,fc5f9d89-b547-4bec-93fa-b872806c909a,32,Everton LFC,Pass,,Maéva Clemaron,62.4,9.4,61.3,1.2,,,False,False,True,0.003062687367263112
+853,2275127,36843a8f-d1b5-4825-bdb5-6efc2434c264,32,Everton LFC,Carry,,Chloe Kelly,61.3,1.2,61.3,1.2,,,False,False,True,0.0
+854,2275127,f0b75e6a-131e-485d-a9f5-5cb4b0ea3778,32,Everton LFC,Pass,,Chloe Kelly,61.3,1.2,61.3,13.2,,,False,False,True,-0.003062687367263112
+857,2275127,b4bb6566-1988-4318-982a-21b79408d180,32,Everton LFC,Carry,,Maéva Clemaron,61.3,13.2,59.5,11.4,,,False,False,True,0.0054124623630830565
+860,2275127,ad3f61bb-c097-445e-ba8d-c9948e26b5f8,32,Reading WFC,Carry,,Millie Laura Farrow,63.9,67.6,61.0,68.0,,,False,False,True,0.0
+864,2275127,b7288025-f1ef-46c1-9e69-d1438573c7e7,32,Reading WFC,Carry,,Fara Williams,65.0,61.8,86.7,50.7,,,False,False,True,-0.008450413068457603
+869,2275127,28d8c5fd-daa3-45d1-895a-dfae1394a47f,32,Reading WFC,Carry,,Millie Laura Farrow,95.8,35.0,98.7,38.1,,,False,False,True,0.12513409097118547
+872,2275127,007dc42c-3259-41d9-b9f6-b5344d113400,32,Reading WFC,Carry,,Millie Laura Farrow,98.7,38.1,104.5,37.0,,,False,False,True,0.0
+877,2275127,7b2ae0c4-71fb-4237-9136-258bb7167fbd,32,Everton LFC,Carry,,Megan Finnigan,13.9,52.7,18.1,56.6,,,False,False,True,-0.0007984112064318969
+882,2275127,c79b98c1-57c5-400f-9f62-b1eb8e30b928,32,Reading WFC,Carry,,Sophie Howard,63.4,21.0,77.0,4.8,,,False,False,True,-0.005924369975413964
+885,2275127,a1f1399c-d06e-4e9c-8f14-1701a1002f74,32,Reading WFC,Pass,,Sophie Howard,77.0,4.8,106.9,5.7,,,False,False,True,-0.006058410680870367
+890,2275127,9aef8ac9-183c-41ca-8a80-29d4e3a0800d,32,Reading WFC,Carry,,Amalie Vevle Eikeland,93.6,6.6,109.3,13.7,,,False,False,True,-0.009209823997953724
+896,2275127,4f24fc2d-ee76-4bb0-bd3d-0176d549dfb9,32,Everton LFC,Carry,,Kika van Es,6.8,68.0,4.3,75.1,,,False,False,True,-0.0003644518648412907
+903,2275127,034ea567-f362-4562-b58b-f10656f504e3,33,Reading WFC,Carry,,Kristine Leine,63.2,24.8,60.8,25.4,,,False,False,True,0.0
+904,2275127,b40e8d70-eec2-4fa6-b4bd-76e05032a678,33,Reading WFC,Pass,,Kristine Leine,60.8,25.4,55.9,43.2,,,False,False,True,-0.005179414302495305
+906,2275127,066dcd7a-c85c-440a-ba3d-18487b9f2a1c,33,Reading WFC,Carry,,Natasha Harding,55.9,43.2,56.3,41.6,,,False,False,True,0.0
+911,2275127,3f675166-59db-4d7a-b914-8f9a944026ae,33,Reading WFC,Carry,,Rachel Rowe,69.0,13.7,69.0,13.7,,,False,False,True,0.0
+912,2275127,6fdc88ba-3a31-45fb-89e1-1d4c35e69035,33,Reading WFC,Pass,,Rachel Rowe,69.0,13.7,61.7,23.5,,,False,False,True,0.0047668789485319826
+914,2275127,30e943be-6535-4e77-be75-e2e4c1a16f89,33,Reading WFC,Pass,,Sophie Howard,61.7,24.1,67.6,12.1,,,False,False,True,0.004814828584378244
+917,2275127,46020222-aa2d-4d86-b69e-17595149908c,33,Reading WFC,Carry,,Rachel Rowe,67.6,12.1,69.4,13.9,,,False,False,True,-0.009581707532910226
+918,2275127,f43373da-1063-4013-ad68-960d1ecec02b,33,Reading WFC,Pass,,Rachel Rowe,69.4,13.9,86.9,9.0,,,False,False,True,-9.179197798480851e-05
+920,2275127,39877435-dd01-4212-b391-d209427df3f0,33,Reading WFC,Carry,,Amalie Vevle Eikeland,86.9,9.0,116.6,24.1,,,False,False,True,0.0026112590196981384
+925,2275127,d10e90f1-e53a-4e63-accd-a82b3cbaf709,33,Reading WFC,Carry,,Rachel Rowe,92.7,17.2,92.4,22.4,,,False,False,True,0.031430738252850456
+928,2275127,9f3b11de-2e7b-449a-ab9e-7d6d55175908,33,Everton LFC,Pass,Goal Kick,Tinja-Riikka Tellervo Korpela,6.0,36.0,37.4,2.3,,,False,False,True,0.0037173684602456337
+930,2275127,58028eea-b3fd-4f29-ae98-6762277a0522,33,Everton LFC,Pass,,Danielle Turner,37.6,2.3,62.4,10.8,,,False,False,True,-0.0009331326238616357
+933,2275127,e2fb8495-6974-4b3f-94dc-60a901619bc8,33,Everton LFC,Carry,,Simone Magill,62.4,10.8,62.0,10.1,,,False,False,True,0.0
+936,2275127,cf9b2258-cb90-47e8-ba1d-316c6ee04e10,34,Everton LFC,Pass,Free Kick,Gabrielle George,61.8,5.7,70.6,1.7,,,False,False,True,0.005145037709671193
+938,2275127,5a1e5763-84cf-4afc-9c74-a419c1e7bc9e,34,Everton LFC,Pass,,Danielle Turner,70.6,1.7,62.4,2.5,,,False,False,True,-0.005145037709671193
+940,2275127,e840034f-b402-4d2d-9b97-f3a2aa3f8a87,34,Everton LFC,Carry,,Gabrielle George,62.4,2.5,63.3,2.1,,,False,False,True,0.0
+942,2275127,cd8db42e-04b5-4427-8392-8531a0f2ec54,34,Everton LFC,Pass,,Gabrielle George,63.3,2.1,72.4,6.8,,,False,False,True,0.005474949439419131
+944,2275127,939c2180-a5df-4b4e-9a79-8ad2f4879682,34,Everton LFC,Carry,,Chloe Kelly,72.4,6.8,72.9,6.5,,,False,False,True,-0.00032991172974793787
+951,2275127,f76c9c95-95ad-4661-9058-572d2d3b8954,34,Reading WFC,Carry,,Jade Moore,40.6,47.8,37.3,49.8,,,False,False,True,-0.0009831618734678256
+953,2275127,4190a999-dbbd-4ecd-a1c0-10502bdd2b7a,34,Reading WFC,Pass,,Jade Moore,37.3,49.8,43.0,45.8,,,False,False,True,0.0003700157676594278
+955,2275127,6a90f3ac-0044-4220-afe3-4aa0bd9ee9cf,34,Reading WFC,Carry,,Remi Allen,43.0,45.8,46.8,47.8,,,False,False,True,0.00318871802395796
+956,2275127,dd33da9a-9cab-46f9-b4f0-c5b3427c9f8a,34,Reading WFC,Pass,,Remi Allen,46.8,47.8,59.9,61.8,,,False,False,True,0.005275258147061451
+958,2275127,5cd23a85-3e26-4a6a-a420-c5e403aee281,34,Reading WFC,Carry,,Fara Williams,59.9,61.8,64.1,62.7,,,False,False,True,-0.0014608652441066537
+960,2275127,70069abb-70bb-4c1c-8734-bca0f4898c88,34,Reading WFC,Pass,,Fara Williams,64.1,62.7,97.8,21.7,,,False,False,True,0.006815388063200572
+962,2275127,d02a7c19-9a68-4a55-8add-c0a78c933a5c,34,Reading WFC,Carry,,Amalie Vevle Eikeland,97.8,21.7,113.1,17.2,,,False,False,True,-0.013009918084179593
+967,2275127,3b38727e-d627-4f71-9c8d-dbdf385f5dea,35,Everton LFC,Pass,Goal Kick,Tinja-Riikka Tellervo Korpela,6.0,36.0,7.7,26.5,,,False,False,True,0.0010979663777381798
+969,2275127,44a6243b-120b-4b63-be65-101d16e94f50,35,Everton LFC,Carry,,Gabrielle George,7.7,26.5,9.4,24.9,,,False,False,True,0.0
+971,2275127,968dd62f-9ebb-4303-a27b-a70435603bee,35,Everton LFC,Pass,,Gabrielle George,9.4,24.9,42.9,5.2,,,False,False,True,0.0057283555506872155
+973,2275127,b9eee152-deb6-4df2-8981-71cbc56def10,35,Everton LFC,Carry,,Danielle Turner,42.9,5.2,43.1,5.0,,,False,False,True,0.0
+974,2275127,93040252-795a-409d-bc7a-e3e3b001cf43,35,Everton LFC,Pass,,Danielle Turner,43.1,5.0,56.0,19.6,,,False,False,True,-0.0011670612114049461
+976,2275127,9afe4488-bc37-42db-985f-d4079d7febeb,35,Everton LFC,Carry,,Simone Magill,56.0,19.6,57.1,19.2,,,False,False,True,0.0
+978,2275127,0a1ea0d4-42a8-4120-888a-35fd50ddce5c,35,Reading WFC,Pass,Recovery,Remi Allen,67.6,65.4,77.0,47.2,,,False,False,True,0.012730097218708724
+980,2275127,41481451-a2f6-4115-9a1e-7d0efff80543,35,Reading WFC,Carry,,Fara Williams,77.0,47.2,77.0,47.2,,,False,False,True,0.0
+983,2275127,97975d36-576d-4a19-a6ae-a8e2f4ca77e5,35,Everton LFC,Pass,Recovery,Molly Pike,48.9,26.0,40.3,30.0,,,False,False,True,-0.0007788360896264883
+985,2275127,d890a9f9-729f-484a-b8cf-18191daf3c1c,35,Everton LFC,Carry,,Maéva Clemaron,40.3,30.0,41.1,28.9,,,False,False,True,0.0
+986,2275127,5b02307b-e03f-41bb-b4a4-96f8898d7f32,35,Everton LFC,Pass,,Maéva Clemaron,41.1,28.9,55.3,33.1,,,False,False,True,0.0016789943816951126
+988,2275127,1dd381d9-67b0-4685-90c8-6add51ec824a,35,Everton LFC,Carry,,Simone Magill,55.3,33.1,57.3,30.7,,,False,False,True,0.0
+993,2275127,e34ede47-f8f9-43d6-bb89-a5ac4ed6343c,35,Reading WFC,Carry,,Remi Allen,63.4,56.9,63.4,61.8,,,False,False,True,0.008129029263805987
+994,2275127,b315c78e-bf46-460b-945e-1a74fa8860ac,35,Reading WFC,Pass,,Remi Allen,63.4,61.8,78.7,61.4,,,False,False,True,0.05520282487699103
+996,2275127,b2248368-0355-4909-85a1-ae9402300b29,35,Reading WFC,Carry,,Brooke Chaplen,78.7,61.4,78.3,61.4,,,False,False,True,0.0
+997,2275127,97334d5f-1e92-455b-a8c5-7e1dbe4201ff,35,Reading WFC,Pass,,Brooke Chaplen,78.3,61.4,69.2,78.4,,,False,False,True,-0.048850044324226086
+999,2275127,1d0377d1-f150-46f9-af66-eed3affabbaa,36,Reading WFC,Carry,,Natasha Harding,69.2,78.4,92.7,77.3,,,False,False,True,0.007368383742603738
+1003,2275127,1c01c9ed-a99f-406c-8f23-8c2a7aa945a5,36,Reading WFC,Pass,Free Kick,Fara Williams,92.3,77.8,110.9,49.2,,,False,False,True,0.1322508090004131
+1009,2275127,03760809-8cca-4719-a311-163107c8a092,37,Everton LFC,Pass,Recovery,Lucy Hope,41.6,52.0,46.7,71.5,,,False,False,True,0.00015796299772696636
+1011,2275127,9325b049-2f1a-492b-81fc-b24f17aa620d,37,Everton LFC,Carry,,Kika van Es,46.7,71.5,50.0,71.9,,,False,False,True,0.0
+1016,2275127,c1f5e33a-5056-42f4-ac95-0e9f75a0af3f,37,Everton LFC,Pass,Throw-in,Kika van Es,12.1,80.0,32.1,70.0,,,False,False,True,0.002192528569546165
+1020,2275127,508acc94-a628-48e8-a595-991dc1ffc390,38,Reading WFC,Pass,Recovery,Kristine Leine,55.0,18.6,20.2,35.9,,,False,False,True,-0.002517240343133144
+1022,2275127,7a0d3418-c133-4a4b-9c8c-a8b798ecce4d,38,Reading WFC,Carry,,Grace Moloney,20.2,35.9,28.0,33.7,,,False,False,True,0.0016933132587959795
+1023,2275127,7de2a1f2-2545-47f0-b227-09735129fc63,38,Reading WFC,Pass,,Grace Moloney,28.0,33.7,70.8,23.0,,,False,False,True,0.011746816247430292
+1025,2275127,bccc0252-a7d2-4af2-975f-ec35e28f4ded,38,Reading WFC,Carry,,Millie Laura Farrow,70.8,23.0,70.8,23.0,,,False,False,True,0.0
+1028,2275127,14d7a745-f28e-4f69-b09b-d1bc29d4c176,38,Everton LFC,Pass,Interception,Maéva Clemaron,46.7,44.5,41.4,42.2,,,False,False,True,-0.004225983379895632
+1030,2275127,2fe8df0d-1771-4c98-b8b0-0dfe85f76913,38,Everton LFC,Carry,,Megan Finnigan,41.4,42.2,41.4,42.2,,,False,False,True,0.0
+1031,2275127,423d8a2e-b07a-458e-ad10-80c515a8fbf2,38,Everton LFC,Pass,,Megan Finnigan,41.4,42.2,45.1,38.9,,,False,False,True,-0.004446085777305449
+1033,2275127,a1598d47-c86a-4722-9e99-afe7ecc218dd,38,Everton LFC,Carry,,Molly Pike,45.1,38.9,45.1,38.9,,,False,False,True,0.0
+1037,2275127,e5cf05c9-7b22-4ab2-afc3-60beb82da7f7,38,Reading WFC,Carry,,Remi Allen,66.5,29.9,71.6,31.9,,,False,False,True,-0.00011089601886498518
+1043,2275127,f2ca861c-5620-40a2-8ee1-8623480996b5,38,Everton LFC,Carry,,Inessa Kaagman,49.3,59.8,48.2,62.9,,,False,False,True,-0.004300833081456307
+1044,2275127,a5c10cc6-70ae-4490-9fd8-7ba5ce101fba,38,Everton LFC,Pass,,Inessa Kaagman,48.2,62.9,31.8,67.3,,,False,False,True,-0.0018720017652350332
+1047,2275127,ef70a21b-b9e3-496f-8142-a634709e884e,38,Everton LFC,Carry,,Kika van Es,31.8,67.3,26.7,75.1,,,False,False,True,-0.002213982500199048
+1050,2275127,adf1dcf4-3368-4024-8d2b-e42d66145ca6,38,Reading WFC,Pass,Recovery,Sophie Howard,34.8,6.4,8.7,36.3,,,False,False,True,-0.006340227653116373
+1052,2275127,b79b92e9-1776-4e74-a7a6-d9ec888d5cc6,38,Reading WFC,Carry,,Grace Moloney,8.7,36.3,20.4,43.0,,,False,False,True,0.0002055898412909509
+1056,2275127,00dc7e06-d10c-44ff-93b4-951058d7ac8d,38,Everton LFC,Pass,Recovery,Danielle Turner,54.9,15.2,77.1,13.9,,,False,False,True,0.03775407484960146
+1058,2275127,43d039ab-9ad5-49a2-a4a4-d286d8d10207,38,Everton LFC,Carry,,Chloe Kelly,77.1,13.9,118.3,22.9,,,False,False,True,-0.0360447499465728
+1062,2275127,59beab1c-c03c-4b78-9528-4935f0c56ac9,39,Reading WFC,Pass,Goal Kick,Grace Moloney,7.0,44.1,12.7,25.9,,,False,False,True,0.003913452517375644
+1064,2275127,dc436cd9-fe90-4058-84da-dd447f3ebd4b,39,Reading WFC,Carry,,Sophie Howard,12.7,25.9,14.7,24.3,,,False,False,True,0.0
+1066,2275127,ec8648d2-38be-42b7-88c1-53e21645e2c6,39,Reading WFC,Pass,,Sophie Howard,14.7,24.3,56.1,23.5,,,False,False,True,0.004027442986403073
+1074,2275127,4e7ee551-c219-4a06-928d-8175a75beccb,39,Reading WFC,Carry,,Sophie Howard,22.2,9.0,17.2,4.7,,,False,False,True,-0.0033968299810387577
+1078,2275127,dbd8c570-3c2d-4a03-b0b4-3a88ccfeab29,39,Everton LFC,Carry,,Kika van Es,71.1,72.1,72.2,56.2,,,False,False,True,-0.008215940011744655
+1082,2275127,2f3ec380-56ef-4105-a07a-00202f68b05c,39,Reading WFC,Carry,,Jade Moore,41.6,29.0,64.1,39.9,,,False,False,True,0.0076171381241724595
+1091,2275127,dcf81719-a8da-4cf5-9d06-5a94b60a09c9,39,Everton LFC,Pass,Recovery,Gabrielle George,34.0,28.9,11.7,32.5,,,False,False,True,-0.0031315585093801383
+1093,2275127,5075f0ea-a321-4e64-9182-adfd7b4cd79c,39,Everton LFC,Carry,,Tinja-Riikka Tellervo Korpela,11.7,32.5,12.8,36.2,,,False,False,True,-0.0013904281929693835
+1097,2275127,f286be23-7c2f-4df0-bf3a-31a9e5451747,40,Reading WFC,Pass,Throw-in,Rachel Rowe,50.6,0.1,64.3,6.6,,,False,False,True,-0.009718514945967384
+1101,2275127,96ad495b-47da-41d2-aabf-c4b76df12ac1,40,Everton LFC,Carry,,Kika van Es,47.8,72.2,49.1,72.4,,,False,False,True,0.0
+1102,2275127,20c99ebe-8a2c-47bb-af88-3659c6becc1b,40,Everton LFC,Pass,,Kika van Es,49.1,72.4,57.3,64.6,,,False,False,True,0.007692867067484047
+1104,2275127,4e0d78b4-052b-4986-a3dd-1f2d05aec45f,40,Everton LFC,Carry,,Lucy Hope,57.3,64.6,57.1,64.9,,,False,False,True,0.0
+1105,2275127,dbf81e96-5119-4a76-a5d0-0c04df58a030,40,Everton LFC,Pass,,Lucy Hope,57.1,64.9,56.0,75.9,,,False,False,True,-0.00973439784724774
+1114,2275127,16650608-94bb-4dfb-90a5-f47817479177,40,Reading WFC,Pass,Recovery,Kristine Leine,40.2,25.4,49.7,27.7,,,False,False,True,0.0010786830363638481
+1116,2275127,0ee0a372-2dfc-4b2f-8ed9-6bbf8171b1d3,40,Reading WFC,Carry,,Remi Allen,49.7,27.7,47.0,29.2,,,False,False,True,0.0
+1118,2275127,327f3b8b-2d91-4b0f-a0ba-53270b8ad3f3,40,Reading WFC,Pass,,Remi Allen,47.0,29.2,43.7,43.6,,,False,False,True,-0.0045348458182057376
+1121,2275127,1ce7f768-b9b7-4875-bd1b-abbb5604bfe9,40,Reading WFC,Carry,,Natasha Harding,43.7,43.6,43.7,47.6,,,False,False,True,0.0006131461058083978
+1126,2275127,38127900-21cd-45e9-a0aa-b4b7be3a8cb1,40,Reading WFC,Carry,,Fara Williams,70.8,23.9,70.8,23.7,,,False,False,True,0.0
+1127,2275127,4f4f5a91-1cc8-4a7c-824c-25cebc46d37d,40,Reading WFC,Pass,,Fara Williams,70.8,23.7,51.7,21.0,,,False,False,True,-0.01306369626247839
+1129,2275127,03ee2da4-275d-40ab-b97a-e6222bc4bcf9,40,Reading WFC,Carry,,Sophie Howard,51.7,21.0,47.9,26.8,,,False,False,True,9.302818140389038e-05
+1130,2275127,b35f57a4-347f-475f-be75-b02fc047baf3,40,Reading WFC,Pass,,Sophie Howard,47.9,26.8,39.7,47.2,,,False,False,True,-0.00392169971239734
+1132,2275127,c412a97a-d248-42b9-9e2a-38ca94e4bc68,40,Reading WFC,Carry,,Kristine Leine,39.7,47.2,54.3,50.5,,,False,False,True,0.01994938437550942
+1133,2275127,4ccc08aa-6ec5-4df4-8232-80d23019dc6a,40,Reading WFC,Pass,,Kristine Leine,54.3,50.5,83.2,78.9,,,False,False,True,0.001778158357755421
+1135,2275127,042464d8-b3ba-4999-b69d-6635e9bfa88e,40,Reading WFC,Carry,,Natasha Harding,83.2,78.9,82.3,78.0,,,False,False,True,-0.010714872949052531
+1139,2275127,3b9a1282-c31f-4408-83ad-019fd9faadc7,40,Reading WFC,Carry,,Natasha Harding,82.3,78.0,89.4,78.0,,,False,False,True,0.010714872949052531
+1141,2275127,55310f3a-f82b-4117-a7bc-0aaba3f67631,40,Reading WFC,Pass,,Natasha Harding,89.4,78.0,99.8,54.9,,,False,False,True,0.08432007872087154
+1143,2275127,25eb6d30-e4cc-4652-baeb-bc2101e44656,40,Reading WFC,Carry,,Millie Laura Farrow,99.8,54.9,100.0,41.6,,,False,False,True,-0.04029993415697475
+1145,2275127,d307f8c5-3043-4dd8-af22-76bcfbd97b41,40,Reading WFC,Pass,,Millie Laura Farrow,100.0,41.6,100.7,31.2,,,False,False,True,-0.004633905638972438
+1147,2275127,7bbf3da5-8565-4aa1-b257-0d1745705451,40,Reading WFC,Carry,,Amalie Vevle Eikeland,100.7,31.2,106.4,29.7,,,False,False,True,-0.0024828364582844265
+1155,2275127,a6631fc1-f436-4341-9b4e-27fb3387e40b,41,Everton LFC,Pass,Recovery,Simone Magill,14.1,4.5,51.1,5.7,,,False,False,True,0.015307485490116804
+1157,2275127,e6012987-ca35-4d56-8d1f-437726d02e4e,41,Everton LFC,Carry,,Chloe Kelly,51.1,5.7,55.3,2.8,,,False,False,True,-0.013958205313227771
+1161,2275127,556ae99d-df81-4216-af63-0e25705bdc47,41,Everton LFC,Carry,,Chloe Kelly,55.3,2.8,85.7,11.9,,,False,False,True,4.1140295784483985e-05
+1165,2275127,f52d4a40-9f78-4749-ad62-6e6ba31fbf01,42,Everton LFC,Pass,Recovery,Inessa Kaagman,61.5,53.3,66.6,47.3,,,False,False,True,0.0
+1167,2275127,954e5ccb-229c-4d4f-869a-3192162329bd,42,Everton LFC,Carry,,Lucy Hope,66.6,47.3,66.6,47.3,,,False,False,True,0.0
+1168,2275127,c83d60c5-092b-4955-a29a-c231084637c5,42,Everton LFC,Pass,,Lucy Hope,66.6,47.3,81.9,47.1,,,False,False,True,-0.0032297801593412917
+1171,2275127,bf8fb2de-3c14-45ee-80b9-e87440454721,42,Everton LFC,Carry,,Simone Magill,81.9,47.1,82.8,52.0,,,False,False,True,-0.018222300063082744
+1175,2275127,990f8cbe-a76a-4958-a3f5-89879cbbbe86,42,Everton LFC,Carry,,Inessa Kaagman,93.0,72.8,91.0,67.7,,,False,False,True,0.0
+1179,2275127,117da90a-9163-4ce3-90bb-4fb8a346545c,42,Everton LFC,Pass,Recovery,Maéva Clemaron,83.5,30.5,95.0,27.6,,,False,False,True,0.035074700621471874
+1181,2275127,baa17926-92b1-4f8a-bb04-c99383d12505,42,Everton LFC,Carry,,Molly Pike,95.0,27.6,93.3,27.2,,,False,False,True,0.0
+1183,2275127,addc0dff-518a-422a-b511-09cf5aec4bbb,42,Everton LFC,Pass,,Molly Pike,93.3,27.2,90.1,30.9,,,False,False,True,0.0
+1185,2275127,7b3d186e-959f-4956-a53f-228c392b7bec,42,Everton LFC,Carry,,Chloe Kelly,90.1,30.9,117.9,19.0,,,False,False,True,-0.0978787324147553
+1188,2275127,19f5471a-5e7a-4d8d-92b9-ec5e5f8264c2,42,Reading WFC,Pass,Goal Kick,Grace Moloney,7.0,44.1,13.5,63.4,,,False,False,True,0.000964268127699773
+1191,2275127,b62f86ab-f1f7-4bc0-8d0e-6fd19fe754d4,42,Reading WFC,Carry,,Kristine Leine,13.5,63.4,13.3,65.6,,,False,False,True,0.0
+1192,2275127,3002cecf-79c1-4ee2-8829-52f256a62ae5,42,Reading WFC,Pass,,Kristine Leine,13.3,65.6,26.6,60.0,,,False,False,True,-0.0008579928181502434
+1195,2275127,9e081714-67c2-41de-9b0f-8f833798f09a,42,Reading WFC,Carry,,Jade Moore,26.6,60.0,26.0,71.1,,,False,False,True,0.0008862065843177561
+1196,2275127,a446a11b-b070-4e60-aeb6-a8829aa3a5c3,42,Reading WFC,Pass,,Jade Moore,26.0,71.1,58.1,67.4,,,False,False,True,-4.3941521661291887e-05
+1199,2275127,96441469-775c-497b-abcd-f7ca30487cd7,42,Reading WFC,Carry,,Brooke Chaplen,58.1,67.4,52.1,72.0,,,False,False,True,0.0017146908518001743
+1200,2275127,92c61161-e33f-4882-b6ab-e978f1e140c3,42,Reading WFC,Pass,,Brooke Chaplen,52.1,72.0,55.0,77.8,,,False,False,True,-0.0020415307797636935
+1202,2275127,a21d05f1-aef7-41ac-abd5-709cad1e17d5,42,Reading WFC,Pass,,Natasha Harding,55.0,77.8,48.6,62.7,,,False,False,True,0.0016187385531378261
+1204,2275127,44144a8b-5973-451f-bb86-40c1032f8ace,43,Reading WFC,Carry,,Jade Moore,48.6,62.7,42.4,60.5,,,False,False,True,-0.0025788036017193702
+1205,2275127,c706d061-2e18-4060-8b09-fd65b184652e,43,Reading WFC,Pass,,Jade Moore,42.4,60.5,38.4,37.6,,,False,False,True,0.0016430349901673485
+1207,2275127,4f869bcd-75b4-4eae-9148-910fde61ff32,43,Reading WFC,Carry,,Sophie Howard,38.4,37.6,40.2,38.5,,,False,False,True,0.0
+1215,2275127,9d4bcf70-7327-4d19-81e1-623dd3125cc9,43,Reading WFC,Pass,Recovery,Sophie Howard,32.6,10.4,51.0,14.6,,,False,False,True,0.005592189915015669
+1217,2275127,699d31b7-6559-475b-a749-47b6d8c3f47d,43,Reading WFC,Pass,,Fara Williams,52.3,15.0,47.7,6.6,,,False,False,True,0.012610961196146816
+1219,2275127,b3c4f0c4-b174-4fc2-81e0-0e5761edc4b6,43,Reading WFC,Carry,,Amalie Vevle Eikeland,47.7,6.6,48.1,12.8,,,False,False,True,-0.015007084558430087
+1220,2275127,297d4ef6-e1b7-4d11-b45e-a6791221e757,43,Reading WFC,Pass,,Amalie Vevle Eikeland,48.1,12.8,43.5,20.8,,,False,False,True,-0.0011345082966889384
+1223,2275127,002d89ce-2da3-4cff-8980-d5e557d6c8b4,43,Reading WFC,Carry,,Jade Moore,43.5,20.8,44.6,17.9,,,False,False,True,-0.000894696467159263
+1226,2275127,b20b26f8-f7c5-4496-b8e1-681720c14a7e,43,Reading WFC,Carry,,Jade Moore,44.6,17.9,43.3,14.6,,,False,False,True,0.0
+1227,2275127,f1c071ce-f985-461e-9d56-c97229b656e7,43,Reading WFC,Pass,,Jade Moore,43.3,14.6,33.1,17.9,,,False,False,True,0.0016571709767427955
+1229,2275127,914bd9ab-cfe9-4f0d-a714-a77e0568639f,43,Reading WFC,Carry,,Sophie Howard,33.1,17.9,31.5,20.8,,,False,False,True,0.00012925772200610836
+1230,2275127,44255d7e-c8c4-4d7f-857e-17c0450a273f,43,Reading WFC,Pass,,Sophie Howard,31.5,20.8,26.6,41.2,,,False,False,True,-0.003577725097119436
+1232,2275127,876df3b6-35ec-47e0-9dd5-b1ae88474cd3,43,Reading WFC,Carry,,Kristine Leine,26.6,41.2,43.7,42.3,,,False,False,True,-0.0007701699163120941
+1233,2275127,da921382-ce8a-4cbc-8e00-d771593e565d,44,Reading WFC,Pass,,Kristine Leine,43.7,42.3,51.7,76.2,,,False,False,True,-0.0025326177460970956
+1235,2275127,3ba1c1c0-502e-4a3d-9b1b-e3540e177f69,44,Reading WFC,Carry,,Natasha Harding,51.7,76.2,51.9,76.7,,,False,False,True,0.0
+1237,2275127,73b1966b-f6e1-44cc-9c2b-841f8628f981,44,Reading WFC,Pass,,Natasha Harding,51.9,76.7,38.4,35.0,,,False,False,True,0.0019451660114545705
+1239,2275127,d124e490-7e55-48fd-b4b7-170b6fe4b4dd,44,Reading WFC,Carry,,Sophie Howard,38.4,35.0,43.7,31.2,,,False,False,True,0.004250433281817884
+1240,2275127,e5e30b75-5cbd-4d55-8abd-24be7b05462f,44,Reading WFC,Pass,,Sophie Howard,43.7,31.2,70.3,27.4,,,False,False,True,0.009502188225286434
+1242,2275127,73c7545d-e532-44ae-b1c7-13d730bc55cd,44,Reading WFC,Carry,,Fara Williams,70.3,27.4,95.1,25.0,,,False,False,True,0.044195787280053314
+1243,2275127,da90d822-d47e-4b65-bd91-d6f81084d926,44,Reading WFC,Pass,,Fara Williams,95.1,25.0,95.8,39.4,,,False,False,True,0.04914842990340246
+1245,2275127,201d4a14-720a-4888-b76f-a871c3943b73,44,Reading WFC,Carry,,Millie Laura Farrow,95.8,39.4,96.9,37.6,,,False,False,True,0.0
+1250,2275127,4f806fc4-2ac0-4b32-900d-ffcaf3391cfb,44,Everton LFC,Carry,,Megan Finnigan,24.3,39.2,28.3,39.2,,,False,False,True,0.0
+1254,2275127,7e314eb9-9875-48e0-913b-a0129241106c,44,Everton LFC,Carry,,Chloe Kelly,41.4,27.8,53.3,30.3,,,False,False,True,0.0016789943816951126
+1258,2275127,45fcbc2c-2547-41d4-8142-b5a06bb92c8d,44,Reading WFC,Carry,,Grace Moloney,13.3,65.1,13.3,60.9,,,False,False,True,0.0
+1259,2275127,c899db32-e410-4f2f-9e95-ed3f7c6909e5,44,Reading WFC,Pass,,Grace Moloney,13.3,60.9,23.7,31.9,,,False,False,True,0.005432983931775744
+1261,2275127,4aa795a5-b9c3-4c67-a287-3ecbb834269f,44,Reading WFC,Carry,,Sophie Howard,23.7,31.9,25.7,28.1,,,False,False,True,0.0
+1262,2275127,17ee91cb-09ea-4ea6-99ec-376a398673a6,44,Reading WFC,Pass,,Sophie Howard,25.7,28.1,33.5,17.0,,,False,False,True,-0.0002864926475792916
+1264,2275127,93674aae-3468-4ba6-8f47-c72b0b7abd6a,44,Reading WFC,Pass,,Rachel Rowe,34.5,16.4,24.0,27.5,,,False,False,True,0.0002864926475792916
+1266,2275127,e0fa66e9-7269-4dae-8c2b-a040ef94e287,44,Reading WFC,Carry,,Sophie Howard,24.0,27.5,32.6,21.5,,,False,False,True,-0.00015723492557318322
+1268,2275127,859abd26-bdde-4153-b4e2-2eaad380e365,44,Reading WFC,Pass,,Sophie Howard,32.6,21.5,59.9,19.9,,,False,False,True,0.002234729722755579
+1271,2275127,f750bcdf-e27e-492a-b4a1-34db9ac43ab1,44,Reading WFC,Carry,,Amalie Vevle Eikeland,59.9,19.9,50.4,25.9,,,False,False,True,-0.002140807099385262
+1272,2275127,4f7e4ee3-22a5-45c5-8da8-effdc4750ce9,44,Reading WFC,Pass,,Amalie Vevle Eikeland,50.4,25.9,35.7,41.4,,,False,False,True,-0.0041292474684539076
+1274,2275127,e8baca4d-7b81-4675-9fbc-175f8ae73c4d,44,Reading WFC,Carry,,Remi Allen,35.7,41.4,37.0,42.5,,,False,False,True,0.0
+1275,2275127,ef1f3af6-a71b-4b79-8cc1-d9cc806546a5,44,Reading WFC,Pass,,Remi Allen,37.0,42.5,55.9,78.4,,,False,False,True,-0.001582991844576269
+1277,2275127,a13645ed-0ff3-4e87-bda2-efe2ec0f39f7,44,Reading WFC,Carry,,Natasha Harding,55.9,78.4,65.0,76.9,,,False,False,True,0.0035311021035525332
+1281,2275127,893fe4ee-bab9-4870-b07b-4c73a4708e34,45,Reading WFC,Pass,Throw-in,Millie Laura Farrow,112.2,0.1,112.9,14.6,,,False,False,True,0.00225200001618365
+1283,2275127,168d8bc3-d57f-418e-8b33-fab2071370e9,45,Reading WFC,Carry,,Amalie Vevle Eikeland,112.9,14.6,116.0,14.8,,,False,False,True,0.0
+1285,2275127,85a2b943-1da6-495d-93c6-c11485a15514,45,Reading WFC,Pass,,Amalie Vevle Eikeland,116.0,14.8,111.8,7.3,,,False,False,True,0.010509333444167854
+1287,2275127,90d60319-dcf4-4e9b-9085-444972d76fb5,45,Reading WFC,Carry,,Millie Laura Farrow,111.8,7.3,112.4,9.0,,,False,False,True,0.0
+1291,2275127,551dfcc6-2819-4370-acd0-50c3ddc2845b,45,Everton LFC,Pass,Recovery,Molly Pike,26.7,59.8,21.9,67.1,,,False,False,True,-0.0014739245359639628
+1293,2275127,3ed19fcf-6ecf-457d-ae07-2dca560f7d4f,45,Everton LFC,Carry,,Kika van Es,21.9,67.1,30.3,70.8,,,False,False,True,0.0017360864585597008
+1295,2275127,ec7df358-c620-4624-81aa-a41eb26be90f,45,Everton LFC,Pass,,Kika van Es,30.3,70.8,47.4,64.2,,,False,False,True,0.0018720017652350332
+1297,2275127,3bcda983-8c7e-46ec-8374-f099c70d37c3,45,Everton LFC,Carry,,Inessa Kaagman,47.4,64.2,46.7,55.3,,,False,False,True,0.004300833081456307
+1298,2275127,3ef95ffa-d985-45e2-a072-cc2ad94482bd,45,Everton LFC,Pass,,Inessa Kaagman,46.7,55.3,48.0,30.3,,,False,False,True,-0.00011430414016006668
+1300,2275127,9553a124-fa30-4324-bc80-c2012d920bbb,45,Everton LFC,Carry,,Chloe Kelly,48.0,30.3,52.7,34.0,,,False,False,True,0.001656563517955836
+1302,2275127,423bf262-8401-47d4-9ca9-faf3fec74aa3,45,Everton LFC,Pass,,Chloe Kelly,52.7,34.0,68.4,11.0,,,False,False,True,0.009162780794251089
+1304,2275127,9133b6f5-507b-424c-978f-2b0ae613ddc9,45,Everton LFC,Carry,,Lucy Hope,68.4,11.0,91.0,13.4,,,False,False,True,0.010576028669251985
+1308,2275127,6d22416d-7cbb-451d-9036-e0bbbf5bc660,45,Everton LFC,Pass,Throw-in,Danielle Turner,99.7,0.1,96.1,19.8,,,False,False,True,0.017341998689824088
+1310,2275127,8f206c7a-d9a1-45af-b84c-0416f734976a,45,Everton LFC,Carry,,Chloe Kelly,96.1,19.8,94.1,17.4,,,False,False,True,0.0
+1312,2275127,2ff026bb-4bf9-4f1f-a18b-ad08822fbb2c,45,Everton LFC,Pass,,Chloe Kelly,94.1,17.4,85.5,2.8,,,False,False,True,-0.01789741322104864
+1314,2275127,e4da641e-06f5-4c7c-a0a1-d411cf344cac,45,Everton LFC,Carry,,Tinja-Riikka Tellervo Korpela,85.5,2.8,79.7,7.2,,,False,False,True,-0.00190234862305849
+1315,2275127,76e44c83-1773-472a-b2a2-e8c9bd4eef7d,45,Everton LFC,Pass,,Tinja-Riikka Tellervo Korpela,79.7,7.2,56.4,17.6,,,False,False,True,0.00045216778062959206
+1322,2275127,131a5d59-8bbd-4a3d-8f83-7a8075832fed,45,Everton LFC,Pass,Kick Off,Simone Magill,61.0,40.1,53.3,37.1,,,False,False,True,-0.006791943591026877
+1325,2275127,4b2c53bf-ccb9-41c4-b46b-36387df42e59,45,Everton LFC,Carry,,Maéva Clemaron,53.3,37.1,57.0,39.4,,,False,False,True,0.0
+1328,2275127,bcac83bd-fb8f-4d08-954d-966e30b407d3,45,Reading WFC,Pass,Throw-in,Natasha Harding,15.7,80.0,41.0,76.9,,,False,False,True,-0.0015323657059459197
+1330,2275127,0d34920a-9aaf-4c72-88b2-a343f2967795,45,Reading WFC,Carry,,Brooke Chaplen,41.0,76.9,41.8,76.9,,,False,False,True,0.0
+1335,2275127,647d4749-16b7-4258-bec3-4a6e016de41f,46,Everton LFC,Pass,Throw-in,Danielle Turner,78.1,0.1,88.7,3.7,,,False,False,True,0.003417814007995552
+1337,2275127,17f03b90-6c1c-45bb-a26e-c7a48159ba99,46,Everton LFC,Carry,,Simone Magill,88.7,3.7,86.1,3.2,,,False,False,True,0.0
+1339,2275127,49a13879-df3e-4630-846b-518caf098fc3,46,Everton LFC,Pass,,Simone Magill,86.1,3.2,78.1,3.7,,,False,False,True,-0.003417814007995552
+1341,2275127,3a3feed4-b557-4f8a-a6ef-0225b1265f92,46,Everton LFC,Carry,,Danielle Turner,78.1,3.7,79.5,3.7,,,False,False,True,0.0
+1347,2275127,234521b7-4178-4a50-97c4-f47552667a96,46,Everton LFC,Carry,,Chloe Kelly,116.7,9.9,116.7,9.9,,,False,False,True,0.0
+1351,2275127,97081a2a-0de5-4f0d-9ebf-9dac42ba0fb7,46,Everton LFC,Carry,,Simone Magill,109.1,8.9,106.9,3.3,,,False,False,True,-0.012761333460351503
+1353,2275127,462ae652-5e84-48f1-b373-8f9efef9ba48,46,Everton LFC,Pass,,Simone Magill,106.9,3.3,110.1,5.9,,,False,False,True,0.0
+1356,2275127,f4bab5cc-c05d-45fe-9bd6-3bd380599283,46,Everton LFC,Carry,,Chloe Kelly,110.1,5.9,109.3,7.5,,,False,False,True,0.012761333460351503
+1357,2275127,91585034-17b3-447f-beec-e939fa6b22db,46,Everton LFC,Pass,,Chloe Kelly,109.3,7.5,99.1,10.6,,,False,False,True,0.01212715703813817
+1359,2275127,0de970a7-f44d-4068-beab-f2715244a774,46,Everton LFC,Carry,,Simone Magill,99.1,10.6,99.2,12.7,,,False,False,True,0.0
+1364,2275127,4b59e99e-1c34-4d29-8e19-c01c3cc8db88,46,Everton LFC,Pass,Throw-in,Esme Beth Morgan,109.6,80.0,110.0,60.5,,,False,False,True,-0.006062405114335931
+1366,2275127,70333325-5028-4a96-9b75-05362483fdef,46,Everton LFC,Carry,,Simone Magill,110.0,60.5,110.1,60.5,,,False,False,True,0.0
+1369,2275127,b1bd46a6-2b8d-46e8-b04f-d4db0afcd7bd,47,Reading WFC,Pass,Free Kick,Grace Moloney,4.4,13.7,35.1,4.7,,,False,False,True,0.00422586019834559
+1371,2275127,e6bb3c86-b59f-4dd4-89b9-e227a6cf2ead,47,Reading WFC,Carry,,Sophie Howard,35.1,4.7,36.5,3.6,,,False,False,True,0.0
+1373,2275127,b59d8bca-ce38-4351-8ff5-9d9abf26f9dc,47,Reading WFC,Pass,,Sophie Howard,36.5,3.6,57.3,5.4,,,False,False,True,0.0009988178443208501
+1378,2275127,2fc04a7d-0048-4bc5-8120-4447c4bfb72a,47,Everton LFC,Carry,,Gabrielle George,12.8,57.2,5.7,61.2,,,False,False,True,-0.0022032543535429345
+1379,2275127,057dc887-d03f-4d40-baba-64d4cd921cec,47,Everton LFC,Pass,,Gabrielle George,5.7,61.2,11.7,69.2,,,False,False,True,1.5684684756228466e-06
+1382,2275127,c281f48a-fafb-41a4-a2ba-b9a7f485ebcf,47,Everton LFC,Carry,,Esme Beth Morgan,11.7,69.2,12.3,78.0,,,False,False,True,-0.0006280897368915326
+1396,2275127,d0eddfe3-5958-44bf-ad79-aba3ff079f6f,47,Reading WFC,Pass,Recovery,Rachel Rowe,75.6,4.3,72.8,9.7,,,False,False,True,0.010739198559792208
+1398,2275127,5644c19b-5c13-4e2d-b484-b724957bb46d,48,Reading WFC,Carry,,Remi Allen,72.8,9.7,74.2,10.2,,,False,False,True,0.0
+1401,2275127,92949b0c-04f9-4566-b302-b8a9ebd361dc,48,Everton LFC,Pass,Free Kick,Inessa Kaagman,42.6,71.5,28.9,40.7,,,False,False,True,-0.0006825570034606696
+1403,2275127,52f726e9-d3fc-407f-8188-0242278e214e,48,Everton LFC,Carry,,Gabrielle George,28.9,40.7,51.2,23.6,,,False,False,True,0.003671647720489753
+1404,2275127,0bf02a8f-aa87-4a61-a644-459e4f7f54b5,48,Everton LFC,Pass,,Gabrielle George,51.2,23.6,67.3,2.6,,,False,False,True,0.005437423054191684
+1406,2275127,2968696a-9362-4a1c-9499-78ff7331e012,48,Everton LFC,Carry,,Danielle Turner,67.3,2.6,72.2,3.7,,,False,False,True,0.005145037709671193
+1407,2275127,e19184cf-2c58-4051-b575-2c8270eb9bf8,48,Everton LFC,Pass,,Danielle Turner,72.2,3.7,116.6,3.2,,,False,False,True,0.11098518777503351
+1409,2275127,a8f7779d-9bdf-4981-b687-65271fb31da9,48,Everton LFC,Carry,,Chloe Kelly,116.6,3.2,117.9,9.6,,,False,False,True,-0.058858758273758055
+1413,2275127,a758f1c8-efdd-4f17-8bf2-439ce8f4fffa,48,Everton LFC,Carry,,Chloe Kelly,117.9,9.6,115.7,20.7,,,False,False,True,-0.05885875826272441
+1414,2275127,deca8f55-11db-4180-81d4-e7a731075d95,48,Everton LFC,Pass,,Chloe Kelly,115.7,20.7,105.3,28.8,,,False,False,True,0.05095214166649739
+1416,2275127,1e766a42-6052-41de-970c-e6fdf31ef724,48,Everton LFC,Carry,,Maéva Clemaron,105.3,28.8,105.6,29.1,,,False,False,True,0.0
+1420,2275127,86116fff-1048-4709-9b6d-b2ae993fbe85,48,Reading WFC,Pass,Goal Kick,Grace Moloney,6.0,44.0,8.7,23.0,,,False,False,True,0.003913452517375644
+1422,2275127,c174b712-d762-4372-a00c-cbf7b7f11f1a,48,Reading WFC,Carry,,Sophie Howard,8.7,23.0,10.0,23.7,,,False,False,True,0.0
+1423,2275127,de397de7-8e86-4eb8-a611-b6296fa4b3ee,48,Reading WFC,Pass,,Sophie Howard,10.0,23.7,2.9,33.3,,,False,False,True,-0.0026949506346588027
+1425,2275127,436e0594-6ce6-482d-a1a7-63cd78ac78ff,48,Reading WFC,Carry,,Grace Moloney,2.9,33.3,3.5,34.3,,,False,False,True,0.0015969842569206229
+1426,2275127,4c7d72d5-dc29-466e-8393-a5abe8acbc13,48,Reading WFC,Pass,,Grace Moloney,3.5,34.3,50.3,12.3,,,False,False,True,0.003667307059364168
+1429,2275127,09dfa218-d426-4fd3-96a0-ef94daa4e765,48,Reading WFC,Carry,,Amalie Vevle Eikeland,50.3,12.3,52.2,16.5,,,False,False,True,0.002396123362283271
+1433,2275127,b595749e-425c-4796-ae0c-eb90e3f3eb48,49,Reading WFC,Pass,Recovery,Remi Allen,49.3,15.1,64.7,13.9,,,False,False,True,0.0011437002265293674
+1435,2275127,329f0539-de89-4baa-acab-0a1cf4aeb4f0,49,Reading WFC,Carry,,Millie Laura Farrow,64.7,13.9,62.5,25.5,,,False,False,True,0.0024088668786909524
+1442,2275127,fcef5fe1-ff0d-4fa1-a784-1da2f36beb25,49,Reading WFC,Carry,,Jade Moore,56.7,44.2,64.2,46.3,,,False,False,True,0.0076234056836493366
+1445,2275127,432e0314-8331-496e-9adf-9d4f4196b16c,49,Reading WFC,Pass,Free Kick,Sophie Howard,61.8,41.9,58.5,30.2,,,False,False,True,-0.007641376998317979
+1447,2275127,4609456d-d11f-4c1e-b03e-6dae50d7a7fd,49,Reading WFC,Carry,,Kristine Leine,58.5,30.2,62.8,25.5,,,False,False,True,0.005197385617163947
+1448,2275127,8c5757c5-0b61-4695-8b30-3e4325691ac9,49,Reading WFC,Pass,,Kristine Leine,62.8,25.5,72.3,21.1,,,False,False,True,0.006966152353245818
+1450,2275127,4bc6af7c-ea3b-4d05-8989-2893e480e39a,49,Reading WFC,Carry,,Remi Allen,72.3,21.1,78.6,25.8,,,False,False,True,0.00598610681576656
+1451,2275127,88b546e4-6bef-4fd2-805d-15b830b326a7,49,Reading WFC,Pass,,Remi Allen,78.6,25.8,83.9,34.5,,,False,False,True,0.022007016185500838
+1453,2275127,33aa27da-778f-4288-8a81-47ea6a9903dd,49,Reading WFC,Carry,,Brooke Chaplen,83.9,34.5,84.3,34.5,,,False,False,True,0.0
+1456,2275127,9f4b024e-de21-49c7-9507-e9f21bfbc8b4,49,Everton LFC,Pass,Recovery,Megan Finnigan,26.1,51.2,44.8,64.0,,,False,False,True,-0.0009794784020912013
+1459,2275127,b45c9e19-72a4-4ff4-87cd-277736552235,49,Everton LFC,Carry,,Lucy Hope,44.8,64.0,49.7,78.2,,,False,False,True,-0.00030213102128722196
+1462,2275127,b6cb029d-c71f-4f9a-a747-6eee4bbdc1cb,49,Reading WFC,Pass,Recovery,Sophie Howard,27.1,27.0,11.9,34.8,,,False,False,True,-0.006204625112708793
+1464,2275127,cae125cc-3823-4903-a94c-4f70c34b8347,49,Reading WFC,Carry,,Grace Moloney,11.9,34.8,11.7,43.8,,,False,False,True,0.000658135923521042
+1468,2275127,c682d36e-d9ed-4931-80e5-cd07cb02e074,49,Reading WFC,Pass,Throw-in,Rachel Rowe,28.3,0.1,28.7,8.8,,,False,False,True,0.0014712526577391576
+1470,2275127,81172dac-c8e4-4076-b8ea-46bf0f9f33c0,49,Reading WFC,Carry,,Remi Allen,28.7,8.8,27.8,6.6,,,False,False,True,-0.0014712526577391576
+1472,2275127,79a4eafb-bd94-4e02-85c9-87380b3e9558,49,Reading WFC,Pass,,Remi Allen,27.8,6.6,27.5,1.9,,,False,False,True,0.0
+1475,2275127,1cd68649-dbd9-4952-bbc3-f954ad090d13,50,Reading WFC,Pass,,Rachel Rowe,27.6,2.6,9.4,11.3,,,False,False,True,-0.0054320672923624785
+1477,2275127,2b6737f2-84c1-4d69-b06f-b31263ee03f1,50,Reading WFC,Carry,,Kristine Leine,9.4,11.3,9.4,11.4,,,False,False,True,0.0
+1478,2275127,2f0bb5ec-b793-4e8e-8c42-dbba872d1c9b,50,Reading WFC,Pass,,Kristine Leine,9.4,11.4,8.7,26.0,,,False,False,True,0.003241936343466465
+1480,2275127,61f6e73f-f409-4ac5-8553-2dd6da7dcca8,50,Reading WFC,Carry,,Grace Moloney,8.7,26.0,9.4,29.3,,,False,False,True,-0.0023303973776395356
+1481,2275127,da2e6fb8-e910-4a76-a05b-a7932ef27625,50,Reading WFC,Pass,,Grace Moloney,9.4,29.3,12.0,16.6,,,False,False,True,0.004431366469474004
+1483,2275127,351ab970-206f-4d4e-a3e2-22a1752feb27,50,Reading WFC,Carry,,Kristine Leine,12.0,16.6,13.8,15.8,,,False,False,True,0.0
+1485,2275127,dd12c8f6-39cd-49a0-b7e4-dd8666caad9a,50,Reading WFC,Pass,,Kristine Leine,13.8,15.8,47.2,14.7,,,False,False,True,0.002864494952074791
+1487,2275127,fb83d827-a1f2-4d9d-aede-506671464b8e,50,Reading WFC,Carry,,Amalie Vevle Eikeland,47.2,14.7,47.9,1.6,,,False,False,True,0.012610961196146816
+1489,2275127,217f5845-ee0e-4601-9b9e-9d957e1ac1a8,50,Reading WFC,Pass,,Amalie Vevle Eikeland,47.9,1.6,41.0,1.9,,,False,False,True,-0.01184806968936886
+1493,2275127,2351e7da-0a10-4e88-9079-5c5db2c8c131,50,Everton LFC,Pass,Throw-in,Esme Beth Morgan,62.3,80.0,66.8,73.5,,,False,False,True,0.0
+1496,2275127,f6edaf91-2328-457e-861c-2c93e293b569,50,Everton LFC,Carry,,Lucy Hope,66.8,73.5,62.5,78.7,,,False,False,True,0.0
+1499,2275127,8f4900c2-0155-4c6a-8550-fdc3ac6b549e,50,Reading WFC,Pass,Throw-in,Remi Allen,62.5,0.1,69.0,5.0,,,False,False,True,0.005145037709671193
+1501,2275127,71f4bd05-db4f-4db3-aaa8-810aa45d8245,50,Reading WFC,Carry,,Fara Williams,69.0,5.0,69.0,5.0,,,False,False,True,0.0
+1502,2275127,2c385dca-38a2-423c-990a-20eb9020d2b5,50,Reading WFC,Pass,,Fara Williams,69.0,5.0,79.1,0.9,,,False,False,True,-0.01040928683004427
+1504,2275127,2b99d282-4e4b-4fcc-9ee2-1db9a9c940c3,50,Reading WFC,Carry,,Amalie Vevle Eikeland,79.1,0.9,84.8,2.4,,,False,False,True,0.003417814007995552
+1508,2275127,da14476f-0ad0-4a2d-8128-19971edd6345,50,Reading WFC,Carry,,Fara Williams,88.6,1.6,91.9,1.0,,,False,False,True,0.0027284999954373824
+1509,2275127,9ec00b49-8231-436a-8102-e47146e42b29,50,Reading WFC,Pass,,Fara Williams,91.9,1.0,100.2,24.8,,,False,False,True,0.0030571934160599397
+1511,2275127,815cb6b3-a3d2-4cf7-a969-3ee9306176b9,50,Reading WFC,Pass,,Brooke Chaplen,100.2,24.8,95.0,24.3,,,False,False,True,0.04354245806240177
+1513,2275127,c91c7865-5244-4f7f-bfb7-570c7839c5ba,50,Reading WFC,Carry,,Millie Laura Farrow,95.0,24.3,95.9,26.9,,,False,False,True,0.041326356268173936
+1519,2275127,dd493e50-3c14-4334-af03-edf581a70e79,52,Everton LFC,Pass,Goal Kick,Tinja-Riikka Tellervo Korpela,7.0,36.1,39.6,4.0,,,False,False,True,0.006826321928425395
+1521,2275127,88ac20ca-b884-4e8c-80d5-2a70c3a1a03a,52,Everton LFC,Pass,,Danielle Turner,39.6,4.0,45.5,15.8,,,False,False,True,-0.0007628915067779563
+1523,2275127,1c09e603-44b6-4f23-952a-669f191b2c0b,52,Everton LFC,Carry,,Maéva Clemaron,45.5,15.8,46.0,17.7,,,False,False,True,0.0
+1526,2275127,2b446947-1fac-48a2-8e8e-caa286913f4a,52,Everton LFC,Pass,Free Kick,Abbey-Leigh Stringer,40.8,14.4,29.9,24.7,,,False,False,True,0.003926440061607148
+1529,2275127,f61e2f30-99ef-42d9-98b2-f4f70dbd8f44,52,Everton LFC,Carry,,Gabrielle George,29.9,24.7,35.8,24.1,,,False,False,True,-0.002140011362858244
+1530,2275127,a70f408d-86aa-4796-9377-58080c61607b,52,Everton LFC,Pass,,Gabrielle George,35.8,24.1,45.7,18.8,,,False,False,True,0.0026388994273825687
+1532,2275127,1da601b7-6649-40d5-ba7f-193adc00a8a4,52,Everton LFC,Carry,,Abbey-Leigh Stringer,45.7,18.8,49.8,22.7,,,False,False,True,-0.0025449768040122518
+1544,2275127,2330f5d5-bd2d-46d3-a330-b28f81dab201,52,Everton LFC,Carry,,Gabrielle George,55.0,24.8,57.3,23.1,,,False,False,True,0.0
+1548,2275127,f52ca381-e2aa-4dca-b404-59d7597a155f,52,Everton LFC,Carry,,Gabrielle George,57.3,23.1,86.6,14.6,,,False,False,True,0.01339055160255968
+1549,2275127,0c5af828-afc9-49b1-95a7-233cf1beb7f3,52,Everton LFC,Pass,,Gabrielle George,86.6,14.6,99.9,4.9,,,False,False,True,-0.010851104876027032
+1551,2275127,3dbcfb4d-1aa9-4e18-bccf-8a6095bc64f8,52,Everton LFC,Carry,,Chloe Kelly,99.9,4.9,111.4,9.6,,,False,False,True,0.002729694240261031
+1552,2275127,44c7f7fd-fdf2-4ad5-ae3b-094fc8c4e9fe,53,Everton LFC,Pass,,Chloe Kelly,111.4,9.6,112.6,55.3,,,False,False,True,-0.01576400012740704
+1558,2275127,69326287-b7ea-4cb7-a54e-56cef5842ad3,53,Reading WFC,Carry,,Amalie Vevle Eikeland,13.6,25.1,14.8,23.2,,,False,False,True,0.0
+1560,2275127,e4ea9007-1d4a-483f-a896-dd233cdf6319,53,Reading WFC,Pass,,Amalie Vevle Eikeland,14.8,23.2,20.0,11.8,,,False,False,True,-0.0008995311669151868
+1562,2275127,3657e3cc-8250-42b5-aacc-47a6a9c13a39,53,Reading WFC,Carry,,Rachel Rowe,20.0,11.8,53.8,1.2,,,False,False,True,0.004517751093743491
+1567,2275127,054ed99f-7854-42ce-bf28-8f62a0bb1ffa,53,Everton LFC,Carry,,Esme Beth Morgan,50.0,76.5,48.8,73.5,,,False,False,True,0.0
+1568,2275127,14cd31d5-58f3-4dbe-994a-b394d8c31b42,53,Everton LFC,Pass,,Esme Beth Morgan,48.8,73.5,57.0,69.9,,,False,False,True,0.0015890359978322853
+1570,2275127,4269cad1-9f1f-4269-9cd3-b32fc79712e0,53,Everton LFC,Carry,,Abbey-Leigh Stringer,57.0,69.9,58.2,72.5,,,False,False,True,0.0
+1574,2275127,7c55e04f-488a-4ca9-906d-4f7ad4fe50ef,53,Reading WFC,Carry,,Sophie Howard,30.2,1.2,22.4,7.3,,,False,False,True,-0.0035189332494226407
+1577,2275127,bcf72678-d6a3-4b57-8bb8-606fcaac7493,53,Reading WFC,Pass,,Sophie Howard,22.4,7.3,35.9,3.0,,,False,False,True,0.0035189332494226407
+1579,2275127,34e611b4-9cea-4687-89d4-57df24ac32e3,53,Reading WFC,Carry,,Rachel Rowe,35.9,3.0,39.8,1.4,,,False,False,True,0.0031089534681797617
+1581,2275127,a73f0ed4-c522-4983-a8e3-fa74ea7c420b,53,Reading WFC,Pass,,Rachel Rowe,39.8,1.4,48.9,14.0,,,False,False,True,-0.0007628915067779563
+1583,2275127,ab0d9b96-b8dd-4dc2-9c22-9083a4995482,53,Reading WFC,Carry,,Remi Allen,48.9,14.0,54.3,20.6,,,False,False,True,-0.0009380210575061863
+1585,2275127,a0646f17-03f5-48a8-ae36-f62edc492423,53,Reading WFC,Pass,,Remi Allen,54.3,20.6,61.9,34.7,,,False,False,True,0.005231346288039906
+1587,2275127,b143bfaa-418b-4672-80fa-e3ad38591ad8,53,Reading WFC,Carry,,Fara Williams,61.9,34.7,65.7,41.1,,,False,False,True,0.0017032332558406318
+1588,2275127,7bac793c-e169-484e-b8ee-871024eb23ad,53,Reading WFC,Pass,,Fara Williams,65.7,41.1,103.5,48.7,,,False,False,True,0.02913188827382429
+1591,2275127,5d1f5197-47f5-4aa2-bb1a-b7d104b87b58,53,Reading WFC,Carry,,Brooke Chaplen,103.5,48.7,104.7,48.2,,,False,False,True,0.0
+1595,2275127,4bef956c-d31d-4df5-a263-e12b279b275e,53,Reading WFC,Carry,,Brooke Chaplen,110.3,59.3,111.8,57.7,,,False,False,True,0.0
+1599,2275127,aa8b28b4-95d6-4b45-8478-d029eab11520,53,Reading WFC,Carry,,Brooke Chaplen,111.8,57.7,117.7,58.0,,,False,False,True,-0.07871058499999961
+1603,2275127,182e0411-c554-4ca6-aa55-dfb9db9da0a4,53,Reading WFC,Carry,,Remi Allen,86.7,33.6,86.7,29.6,,,False,False,True,0.01811397579866953
+1604,2275127,251f8efb-e21c-4ad8-aed2-1b5073c0be1f,53,Reading WFC,Pass,,Remi Allen,86.7,29.6,101.4,17.9,,,False,False,True,-0.06543136515458023
+1606,2275127,951ef842-9b07-4fcc-aeda-dd490188dbf3,53,Reading WFC,Carry,,Amalie Vevle Eikeland,101.4,17.9,113.7,19.9,,,False,False,True,0.002627333361296798
+1613,2275127,6ced9067-61c4-4682-8de3-1788bcded555,54,Reading WFC,Carry,,Jade Moore,67.0,65.3,67.0,62.4,,,False,False,True,0.0
+1618,2275127,3fd9654a-2a54-4df0-ae16-8075eaf278a8,54,Everton LFC,Carry,,Maéva Clemaron,50.2,23.1,50.0,20.0,,,False,False,True,0.0025449768040122518
+1621,2275127,d5349a57-26cf-40d9-923a-8d370a7328f6,54,Reading WFC,Pass,Recovery,Natasha Harding,76.7,61.5,78.6,47.0,,,False,False,True,-0.04543093788236589
+1623,2275127,7f71e21c-c031-4010-ab54-5ad162821fa8,54,Reading WFC,Carry,,Fara Williams,78.6,47.0,76.1,48.7,,,False,False,True,0.0
+1628,2275127,4bbc904b-3999-41a5-9dbe-7a85c3ab30a8,54,Reading WFC,Pass,Recovery,Jade Moore,69.2,51.8,91.7,47.8,,,False,False,True,0.13721388625608985
+1630,2275127,36ba1806-36b2-4363-9027-17afc1b2380e,54,Reading WFC,Carry,,Millie Laura Farrow,91.7,47.8,91.6,47.0,,,False,False,True,0.0
+1631,2275127,e478dcf2-1bcd-4088-8479-34238542208e,54,Reading WFC,Pass,,Millie Laura Farrow,91.6,47.0,86.4,41.9,,,False,False,True,-0.14973659269871292
+1633,2275127,f694ae76-611a-47fe-a343-abc5f03034fa,54,Reading WFC,Carry,,Remi Allen,86.4,41.9,88.8,40.4,,,False,False,True,0.0
+1638,2275127,9cedb1d2-aa44-4b1c-a2ae-546d5f040fe7,54,Reading WFC,Pass,Recovery,Fara Williams,86.9,59.6,93.6,67.7,,,False,False,True,0.01241831731859556
+1640,2275127,a7d1be7b-c47f-48b5-b466-7cb60b578ccf,54,Reading WFC,Carry,,Natasha Harding,93.6,67.7,95.0,65.7,,,False,False,True,-0.018497542226697923
+1644,2275127,c32d8054-a0db-44aa-85dd-79320b82b284,54,Everton LFC,Carry,,Tinja-Riikka Tellervo Korpela,7.2,41.6,14.9,49.6,,,False,False,True,0.00030352615718849327
+1647,2275127,1492615f-b622-4e77-a9a2-28f68540957b,55,Everton LFC,Pass,Free Kick,Tinja-Riikka Tellervo Korpela,15.5,51.7,20.2,67.6,,,False,False,True,-0.0019476744392334649
+1649,2275127,6d7c2906-fbd3-4e66-9d0b-f095f7b69457,55,Everton LFC,Carry,,Megan Finnigan,20.2,67.6,22.3,67.8,,,False,False,True,0.0
+1654,2275127,bb95235c-aca1-41c5-b53d-ca919a5cd37b,55,Reading WFC,Carry,,Rachel Rowe,79.1,11.6,85.5,8.7,,,False,False,True,-0.00044976633603988937
+1658,2275127,f3d95594-4cff-4315-a057-7e9bae32840e,55,Everton LFC,Carry,,Lucy Hope,32.4,70.7,31.0,77.0,,,False,False,True,-0.0002812121730992887
+1670,2275127,bbbc3a5f-8463-40b1-a51d-3a879ca65b98,56,Reading WFC,Carry,,Lisa-Marie Utland,76.1,14.7,76.0,10.9,,,False,False,True,-0.03820624263023105
+1676,2275127,b60e7297-f45e-427b-8105-e349adb1ee5d,56,Reading WFC,Carry,,Rachel Rowe,66.8,7.1,66.6,8.3,,,False,False,True,0.0
+1679,2275127,6a433973-f8e2-4c1e-b1a9-e4ccccd11003,56,Reading WFC,Pass,Free Kick,Rachel Rowe,67.3,3.1,85.0,0.2,,,False,False,True,-0.0018464351123775244
+1681,2275127,8f228cb1-a73a-494b-9a8a-0cb15f4d06b9,56,Reading WFC,Carry,,Amalie Vevle Eikeland,85.0,0.2,103.2,15.1,,,False,False,True,-0.009851558033979068
+1684,2275127,221d8196-2530-4005-811f-fb2ad109a935,56,Everton LFC,Carry,,Esme Beth Morgan,16.9,65.0,14.7,68.1,,,False,False,True,-0.001786157429791457
+1690,2275127,aaa5b3cf-5d90-4ddd-a9b1-3a8282252483,56,Reading WFC,Carry,,Rachel Rowe,108.9,1.6,106.6,5.4,,,False,False,True,0.0
+1697,2275127,94710124-55a8-4b9d-8735-157fe8d62106,57,Reading WFC,Carry,,Jade Moore,92.1,63.2,92.8,61.9,,,False,False,True,0.0
+1699,2275127,69f86fc9-68de-49e8-a5ba-86cf0efedb0c,57,Everton LFC,Pass,Free Kick,Gabrielle George,26.8,13.0,37.5,16.9,,,False,False,True,-0.003121247688857385
+1701,2275127,8ba3b452-9f4d-4df8-8dde-0802ef392662,57,Everton LFC,Pass,,Abbey-Leigh Stringer,37.5,16.9,28.0,13.4,,,False,False,True,-0.00048799377063276934
+1703,2275127,d17aed49-b4ae-4514-8bb3-8fdf2d41617e,57,Everton LFC,Carry,,Gabrielle George,28.0,13.4,27.8,10.6,,,False,False,True,0.0036092414594901543
+1705,2275127,bc7d2514-17f8-477e-bf4f-41688194a57e,57,Everton LFC,Pass,,Gabrielle George,27.8,10.6,54.0,9.6,,,False,False,True,0.006546301683273465
+1707,2275127,4186e6c3-0291-4bc7-8a2f-a97e7eb29cdd,57,Everton LFC,Carry,,Maéva Clemaron,54.0,9.6,57.0,7.2,,,False,False,True,0.0
+1717,2275127,a6abec09-3435-4026-8a30-4ea701ddc8c9,57,Reading WFC,Carry,,Remi Allen,83.9,47.0,84.3,47.8,,,False,False,True,0.0
+1722,2275127,6ae0ebff-fba8-483c-bdbe-9a4f33889111,57,Reading WFC,Pass,Recovery,Jade Moore,77.2,57.7,85.8,61.2,,,False,False,True,-0.022787563482665384
+1724,2275127,eabaf1bd-693b-4030-a212-44203e757d05,57,Reading WFC,Carry,,Fara Williams,85.8,61.2,76.0,60.5,,,False,False,True,0.03332653303589937
+1725,2275127,6d8e3c6e-0c53-4d37-9536-d7d13ebe2452,57,Reading WFC,Pass,,Fara Williams,76.0,60.5,106.3,44.9,,,False,False,True,0.16093513715692964
+1730,2275127,a76695a8-85eb-40ee-a673-8885d383b528,57,Everton LFC,Carry,,Tinja-Riikka Tellervo Korpela,7.4,41.3,17.6,36.3,,,False,False,True,0.005957506513524769
+1731,2275127,51c84697-40ed-4995-8643-55677e9d7aab,57,Everton LFC,Pass,,Tinja-Riikka Tellervo Korpela,17.6,36.3,40.3,4.7,,,False,False,True,0.00368430155453809
+1733,2275127,5a5f8510-5e5b-429f-b79c-2f20ebab0e5e,57,Everton LFC,Carry,,Danielle Turner,40.3,4.7,77.4,16.2,,,False,False,True,0.03658701363819651
+1734,2275127,da6b39eb-982a-4efd-be64-acfdf08b9e09,58,Everton LFC,Pass,,Danielle Turner,77.4,16.2,87.1,40.1,,,False,False,True,-0.014716101609870191
+1736,2275127,12a69414-962e-420f-be87-6e47c46c54e6,58,Everton LFC,Carry,,Lucy Hope,87.1,40.1,86.8,30.9,,,False,False,True,0.03399201472329879
+1740,2275127,11181f6c-533c-4332-b497-afccf3405895,58,Reading WFC,Carry,,Grace Moloney,7.5,37.4,15.8,40.4,,,False,False,True,0.0002055898412909509
+1744,2275127,c55e2a73-1048-4862-82d7-9a4da3ad4a24,58,Reading WFC,Pass,Throw-in,Rachel Rowe,62.8,0.1,83.2,14.0,,,False,False,True,0.009560084294874061
+1747,2275127,bae902c8-6de1-4bc5-8619-404f5649ff0e,58,Reading WFC,Carry,,Lisa-Marie Utland,83.2,14.0,81.5,12.7,,,False,False,True,-0.013308868030310075
+1752,2275127,8de5a2e5-6376-436a-bb83-3c087f23fea9,58,Everton LFC,Pass,Throw-in,Esme Beth Morgan,55.0,80.0,57.0,74.7,,,False,False,True,0.0
+1754,2275127,0f7d392f-a96d-4c1a-a6cd-5de5007b37ee,58,Everton LFC,Pass,,Abbey-Leigh Stringer,57.0,74.7,53.8,78.9,,,False,False,True,0.0
+1756,2275127,1b299737-0418-4765-ad89-92125d7663f8,58,Everton LFC,Pass,,Esme Beth Morgan,54.4,78.2,70.5,66.4,,,False,False,True,0.005315322379057502
+1758,2275127,0ae7697a-33d0-46d9-afe1-f7d3446a406f,58,Everton LFC,Carry,,Simone Magill,70.5,66.4,65.3,62.4,,,False,False,True,0.0029582102240835843
+1759,2275127,5e157062-192d-4c00-938b-b9cead5035ce,58,Everton LFC,Pass,,Simone Magill,65.3,62.4,60.1,60.3,,,False,False,True,0.0
+1761,2275127,584ff163-81eb-4ec9-ae2f-bfc52307414f,58,Everton LFC,Carry,,Abbey-Leigh Stringer,60.1,60.3,65.4,58.4,,,False,False,True,-0.008129029263805987
+1767,2275127,ca748b04-5d6e-4162-b902-8577749d843a,58,Reading WFC,Carry,,Brooke Chaplen,49.1,50.2,42.7,53.2,,,False,False,True,-0.002575571918149562
+1769,2275127,f59f96ab-b4c3-466a-b331-1393006a94f0,58,Reading WFC,Pass,,Brooke Chaplen,42.7,53.2,39.8,47.3,,,False,False,True,0.0
+1771,2275127,3858eccc-64a7-4468-9e62-c3f88ecd9a3a,58,Reading WFC,Carry,,Natasha Harding,39.8,47.3,34.6,49.7,,,False,False,True,-0.0009831618734678256
+1772,2275127,17083461-2cfb-488b-8ec2-4aca69d38ed8,58,Reading WFC,Pass,,Natasha Harding,34.6,49.7,20.5,56.0,,,False,False,True,-0.0020169914020547798
+1774,2275127,191fd341-ec01-4321-a2e5-698267ffba4d,58,Reading WFC,Carry,,Kristine Leine,20.5,56.0,13.9,59.1,,,False,False,True,0.00150056933380135
+1775,2275127,a1d295a6-fbef-45e2-b7a8-e97c0a5cc476,58,Reading WFC,Pass,,Kristine Leine,13.9,59.1,5.3,37.6,,,False,False,True,0.0018098018550795174
+1778,2275127,f3d64501-c2b8-40fa-b7d6-7ed9d7479137,59,Reading WFC,Carry,,Grace Moloney,5.3,37.6,6.0,35.5,,,False,False,True,0.0
+1779,2275127,401cf9a5-7840-426a-86b0-579b47749f2f,59,Reading WFC,Pass,,Grace Moloney,6.0,35.5,16.7,18.9,,,False,False,True,0.00435977436967664
+1781,2275127,191d8682-1794-4f23-aa88-6db36c282706,59,Reading WFC,Carry,,Sophie Howard,16.7,18.9,17.9,14.6,,,False,False,True,0.0
+1783,2275127,95f0fdd6-8ccc-463e-9a1f-76787d0d7ae1,59,Reading WFC,Pass,,Sophie Howard,17.9,14.6,49.5,6.4,,,False,False,True,0.014314617248117615
+1785,2275127,99ea9667-7fcf-4308-a742-0c0268f909f5,59,Reading WFC,Carry,,Amalie Vevle Eikeland,49.5,6.4,49.3,3.0,,,False,False,True,0.0
+1787,2275127,21f58cb2-7ba7-451b-a55a-5807bd00f642,59,Reading WFC,Pass,,Amalie Vevle Eikeland,49.3,3.0,56.7,10.6,,,False,False,True,-0.007368739950147439
+1789,2275127,975c4926-395e-4ab1-a792-f5beb128a633,59,Reading WFC,Carry,,Lisa-Marie Utland,56.7,10.6,55.4,9.7,,,False,False,True,0.0
+1790,2275127,0fd8c078-f848-4fb1-b00f-0c730bef1bb8,59,Reading WFC,Pass,,Lisa-Marie Utland,55.4,9.7,47.4,4.3,,,False,False,True,0.007368739950147439
+1795,2275127,ec8de196-d798-49f7-aa2b-d21301d3a9ce,59,Everton LFC,Carry,,Tinja-Riikka Tellervo Korpela,7.6,61.4,15.9,53.9,,,False,False,True,-0.0014591531769431766
+1796,2275127,e2213e4d-54b5-43c6-aef6-196aca2435dd,59,Everton LFC,Pass,,Tinja-Riikka Tellervo Korpela,15.9,53.9,56.6,70.9,,,False,False,True,0.0014434254214493974
+1798,2275127,14aa0746-b281-4211-be05-736f3f0913b6,59,Everton LFC,Carry,,Esme Beth Morgan,56.6,70.9,56.6,70.9,,,False,False,True,0.0
+1801,2275127,1230ee91-b34d-41a1-914a-45a9d77d7947,59,Everton LFC,Pass,Free Kick,Megan Finnigan,54.4,73.7,57.6,76.5,,,False,False,True,0.0
+1803,2275127,d362635e-a71c-4f41-aea9-aeb8c3307d84,59,Everton LFC,Carry,,Lucy Hope,57.6,76.5,57.6,76.5,,,False,False,True,0.0
+1804,2275127,40c4775b-0f66-4caa-a3bb-f22036b0d7ec,59,Everton LFC,Pass,,Lucy Hope,57.6,76.5,52.1,76.5,,,False,False,True,-0.001262196069868766
+1806,2275127,0de148d2-cbd0-4bf1-8048-4021f8f1a3be,59,Everton LFC,Carry,,Megan Finnigan,52.1,76.5,50.4,78.5,,,False,False,True,0.0
+1807,2275127,182524b3-4a02-443a-b771-fec6ad70c2b7,59,Everton LFC,Pass,,Megan Finnigan,50.4,78.5,25.9,52.2,,,False,False,True,0.0012816094233784232
+1809,2275127,975e8a49-7824-4227-b4e2-0727306d100f,59,Everton LFC,Carry,,Tinja-Riikka Tellervo Korpela,25.9,52.2,32.0,47.3,,,False,False,True,0.0008809925550592444
+1816,2275127,8ba1512c-0036-4d50-bbb0-e96ba21e5954,60,Everton LFC,Pass,Recovery,Maéva Clemaron,44.1,23.8,55.2,15.1,,,False,False,True,0.0031264619543452197
+1823,2275127,ec5846c9-fe1a-49b1-8720-3461c2fe6f88,60,Reading WFC,Carry,,Kristine Leine,39.6,50.9,40.6,48.7,,,False,False,True,0.0
+1825,2275127,d370b365-d10a-48c8-a6cb-a878932906fb,60,Reading WFC,Pass,,Kristine Leine,40.6,48.7,12.9,38.8,,,False,False,True,-0.0023126412795124772
+1827,2275127,0d3aafeb-89ca-4520-8662-f559c4a4d007,60,Reading WFC,Carry,,Grace Moloney,12.9,38.8,13.6,40.5,,,False,False,True,0.000658135923521042
+1831,2275127,178379e0-ecde-4d1a-91fe-6017c71200c9,60,Everton LFC,Pass,Recovery,Esme Beth Morgan,51.1,57.9,59.2,51.5,,,False,False,True,0.015913380522952013
+1833,2275127,46934a73-fab8-4cc7-9683-80d179389ee2,60,Everton LFC,Carry,,Abbey-Leigh Stringer,59.2,51.5,59.6,56.9,,,False,False,True,-0.019709522882516678
+1835,2275127,cf7cc266-acd0-4824-994b-61c7a0982161,60,Everton LFC,Pass,,Abbey-Leigh Stringer,59.6,56.9,64.4,70.2,,,False,False,True,0.004449619344531095
+1837,2275127,a91a07df-fa75-47b5-9810-2f8b3bd879f8,60,Everton LFC,Carry,,Inessa Kaagman,64.4,70.2,66.7,71.4,,,False,False,True,0.0
+1841,2275127,e75f0668-ee45-4964-9abd-89195c7fdaa4,60,Everton LFC,Carry,,Inessa Kaagman,66.7,71.4,66.3,66.8,,,False,False,True,0.0
+1844,2275127,1422088e-191e-4f7b-b096-66d46a3e7f07,60,Reading WFC,Carry,,Fara Williams,53.8,13.3,52.6,11.3,,,False,False,True,0.0
+1846,2275127,ed0dd126-2991-4f90-acd2-d1d76b555f34,60,Reading WFC,Pass,,Fara Williams,52.6,11.3,42.7,10.9,,,False,False,True,-0.00860130292475486
+1861,2275127,c9490761-9224-4cbc-9614-927a0aaa3528,61,Everton LFC,Pass,Throw-in,Esme Beth Morgan,105.5,80.0,102.9,69.4,,,False,False,True,-0.001100263223909841
+1863,2275127,9cd79260-67e2-4559-ac99-8407fb729da1,61,Everton LFC,Carry,,Maéva Clemaron,102.9,69.4,104.4,68.8,,,False,False,True,0.0
+1864,2275127,3c650833-b211-4c6b-bb77-a8391acf5d44,61,Everton LFC,Pass,,Maéva Clemaron,104.4,68.8,103.2,76.6,,,False,False,True,0.014886758143177414
+1867,2275127,c37ab954-40cb-4db6-9000-83b3498c19f4,61,Everton LFC,Carry,,Esme Beth Morgan,103.2,76.6,99.1,77.7,,,False,False,True,0.0
+1870,2275127,b1b71efd-8887-4086-a5d2-63c80925f342,61,Everton LFC,Carry,,Esme Beth Morgan,99.1,77.7,99.7,67.4,,,False,False,True,-0.014886758143177414
+1875,2275127,a4ac9a55-f13b-428c-a120-9332437c8a70,61,Everton LFC,Pass,Recovery,Esme Beth Morgan,97.1,68.3,101.3,69.5,,,False,False,True,-0.013535400336271833
+1878,2275127,74f4bdcd-d92f-49a3-9fd5-820f0195ebd4,61,Everton LFC,Carry,,Inessa Kaagman,101.3,69.5,100.8,69.9,,,False,False,True,0.0
+1881,2275127,80b507ed-f90e-4e18-a86b-57cd07fb8afc,61,Reading WFC,Pass,Recovery,Remi Allen,20.2,13.5,23.3,9.4,,,False,False,True,0.00039957561469671117
+1883,2275127,009564b7-8441-45f7-a033-1c9449d24cb4,61,Reading WFC,Carry,,Amalie Vevle Eikeland,23.3,9.4,29.2,2.1,,,False,False,True,-0.0014712526577391576
+1885,2275127,5d79c910-bbb2-4988-af55-ca8e85969924,61,Reading WFC,Pass,,Amalie Vevle Eikeland,29.2,2.1,46.3,1.9,,,False,False,True,0.015386294291160061
+1887,2275127,8ed18db4-f963-40bb-8725-40042031adc8,61,Reading WFC,Carry,,Lisa-Marie Utland,46.3,1.9,42.0,1.9,,,False,False,True,-0.01184806968936886
+1889,2275127,1b4f7fe5-ae28-4c8f-b8e8-89d93b3beb79,61,Reading WFC,Pass,,Lisa-Marie Utland,42.0,1.9,47.0,1.4,,,False,False,True,0.01184806968936886
+1891,2275127,bd714713-8c2a-4f7b-ac5c-a710ba9ec53e,61,Reading WFC,Carry,,Amalie Vevle Eikeland,47.0,1.4,105.8,22.0,,,False,False,True,0.20354292169294194
+1893,2275127,52da2975-c824-43c8-bce3-c6e59e6f3289,61,Reading WFC,Pass,,Amalie Vevle Eikeland,105.8,22.0,107.8,44.7,,,False,False,True,3.95630930571933e-07
+1895,2275127,eeaa6bb2-7af6-4f19-9db8-2c01ba920459,61,Reading WFC,Carry,,Brooke Chaplen,107.8,44.7,108.5,45.1,,,False,False,True,0.0
+1896,2275127,8775182f-3f6a-4765-97ee-fc5f34198073,61,Reading WFC,Pass,,Brooke Chaplen,108.5,45.1,105.4,41.1,,,False,False,True,0.0
+1901,2275127,707a4d1d-d659-4d20-91c5-a9a48520965d,61,Everton LFC,Pass,Recovery,Esme Beth Morgan,15.4,60.3,27.3,67.4,,,False,False,True,0.0004023260645851937
+1903,2275127,e304c390-251a-447c-8150-740102ec21d2,62,Everton LFC,Carry,,Inessa Kaagman,27.3,67.4,34.6,66.4,,,False,False,True,0.001687669771452494
+1904,2275127,dad227ec-19e8-408c-ab89-b93abeaa0221,62,Everton LFC,Pass,,Inessa Kaagman,34.6,66.4,69.4,77.0,,,False,False,True,0.012567861934828724
+1907,2275127,f8bc9bf0-ee37-4ae1-a4eb-3b7ee9502445,62,Everton LFC,Carry,,Simone Magill,69.4,77.0,79.3,77.0,,,False,False,True,-0.0017300755896569944
+1910,2275127,0ac6ad58-e4d9-45f7-9558-3e1edde97ce1,62,Reading WFC,Pass,Recovery,Kristine Leine,24.7,2.3,3.5,22.4,,,False,False,True,-0.004891940818984227
+1912,2275127,39c7c2ad-2437-4e62-aa04-5752020e515e,62,Reading WFC,Carry,,Grace Moloney,3.5,22.4,3.9,30.5,,,False,False,True,6.859235429410027e-06
+1913,2275127,b2b94e91-c3a2-4219-b53b-f2f881d8f799,62,Reading WFC,Pass,,Grace Moloney,3.9,30.5,14.6,49.2,,,False,False,True,-0.0009149757255283476
+1915,2275127,ab8ae74d-93d1-4f39-bc69-8b03d9640713,62,Reading WFC,Carry,,Sophie Howard,14.6,49.2,17.1,46.3,,,False,False,True,9.469063086918212e-05
+1916,2275127,96af910e-5ba2-4c5c-b3ee-498fffe2eb7d,62,Reading WFC,Pass,,Sophie Howard,17.1,46.3,27.6,61.7,,,False,False,True,0.0004750276617118093
+1918,2275127,2dc0e67d-f55c-4c63-b3f9-3d4b0470cea0,62,Reading WFC,Carry,,Natasha Harding,27.6,61.7,27.8,64.6,,,False,False,True,0.0
+1919,2275127,c64c6322-59bc-4ed5-9e29-ebf62ce7e0c7,62,Reading WFC,Pass,,Natasha Harding,27.8,64.6,18.4,50.9,,,False,False,True,-0.0002932192369504531
+1921,2275127,ca0b9ffa-83ce-43cb-9e83-1a501badb4b8,62,Reading WFC,Carry,,Kristine Leine,18.4,50.9,18.8,48.7,,,False,False,True,0.0
+1922,2275127,2090faab-0e92-4c1e-8341-1b549ef61135,62,Reading WFC,Pass,,Kristine Leine,18.8,48.7,17.8,22.4,,,False,False,True,0.002277694796914122
+1924,2275127,fc3286c2-896a-44b3-b760-bc337b956ef1,62,Reading WFC,Carry,,Sophie Howard,17.8,22.4,21.9,19.9,,,False,False,True,0.00431754049958095
+1926,2275127,f918313a-7125-4c60-a57f-5b768d703e93,62,Reading WFC,Pass,,Sophie Howard,21.9,19.9,27.3,55.1,,,False,False,True,-0.0070689851997645745
+1928,2275127,67de1974-6ab1-494f-a2b7-1c9be345e6f7,62,Reading WFC,Carry,,Kristine Leine,27.3,55.1,34.6,55.6,,,False,False,True,0.0020464413267049595
+1930,2275127,4e744882-7d94-4e1a-ae14-480ea1686a35,62,Reading WFC,Pass,,Kristine Leine,34.6,55.6,55.7,79.2,,,False,False,True,-0.0015310161920120144
+1932,2275127,308a916e-fbb5-4d57-9029-55561ca1796a,62,Reading WFC,Carry,,Natasha Harding,55.7,79.2,56.9,78.8,,,False,False,True,0.0
+1934,2275127,c1f1a01e-6a5d-4cec-b995-e23f7a9cc1c8,62,Everton LFC,Pass,Throw-in,Danielle Turner,43.6,0.1,55.4,22.7,,,False,False,True,-0.0017009125642841426
+1936,2275127,84e28cd4-f0fa-4a90-8663-30efa5823b57,62,Everton LFC,Carry,,Maéva Clemaron,55.4,22.7,59.0,26.6,,,False,False,True,0.0
+1939,2275127,7031b459-bb7d-4b38-80a9-418bebce8b33,62,Reading WFC,Pass,Recovery,Remi Allen,57.3,46.8,67.8,50.4,,,False,False,True,0.021580773937223643
+1941,2275127,c6026b65-d076-46e0-bf50-120e4f1ad3af,62,Reading WFC,Carry,,Fara Williams,67.8,50.4,67.3,49.0,,,False,False,True,-0.022138526337662272
+1942,2275127,40455dcd-812e-42bb-8b67-ef946861d702,62,Reading WFC,Pass,,Fara Williams,67.3,49.0,70.3,34.7,,,False,False,True,-0.015925554025718353
+1944,2275127,9b0634a6-7476-444b-a8c0-f10e6e23c22f,62,Reading WFC,Carry,,Amalie Vevle Eikeland,70.3,34.7,68.9,41.1,,,False,False,True,0.001599784450368921
+1949,2275127,74a581f8-c31d-42b8-a3df-a3d8a59a0c4d,62,Reading WFC,Carry,,Amalie Vevle Eikeland,68.9,41.1,68.0,41.8,,,False,False,True,0.0
+1953,2275127,1b34fa78-4843-4f8e-8996-0507bf119dc9,62,Everton LFC,Carry,,Simone Magill,58.5,35.9,58.5,37.1,,,False,False,True,0.0
+1956,2275127,cb076b86-b1e4-4597-accc-dd7a5d1a0071,62,Everton LFC,Carry,,Simone Magill,58.5,37.1,59.4,40.2,,,False,False,True,-0.0008314620926224599
+1959,2275127,8a44955c-92b6-4ae6-a736-4bda403ef619,62,Everton LFC,Carry,,Simone Magill,59.4,40.2,57.5,38.2,,,False,False,True,0.0008314620926224599
+1960,2275127,78045e81-3128-4bf0-be3f-101cd68c2c64,62,Everton LFC,Pass,,Simone Magill,57.5,38.2,56.6,44.9,,,False,False,True,-0.0008314620926224599
+1962,2275127,8f5ca5fb-0054-404a-851b-a896255d8d35,62,Everton LFC,Carry,,Lucy Hope,56.6,44.9,85.0,57.5,,,False,False,True,-0.003726808112742199
+1969,2275127,f3809cba-e382-4fb7-94b9-a23f0ebb5a23,63,Reading WFC,Pass,Goal Kick,Grace Moloney,6.0,44.0,41.7,73.6,,,False,False,True,0.0019261031322282884
+1971,2275127,f454465c-b739-4abb-b37e-5dff4fbbdd83,63,Reading WFC,Carry,,Natasha Harding,41.7,73.6,41.7,73.6,,,False,False,True,0.0
+1977,2275127,f1637834-05a1-44bd-9b7e-b7b7486e9138,63,Reading WFC,Carry,,Jade Moore,39.1,77.8,35.8,76.9,,,False,False,True,-0.0018388780731823096
+1981,2275127,ba1afbdf-a3d6-44fc-b3c3-4e48d5d53c07,63,Reading WFC,Carry,,Jade Moore,35.8,76.9,42.7,73.1,,,False,False,True,0.0032576239811975887
+1982,2275127,f7e5d3fb-112e-41c8-821f-373f9c147c18,63,Reading WFC,Pass,,Jade Moore,42.7,73.1,56.2,43.7,,,False,False,True,0.00390722032376635
+1984,2275127,7d0c3e50-eb12-4a8e-b232-49373152732b,63,Reading WFC,Carry,,Fara Williams,56.2,43.7,59.5,36.7,,,False,False,True,0.0008314620926224599
+1988,2275127,df276246-a332-4520-81bd-908b0fc5e452,63,Everton LFC,Carry,,Tinja-Riikka Tellervo Korpela,0.1,9.4,2.6,6.5,,,False,False,True,-0.001936104482377913
+1990,2275127,11acbecd-0667-43e5-be1e-5f5c66ebc3b9,64,Reading WFC,Pass,Throw-in,Natasha Harding,82.6,80.0,94.2,67.6,,,False,False,True,-0.008289232389680764
+1992,2275127,ebccfa47-4908-4b29-8a48-f5874a88f502,64,Reading WFC,Carry,,Lisa-Marie Utland,94.2,67.6,83.6,59.8,,,False,False,True,-0.01241831731859556
+1995,2275127,550ba4e6-caff-4732-8b9f-11aeaa87ccb1,64,Everton LFC,Pass,Goal Kick,Tinja-Riikka Tellervo Korpela,7.0,44.1,9.5,64.5,,,False,False,True,0.000964268127699773
+1997,2275127,47c55130-a0b9-4694-bf0c-a4e17e427394,64,Everton LFC,Carry,,Megan Finnigan,9.5,64.5,15.4,70.6,,,False,False,True,-0.002331917354114206
+2003,2275127,e8c03297-b746-480b-b806-880c56995ce3,64,Reading WFC,Carry,,Amalie Vevle Eikeland,85.8,8.8,83.6,3.6,,,False,False,True,0.0023521149590983795
+2005,2275127,cfb61b95-4967-4c9a-bdc0-def82430f533,64,Reading WFC,Pass,,Amalie Vevle Eikeland,83.6,3.6,73.2,0.1,,,False,False,True,0.006991472822048718
+2007,2275127,a1f23e3c-803f-4438-aeb7-56d9025cf785,64,Reading WFC,Carry,,Rachel Rowe,73.2,0.1,76.1,2.6,,,False,False,True,-0.01040928683004427
+2011,2275127,df6d785e-1353-476d-87ba-e1ed7eb8969e,64,Everton LFC,Carry,,Abbey-Leigh Stringer,30.1,66.2,24.9,79.6,,,False,False,True,-0.00452569693337356
+2019,2275127,478c6763-aaf4-4e69-b5df-d6819191c6f6,65,Reading WFC,Pass,Recovery,Sophie Howard,63.7,6.4,91.0,14.4,,,False,False,True,0.016050978108671114
+2022,2275127,9ddc0739-88d5-452b-a9ad-00e02a942e4d,65,Reading WFC,Carry,,Lisa-Marie Utland,91.0,14.4,91.7,13.9,,,False,False,True,0.0
+2023,2275127,43003e0b-6395-40ab-93d8-ce20a8ea0ec7,65,Reading WFC,Pass,,Lisa-Marie Utland,91.7,13.9,91.7,24.1,,,False,False,True,0.031430738252850456
+2026,2275127,121e026e-d5aa-4413-9922-75ed3bd929bd,65,Reading WFC,Carry,,Brooke Chaplen,91.7,24.1,91.6,25.8,,,False,False,True,0.0
+2034,2275127,03ef84c5-61c0-4454-9b79-41359d4da828,65,Everton LFC,Pass,Goal Kick,Tinja-Riikka Tellervo Korpela,7.0,44.1,10.3,60.2,,,False,False,True,0.000964268127699773
+2036,2275127,2eaacdd1-332e-4069-a26b-723fae0ec1f8,65,Everton LFC,Carry,,Megan Finnigan,10.3,60.2,15.5,61.6,,,False,False,True,-0.000374112298417681
+2038,2275127,0ae84e56-923e-40bd-9aad-a0992f13bccf,65,Everton LFC,Pass,,Megan Finnigan,15.5,61.6,29.2,62.2,,,False,False,True,0.0002830886204873927
+2040,2275127,6c978570-273b-4bfd-86f1-be76bf37e116,65,Everton LFC,Carry,,Lucy Hope,29.2,62.2,21.3,63.6,,,False,False,True,-0.0002830886204873927
+2042,2275127,2908f8d9-e227-4509-bc16-56151dc42fef,65,Everton LFC,Pass,,Lucy Hope,21.3,63.6,16.8,71.6,,,False,False,True,-0.0019578050556965255
+2045,2275127,2e4a932c-d681-4078-8cc5-bfca6b6c7e33,65,Everton LFC,Pass,,Megan Finnigan,14.7,71.3,33.7,59.3,,,False,False,True,0.003348718236763854
+2047,2275127,d220c478-bae1-4e9d-a3eb-8a67692fa17b,65,Everton LFC,Carry,,Maéva Clemaron,33.7,59.3,37.2,62.4,,,False,False,True,0.0005274350290652907
+2048,2275127,108794b4-fb9f-4177-8d9f-63609732ec78,65,Reading WFC,Pass,Recovery,Angharad James,84.6,19.1,89.5,13.3,,,False,False,True,-0.013758634366349965
+2050,2275127,0e13fec7-a680-4e3f-b570-dbe3964492c4,65,Reading WFC,Carry,,Rachel Rowe,89.5,13.3,90.0,13.0,,,False,False,True,0.012664537694089482
+2055,2275127,16ff7694-d798-47ce-b220-4baa4d805043,65,Reading WFC,Carry,,Rachel Rowe,90.0,13.0,93.1,17.9,,,False,False,True,0.007584990486057538
+2056,2275127,a0956914-e44a-48e7-b060-77a5152787e1,65,Reading WFC,Pass,,Rachel Rowe,93.1,17.9,94.9,25.5,,,False,False,True,0.031430738252850456
+2058,2275127,390e0afd-c2a2-4931-891d-09e7d32723ae,66,Reading WFC,Carry,,Fara Williams,94.9,25.5,92.6,20.1,,,False,False,True,0.0
+2066,2275127,2668c7d2-c4fb-4d67-97e7-3e738172f61e,66,Reading WFC,Pass,Throw-in,Rachel Rowe,52.1,0.1,55.2,5.5,,,False,False,True,-0.013958205313227771
+2068,2275127,44c563ee-2716-4e2a-8367-74a0d39c7f22,66,Reading WFC,Carry,,Angharad James,55.2,5.5,51.2,5.7,,,False,False,True,0.013958205313227771
+2074,2275127,dcace18c-fbf3-4b39-ac4b-31edd4d3fb5f,66,Everton LFC,Carry,,Inessa Kaagman,67.4,78.1,68.5,78.1,,,False,False,True,0.011095211052353497
+2077,2275127,54e9d44f-5e67-4bb9-9892-f5c6d9c7be04,66,Everton LFC,Pass,Throw-in,Inessa Kaagman,74.8,80.0,88.1,73.3,,,False,False,True,-0.0011397436301163778
+2083,2275127,3e8b93d4-99a7-4268-bdeb-eede61944103,66,Reading WFC,Pass,Recovery,Kristine Leine,25.0,18.9,57.6,26.2,,,False,False,True,0.003975300839258056
+2086,2275127,0d806c8a-a423-4757-9b15-37ce7e1a6397,66,Reading WFC,Carry,,Brooke Chaplen,57.6,26.2,55.4,24.8,,,False,False,True,0.0
+2092,2275127,a8e06228-971e-48c1-955e-8af20ebf7d75,67,Reading WFC,Carry,,Remi Allen,56.4,24.9,61.4,25.5,,,False,False,True,0.004490588162726506
+2093,2275127,d9184275-3e91-4700-b6c7-f1a9c1560fa0,67,Reading WFC,Pass,,Remi Allen,61.4,25.5,54.7,25.3,,,False,False,True,-0.004490588162726506
+2096,2275127,372dfd3a-7c48-4d7b-96e0-2a1f7347d207,67,Reading WFC,Carry,,Angharad James,54.7,25.3,56.6,25.8,,,False,False,True,0.0
+2097,2275127,9330fbcf-cb15-4a5b-b607-178707252078,67,Reading WFC,Pass,,Angharad James,56.6,25.8,106.3,10.6,,,False,False,True,0.005269140966793678
+2099,2275127,e6d2e495-e9e0-436e-881a-992c31551b65,67,Reading WFC,Carry,,Amalie Vevle Eikeland,106.3,10.6,105.6,9.5,,,False,False,True,0.0
+2100,2275127,fbd6142d-4b66-4b44-9188-b8be784047c7,67,Reading WFC,Pass,,Amalie Vevle Eikeland,105.6,9.5,105.4,30.7,,,False,False,True,0.04792617695561156
+2108,2275127,ce9c47ba-bb40-4986-a74c-b4be1bab39cf,67,Everton LFC,Pass,Recovery,Abbey-Leigh Stringer,36.3,27.8,49.8,22.1,,,False,False,True,0.0016193261081564048
+2114,2275127,9dc56b45-e15d-4f6b-aa53-aad0d292901a,67,Everton LFC,Pass,Free Kick,Chloe Kelly,63.2,20.5,78.1,57.9,,,False,False,True,0.04112760470463538
+2116,2275127,cf6514aa-54ca-4c03-bff0-66550c4f0330,67,Everton LFC,Carry,,Inessa Kaagman,78.1,57.9,86.1,62.1,,,False,False,True,-0.022787563482665384
+2122,2275127,ebd12435-4dd2-4d38-9240-93a355c98193,67,Reading WFC,Carry,,Remi Allen,36.1,14.6,42.2,9.2,,,False,False,True,-0.0005909245293668052
+2126,2275127,f3ccf828-4db9-4f85-9c8c-4f88a98e24e3,68,Reading WFC,Carry,,Fara Williams,53.8,13.3,55.2,18.0,,,False,False,True,-0.005646390950626367
+2131,2275127,8f8615d2-6605-4120-a4fa-bf13c78facbd,68,Reading WFC,Carry,,Angharad James,70.9,30.0,78.0,30.0,,,False,False,True,-0.001640841225353646
+2135,2275127,d992aaae-7509-48f6-8b7a-9e31a15abfbf,68,Reading WFC,Pass,Recovery,Angharad James,72.5,33.6,92.8,57.2,,,False,False,True,0.023416659086928963
+2137,2275127,fe2c8bcf-f96f-47ba-882f-64ddf36c6450,68,Reading WFC,Carry,,Natasha Harding,92.8,57.2,96.8,63.2,,,False,False,True,-0.03194196891939525
+2142,2275127,f9bfbe08-7250-4ca1-a87e-9b7fac34d54d,68,Everton LFC,Pass,Free Kick,Tinja-Riikka Tellervo Korpela,14.5,44.2,16.8,58.4,,,False,False,True,-0.0013456479195311701
+2144,2275127,b6c45c3b-7f4a-4056-96f0-d4c3da4cd951,68,Everton LFC,Carry,,Megan Finnigan,16.8,58.4,23.9,58.3,,,False,False,True,0.0006011603587929332
+2148,2275127,e37622e5-abc6-4fd2-87a1-3cea612369ff,68,Reading WFC,Pass,Recovery,Rachel Rowe,76.5,17.9,90.2,31.5,,,False,False,True,0.05435061373490047
+2150,2275127,58c5e442-6f89-4b0c-9e2b-650337dc479c,68,Reading WFC,Carry,,Fara Williams,90.2,31.5,88.4,29.5,,,False,False,True,-0.035074700621471874
+2156,2275127,6a7d57b0-bf57-4677-a70c-d3f11384a639,68,Reading WFC,Pass,Recovery,Lisa-Marie Utland,97.8,40.0,94.0,33.6,,,False,False,True,-0.12513409097118547
+2167,2275127,ea7350b8-76ba-4d5d-beca-e53adb729bbf,69,Reading WFC,Pass,Recovery,Rachel Rowe,97.1,17.5,96.9,21.0,,,False,False,True,0.031430738252850456
+2169,2275127,88d956ba-645f-43c6-82eb-5d3b77e30d45,69,Reading WFC,Carry,,Amalie Vevle Eikeland,96.9,21.0,98.0,21.7,,,False,False,True,-0.04354245806240177
+2170,2275127,2ae33aca-a886-4b31-aaa0-45ebb4ae6344,69,Reading WFC,Pass,,Amalie Vevle Eikeland,98.0,21.7,109.6,19.2,,,False,False,True,-0.012267017414013663
+2172,2275127,377b9826-32cb-45a6-89d2-8b65f5cf5c98,69,Reading WFC,Carry,,Rachel Rowe,109.6,19.2,117.9,21.7,,,False,False,True,0.0067404680631161
+2176,2275127,48edfce5-e5ef-4d39-a52b-926423b8a303,69,Reading WFC,Pass,Corner,Fara Williams,120.0,0.1,117.2,41.6,,,False,False,True,0.21750154804699634
+2181,2275127,87af5e46-6208-485b-a23b-3f0a182e4528,70,Everton LFC,Pass,Kick Off,Simone Magill,61.0,40.1,54.2,38.5,,,False,False,True,-0.006791943591026877
+2183,2275127,46161c47-6fbb-4604-b5a7-2ffeafee72f6,70,Everton LFC,Carry,,Maéva Clemaron,54.2,38.5,58.5,40.8,,,False,False,True,-0.0008314620926224599
+2188,2275127,15ce3e31-7436-4e81-bcff-c23c61583008,70,Reading WFC,Carry,,Lisa-Marie Utland,63.5,33.1,71.3,28.6,,,False,False,True,-0.00011089601886498518
+2194,2275127,e7cddf58-abc1-46de-9cdb-dd7307e4c353,71,Everton LFC,Carry,,Megan Finnigan,27.5,55.0,28.5,56.4,,,False,False,True,0.0
+2196,2275127,f9d88a70-9f5c-42fd-9694-05a791a5c00c,71,Everton LFC,Pass,,Megan Finnigan,28.5,56.4,37.9,59.0,,,False,False,True,0.00343056283320076
+2199,2275127,7c642827-8c4f-4d83-8c4a-ee20a5bb6c6b,71,Everton LFC,Carry,,Maéva Clemaron,37.9,59.0,36.5,59.3,,,False,False,True,-0.0013841215064958005
+2200,2275127,0670918a-5b5d-4f27-a11b-d0bdf830fc6b,71,Everton LFC,Pass,,Maéva Clemaron,36.5,59.3,37.4,78.5,,,False,False,True,-0.00206549157720851
+2202,2275127,5852bcbd-f824-4e76-b20a-7ea339a8a71d,71,Everton LFC,Carry,,Esme Beth Morgan,37.4,78.5,38.4,76.8,,,False,False,True,0.0018388780731823096
+2203,2275127,fd0c5a9c-68cf-417f-9725-bdff1c703383,71,Everton LFC,Pass,,Esme Beth Morgan,38.4,76.8,50.0,67.3,,,False,False,True,0.0007371280917778797
+2206,2275127,5b4121a0-5342-4971-85f1-bee3ff3ea6b0,71,Everton LFC,Carry,,Lucy Hope,50.0,67.3,52.3,66.4,,,False,False,True,-0.00042279222662586734
+2207,2275127,84fc4625-751e-4498-89a4-e74fe03e9360,71,Everton LFC,Pass,,Lucy Hope,52.3,66.4,62.5,69.5,,,False,False,True,0.004954310066422739
+2210,2275127,dd315703-f260-4469-854d-84f923651e8c,71,Everton LFC,Carry,,Simone Magill,62.5,69.5,62.5,69.9,,,False,False,True,0.0
+2211,2275127,57ae3d2b-7376-4433-bd5c-f7baaa03f430,71,Everton LFC,Pass,,Simone Magill,62.5,69.9,63.4,66.2,,,False,False,True,0.0017004839835805217
+2213,2275127,b6dabc36-c0fc-4fb3-9fb7-ee718586d55f,71,Everton LFC,Carry,,Maéva Clemaron,63.4,66.2,80.5,68.3,,,False,False,True,-0.011449196704218206
+2216,2275127,bead59fc-66a4-4dc1-96e8-53a78e5b498f,71,Everton LFC,Pass,Throw-in,Lucy Hope,91.8,80.0,107.9,67.6,,,False,False,True,0.01803090355563082
+2218,2275127,2eb2783f-bd9a-4f51-ac19-0874cd754d91,71,Everton LFC,Carry,,Inessa Kaagman,107.9,67.6,107.9,67.3,,,False,False,True,0.0
+2219,2275127,96b40057-49a5-40b7-82f0-d720d60db57d,71,Everton LFC,Pass,,Inessa Kaagman,107.9,67.3,104.3,58.8,,,False,False,True,0.06790558878203251
+2222,2275127,c0bf57eb-6988-44de-a2e6-26f458914b8d,71,Everton LFC,Carry,,Simone Magill,104.3,58.8,105.8,53.9,,,False,False,True,-0.03239626833725061
+2225,2275127,0734bff0-c0c2-43d6-9bd2-354a617ce045,71,Everton LFC,Carry,,Simone Magill,105.8,53.9,108.9,50.8,,,False,False,True,0.07871058500000039
+2228,2275127,75362601-b6bb-4087-a0cd-ebf236bf1aea,71,Reading WFC,Carry,,Sophie Howard,11.2,29.3,11.5,27.9,,,False,False,True,0.0
+2234,2275127,84a54407-8a51-40cb-9b60-3d82c5fad267,71,Reading WFC,Pass,Throw-in,Rachel Rowe,39.9,0.1,56.2,3.6,,,False,False,True,-0.0021101356238589115
+2236,2275127,d8cdba1a-9ffe-472a-b4df-949799c099af,71,Reading WFC,Pass,,Amalie Vevle Eikeland,57.4,3.3,64.7,4.5,,,False,False,True,0.004239690367260388
+2238,2275127,7f9a2351-97cc-4550-96a6-2ee9dc6ead9d,71,Reading WFC,Carry,,Lisa-Marie Utland,64.7,4.5,61.8,5.0,,,False,False,True,0.0
+2243,2275127,0106f7ad-b17f-4c53-b1db-b38e5705e54b,71,Reading WFC,Carry,,Lisa-Marie Utland,68.0,4.3,97.5,10.6,,,False,False,True,0.008420792987575035
+2248,2275127,69ed4ad4-41e9-4807-bb88-dfbd3af8f388,71,Reading WFC,Pass,Recovery,Rakel Hönnudóttir,94.3,14.9,99.4,1.4,,,False,False,True,-0.017341998689824088
+2250,2275127,2311f525-5f12-41bc-a87c-8fcab51bab87,71,Reading WFC,Carry,,Amalie Vevle Eikeland,99.4,1.4,112.4,13.5,,,False,False,True,-0.007036738533740894
+2258,2275127,0f637efd-ac66-4f4a-88a1-dbef549a6586,72,Everton LFC,Carry,,Simone Magill,13.6,35.2,15.0,34.9,,,False,False,True,0.005764879566758045
+2262,2275127,24abd43b-d97e-463e-b8f5-8bc3d39f6e41,72,Reading WFC,Pass,Recovery,Rakel Hönnudóttir,92.6,47.3,81.3,42.5,,,False,False,True,-0.16009450425792282
+2267,2275127,28af38da-f429-4b24-8cc4-b78e9b256f71,74,Everton LFC,Pass,Goal Kick,Tinja-Riikka Tellervo Korpela,7.0,36.1,11.6,55.7,,,False,False,True,-0.0018098018550795174
+2269,2275127,4aaa1f19-7e45-44c8-94c1-02f885b408c4,74,Everton LFC,Carry,,Megan Finnigan,11.6,55.7,43.4,68.8,,,False,False,True,0.002339164755685621
+2273,2275127,e6c3cb38-bee8-4b6c-b227-79f7e25055c4,75,Everton LFC,Pass,Corner,Inessa Kaagman,120.0,80.0,117.4,33.3,,,False,False,True,0.06337498
+2278,2275127,66d3f0ad-d292-490d-840e-7c6ba5740979,75,Reading WFC,Pass,Goal Kick,Grace Moloney,6.0,36.0,6.0,56.0,,,False,False,True,-0.003537716828086919
+2280,2275127,145e631e-f161-499b-a479-d94172c53939,75,Reading WFC,Carry,,Kristine Leine,6.0,56.0,6.3,58.2,,,False,False,True,0.0
+2281,2275127,d2156530-736d-4577-ba15-408f99c1f3ca,75,Reading WFC,Pass,,Kristine Leine,6.3,58.2,4.2,45.2,,,False,False,True,0.0007222306884494556
+2283,2275127,deebd300-4bb3-4cf2-b714-8b5d199a9984,75,Reading WFC,Carry,,Grace Moloney,4.2,45.2,4.6,43.5,,,False,False,True,0.0
+2290,2275127,632addfe-1e97-4805-bb9a-b363f53a9c98,75,Reading WFC,Carry,,Lisa-Marie Utland,62.1,53.4,56.2,53.9,,,False,False,True,0.0019789259356943704
+2295,2275127,52d0e50e-67ff-492b-a49f-d5b210ff15f9,75,Everton LFC,Carry,,Chloe Kelly,65.6,21.0,78.3,22.9,,,False,False,True,0.012952259169012378
+2301,2275127,c7b7c56b-4c0d-4c66-8083-c3b4c5de7eaa,76,Reading WFC,Carry,,Grace Moloney,3.7,31.0,8.7,31.5,,,False,False,True,0.0003645532570192671
+2302,2275127,04b84dc5-e126-4bae-87da-2871625e6f12,76,Reading WFC,Pass,,Grace Moloney,8.7,31.5,33.9,59.1,,,False,False,True,0.000569661496518381
+2304,2275127,66c5396c-fbaf-4183-83d7-4ec32d1eb7ad,76,Reading WFC,Carry,,Natasha Harding,33.9,59.1,44.4,69.8,,,False,False,True,0.0011921324039890786
+2305,2275127,adeaf0d2-8ac0-44d0-9539-daa79b4d5165,76,Reading WFC,Pass,,Natasha Harding,44.4,69.8,63.7,60.3,,,False,False,True,0.005550384007139994
+2307,2275127,d045f9d6-751c-4769-844e-1084ec4f4eea,76,Reading WFC,Carry,,Angharad James,63.7,60.3,64.7,59.1,,,False,False,True,-0.008129029263805987
+2311,2275127,f184d04a-0859-48db-a74d-ff83b5539471,76,Reading WFC,Pass,Recovery,Fara Williams,84.3,52.2,106.1,19.6,,,False,False,True,0.0029987837176445116
+2313,2275127,8e4067cc-a687-4e7e-a14b-007efdb8969a,76,Reading WFC,Carry,,Amalie Vevle Eikeland,106.1,19.6,118.2,14.0,,,False,False,True,-0.0007429006701659283
+2320,2275127,435b5a78-47f9-4b8f-ba75-90d92dca7068,77,Everton LFC,Pass,Goal Kick,Tinja-Riikka Tellervo Korpela,7.0,36.1,7.6,26.0,,,False,False,True,0.0010979663777381798
+2322,2275127,617057cd-aca6-4e1f-9593-2d39c209ffae,77,Everton LFC,Carry,,Gabrielle George,7.6,26.0,9.8,33.5,,,False,False,True,-0.003720825570608919
+2327,2275127,834b07ec-c6c5-44a5-b055-c324a0b1109f,77,Reading WFC,Carry,,Remi Allen,77.5,56.7,80.5,50.2,,,False,False,True,-0.034891968329131905
+2328,2275127,5ccf0067-4e8a-4c7a-bb9a-41ad3eb8310f,77,Reading WFC,Pass,,Remi Allen,80.5,50.2,94.3,53.5,,,False,False,True,0.010720885220551903
+2330,2275127,816d2abe-6a31-4db5-9983-52b983499a14,77,Reading WFC,Carry,,Rakel Hönnudóttir,94.3,53.5,94.3,53.5,,,False,False,True,0.0
+2336,2275127,433b80ed-467f-464c-8c7b-4cc4cd704f99,77,Reading WFC,Carry,,Remi Allen,86.9,42.1,88.4,39.7,,,False,False,True,0.01587803892462926
+2337,2275127,33d20843-cbcb-4313-a675-69563cfa295c,77,Reading WFC,Pass,,Remi Allen,88.4,39.7,92.1,33.8,,,False,False,True,0.061010750055369926
+2339,2275127,8d0e73e1-205d-49d8-ba97-7290a40c0f3f,77,Reading WFC,Carry,,Fara Williams,92.1,33.8,92.1,33.8,,,False,False,True,0.0
+2340,2275127,ee60c514-2a17-46af-b03b-3f5b088123c6,77,Reading WFC,Pass,,Fara Williams,92.1,33.8,88.4,32.4,,,False,False,True,-0.042896774256700396
+2342,2275127,58c26953-03ba-4d2e-b699-2e7ca3b2c000,77,Reading WFC,Carry,,Remi Allen,88.4,32.4,88.4,31.0,,,False,False,True,0.0
+2343,2275127,6ec6db3e-822a-48b3-aac2-ff17b4998505,77,Reading WFC,Pass,,Remi Allen,88.4,31.0,116.5,7.6,,,False,False,True,0.00353809520272301
+2345,2275127,4ea6e66a-9b59-4a68-8bff-51af1c2d501c,78,Reading WFC,Carry,,Amalie Vevle Eikeland,116.5,7.6,115.8,3.6,,,False,False,True,0.058858758273758055
+2350,2275127,1f3f92cc-9545-45c8-91ef-01af13bfce28,78,Everton LFC,Carry,,Hannah Cain,6.2,71.8,10.9,78.5,,,False,False,True,0.00036542045459245676
+2354,2275127,236a7c6e-67bf-4c86-8a2f-97d152d19031,78,Everton LFC,Pass,Throw-in,Esme Beth Morgan,16.1,80.0,20.0,73.7,,,False,False,True,0.0
+2357,2275127,3e9cca3a-0fe0-4b5d-ab2d-608e010bb2b0,78,Everton LFC,Pass,,Maéva Clemaron,20.9,73.9,15.9,75.9,,,False,False,True,0.0
+2360,2275127,bcba0708-bf02-4be3-b9cc-eb086a649193,78,Everton LFC,Pass,,Esme Beth Morgan,16.1,76.1,45.2,56.9,,,False,False,True,0.0030828032406624
+2363,2275127,d4788d7c-6772-4a73-bbfe-821899807477,78,Everton LFC,Carry,,Lucy Hope,45.2,56.9,44.5,57.1,,,False,False,True,-0.0030044339360863186
+2367,2275127,8754d90b-7ad0-4fa1-97ee-74fe4e7c6c5c,78,Everton LFC,Pass,Recovery,Lucy Hope,56.1,49.1,85.5,30.2,,,False,False,True,0.04305008221789935
+2370,2275127,f0922abb-16dc-4926-972a-e4957d393c7f,78,Everton LFC,Carry,,Chloe Kelly,85.5,30.2,103.7,38.1,,,False,False,True,0.16803086522788585
+2378,2275127,fae4785c-1ce2-4625-a64d-a3edc814aa0b,79,Everton LFC,Pass,Recovery,Maéva Clemaron,64.7,37.6,63.7,27.6,,,False,False,True,0.0019959461199789592
+2381,2275127,5db18313-8ea6-4982-b23d-36412a27aa4d,79,Everton LFC,Carry,,Lucy Hope,63.7,27.6,65.3,25.7,,,False,False,True,-0.002736704245292359
+2382,2275127,ec7959e8-f011-481b-8502-bf11a9fbdd8c,79,Everton LFC,Pass,,Lucy Hope,65.3,25.7,72.7,23.1,,,False,False,True,0.006966152353245818
+2384,2275127,d1c499bb-dc8d-45fd-bc02-5e68b20bc342,79,Everton LFC,Carry,,Chloe Kelly,72.7,23.1,85.7,32.8,,,False,False,True,0.04610709879993693
+2390,2275127,2955f044-1749-4707-9f4f-d8ce7ac78373,80,Everton LFC,Pass,Recovery,Esme Beth Morgan,32.0,67.3,44.1,55.1,,,False,False,True,0.003168400910605022
+2392,2275127,407a88ac-5622-43e7-ab46-93c243e38ef9,80,Everton LFC,Carry,,Maéva Clemaron,44.1,55.1,45.5,55.3,,,False,False,True,0.0030044339360863186
+2395,2275127,8278a068-2e35-4772-84ad-6da21b430b5d,80,Reading WFC,Pass,Recovery,Kristine Leine,65.2,31.4,90.9,10.9,,,False,False,True,0.005069162522280332
+2397,2275127,fb6e52bf-2531-4bfa-ad28-4542d5a73d9d,80,Reading WFC,Carry,,Amalie Vevle Eikeland,90.9,10.9,97.3,6.1,,,False,False,True,-0.00758392273955372
+2402,2275127,95d51150-ca76-4237-a7c9-ba0c09475c1c,80,Everton LFC,Carry,,Esme Beth Morgan,24.9,71.4,24.9,71.4,,,False,False,True,0.0
+2403,2275127,ed19dd6f-1c44-4c9d-9564-a37ed4229cb7,80,Everton LFC,Pass,,Esme Beth Morgan,24.9,71.4,30.1,69.4,,,False,False,True,-0.0006240446617220181
+2405,2275127,65be2bcc-285d-43ed-a372-7b47f00c39e1,80,Everton LFC,Carry,,Maéva Clemaron,30.1,69.4,29.9,69.4,,,False,False,True,0.0006240446617220181
+2406,2275127,0520a0ce-6fcb-4dbe-815e-58fd1d95b163,80,Everton LFC,Pass,,Maéva Clemaron,29.9,69.4,31.3,71.3,,,False,False,True,-0.0006240446617220181
+2409,2275127,da8babbd-38d9-43ea-baa9-aa61c82d04b2,80,Everton LFC,Carry,,Hannah Cain,31.3,71.3,35.5,76.8,,,False,False,True,-0.0002812121730992887
+2419,2275127,fdc0e5ec-1791-49b8-b44d-5bbe964d00bf,80,Everton LFC,Pass,Recovery,Abbey-Leigh Stringer,44.1,69.9,28.2,66.1,,,False,False,True,-0.002471604590474083
+2421,2275127,c1526d5d-5994-4151-8277-5965c75c250a,80,Everton LFC,Carry,,Megan Finnigan,28.2,66.1,30.4,65.0,,,False,False,True,0.001806907215550295
+2422,2275127,2575cfb7-78cc-461e-b77d-44100f465f1f,80,Everton LFC,Pass,,Megan Finnigan,30.4,65.0,14.0,45.3,,,False,False,True,-0.0018293887950320132
+2424,2275127,78ec8076-0f40-404b-a287-6891530096b6,80,Everton LFC,Carry,,Tinja-Riikka Tellervo Korpela,14.0,45.3,15.5,40.8,,,False,False,True,-0.0004525460822300911
+2429,2275127,b4259959-3824-4371-988b-0966a359c53c,80,Everton LFC,Pass,Recovery,Maéva Clemaron,47.6,29.7,58.2,9.4,,,False,False,True,0.0076941698686077385
+2431,2275127,76098d25-c051-4355-9897-34433d94df77,80,Everton LFC,Pass,,Danielle Turner,57.1,12.5,58.2,21.4,,,False,False,True,-0.006180242303505563
+2434,2275127,1c465e11-cfc2-4139-80a7-ab1c976101ef,80,Everton LFC,Carry,,Lucy Hope,58.2,21.4,62.2,23.8,,,False,False,True,0.004490588162726506
+2437,2275127,21a81836-b9a8-4952-90a5-0e3a1593c414,80,Everton LFC,Carry,,Lucy Hope,62.2,23.8,72.2,37.6,,,False,False,True,-0.006460137490873584
+2441,2275127,3fab485b-48d3-4bab-9fdc-96194be8e05c,80,Reading WFC,Carry,,Grace Moloney,13.1,34.3,21.2,47.1,,,False,False,True,0.0003873982660523071
+2447,2275127,fb75e29d-1619-46c4-914d-0a17d70e0cde,81,Reading WFC,Carry,,Lisa-Marie Utland,71.1,25.3,81.3,16.8,,,False,False,True,0.02683118568650833
+2449,2275127,43cb1673-de94-445b-a094-b0109ebb2d3d,81,Reading WFC,Pass,,Lisa-Marie Utland,81.3,16.8,103.5,7.1,,,False,False,True,-0.020891628197548806
+2451,2275127,10a07727-acee-4c74-8d39-57dde9d86818,81,Reading WFC,Carry,,Amalie Vevle Eikeland,103.5,7.1,111.8,4.0,,,False,False,True,-0.024888490498489672
+2456,2275127,d5b6b9ab-feb3-4864-8299-b2835a057304,81,Reading WFC,Carry,,Lisa-Marie Utland,105.6,30.7,106.5,29.6,,,False,False,True,0.0
+2457,2275127,cf3867ca-3829-4e46-ae75-6f1f21739dcf,81,Reading WFC,Pass,,Lisa-Marie Utland,106.5,29.6,109.2,27.6,,,False,False,True,0.0
+2461,2275127,f242570d-ebd2-4a38-a710-be20c3f31470,81,Everton LFC,Pass,,Tinja-Riikka Tellervo Korpela,12.8,42.7,27.0,24.1,,,False,False,True,0.007529265626472811
+2463,2275127,4a07bd78-6ddc-44a7-9498-ec677396fc4d,81,Everton LFC,Carry,,Danielle Turner,27.0,24.1,50.0,11.1,,,False,False,True,-0.0018972352977589466
+2467,2275127,392cef80-21e8-47b9-8f8b-94a82117eda9,82,Reading WFC,Pass,Throw-in,Natasha Harding,70.3,80.0,91.6,74.3,,,False,False,True,0.007368383742603738
+2475,2275127,bddf6d86-719d-42c5-add2-38e8094c3bbf,82,Everton LFC,Pass,Recovery,Gabrielle George,23.3,25.2,33.0,28.1,,,False,False,True,-0.003665414847644332
+2477,2275127,b4138f90-53df-4fcc-8910-a252173901ee,82,Everton LFC,Carry,,Lucy Hope,33.0,28.1,32.0,25.7,,,False,False,True,0.0015254034847860878
+2479,2275127,6de85120-3994-4848-994f-535b30089087,82,Everton LFC,Pass,,Lucy Hope,32.0,25.7,25.9,19.3,,,False,False,True,-0.002274422469381673
+2481,2275127,2ff23153-0a07-45fd-af3f-f89b8fef3bd2,82,Everton LFC,Carry,,Danielle Turner,25.9,19.3,28.9,19.3,,,False,False,True,0.0
+2487,2275127,d5f8529b-7b50-4af8-af5e-b850138301d5,82,Everton LFC,Pass,Throw-in,Lucy Hope,62.8,0.1,49.2,5.2,,,False,False,True,0.009718514945967384
+2489,2275127,e31392f7-afae-4f70-b77b-1d358c3f675b,82,Everton LFC,Carry,,Danielle Turner,49.2,5.2,50.4,4.7,,,False,False,True,0.0
+2496,2275127,a8586836-fa0b-4af1-a12e-eb1abcd7488c,82,Everton LFC,Carry,,Chloe Kelly,87.4,24.0,85.5,27.6,,,False,False,True,0.03402951836794156
+2501,2275127,6f95313f-c406-4b9a-8c1a-5e71cac49e5e,82,Everton LFC,Carry,,Maéva Clemaron,79.8,27.8,79.0,31.9,,,False,False,True,0.0
+2502,2275127,7a8d796b-7429-4680-9f74-6d51af51761c,82,Everton LFC,Pass,,Maéva Clemaron,79.0,31.9,91.8,56.2,,,False,False,True,0.015971554594981653
+2504,2275127,24a10daa-bdbf-4437-bda0-c568b768c067,82,Everton LFC,Carry,,Esme Beth Morgan,91.8,56.2,97.5,58.4,,,False,False,True,0.07916488441785496
+2507,2275127,c6d9803c-b8ae-4abc-9e7d-a5ca20711201,82,Reading WFC,Carry,,Rachel Rowe,22.6,21.7,69.2,2.4,,,False,False,True,0.00853637202437495
+2510,2275127,433d110e-42cb-4fc3-a298-fb3c53698831,83,Everton LFC,Pass,Free Kick,Megan Finnigan,28.4,68.3,11.2,54.8,,,False,False,True,1.3202390690660731e-05
+2512,2275127,46cc877f-bb73-4607-8bdf-560b0adaefca,83,Everton LFC,Carry,,Tinja-Riikka Tellervo Korpela,11.2,54.8,15.0,52.0,,,False,False,True,-0.00042565907173891483
+2513,2275127,eac31607-ab7a-435f-953f-6debca878f7c,83,Everton LFC,Pass,,Tinja-Riikka Tellervo Korpela,15.0,52.0,15.9,30.2,,,False,False,True,0.0030883420059749527
+2515,2275127,44d6d773-fabe-471f-ac57-fd2f79b1c735,83,Everton LFC,Carry,,Gabrielle George,15.9,30.2,25.9,32.4,,,False,False,True,0.002728884840681533
+2516,2275127,28d541ef-ee07-42c7-9660-23d429f5f0d6,83,Everton LFC,Pass,,Gabrielle George,25.9,32.4,42.6,4.4,,,False,False,True,0.0032445560085873418
+2518,2275127,4efd1507-2aef-4994-abe8-c96cef952422,83,Everton LFC,Carry,,Danielle Turner,42.6,4.4,63.9,12.5,,,False,False,True,-0.0009331326238616357
+2520,2275127,a291045f-4add-4aa3-861e-384ecd98111c,83,Everton LFC,Pass,,Danielle Turner,63.9,12.5,63.7,23.8,,,False,False,True,0.003722808222303999
+2522,2275127,0dd246ec-3389-4cf2-a203-1b4ac5224689,83,Everton LFC,Carry,,Abbey-Leigh Stringer,63.7,23.8,63.7,23.8,,,False,False,True,0.0
+2526,2275127,b153132e-2319-4486-97a5-873fa6df092b,83,Everton LFC,Pass,Throw-in,Danielle Turner,63.2,0.1,63.9,11.5,,,False,False,True,-0.003062687367263112
+2528,2275127,a4d66a62-d7c2-4242-b5db-8469b09934ed,83,Everton LFC,Carry,,Abbey-Leigh Stringer,63.9,11.5,63.9,11.5,,,False,False,True,0.0
+2529,2275127,99586121-28e6-4167-b05c-f1ffe13043e7,83,Everton LFC,Pass,,Abbey-Leigh Stringer,63.9,11.5,50.0,11.7,,,False,False,True,-0.0022258822451995917
+2531,2275127,34a56786-d5ea-412a-9547-4eb5fe81995c,83,Everton LFC,Carry,,Gabrielle George,50.0,11.7,41.5,15.5,,,False,False,True,-0.0020292047638482014
+2532,2275127,e2625897-1b96-4b3e-b0b1-b11e349ee4d4,83,Everton LFC,Pass,,Gabrielle George,41.5,15.5,23.2,31.8,,,False,False,True,0.001943663624322087
+2534,2275127,51cf06a2-73ba-4b68-9ff0-f71e1c4200ed,83,Everton LFC,Carry,,Tinja-Riikka Tellervo Korpela,23.2,31.8,24.2,36.1,,,False,False,True,0.0012535677128452313
+2535,2275127,dea0a0a8-b9c3-4c88-a22e-575003a59d30,83,Everton LFC,Pass,,Tinja-Riikka Tellervo Korpela,24.2,36.1,41.9,39.7,,,False,False,True,-0.00634614938649247
+2537,2275127,8881f43a-f29f-48be-9b76-3f45778c15bf,83,Everton LFC,Carry,,Abbey-Leigh Stringer,41.9,39.7,37.4,43.9,,,False,False,True,0.0009000219029904645
+2542,2275127,b65929ae-31e7-4b02-9618-393868b16efd,83,Reading WFC,Carry,,Amalie Vevle Eikeland,71.8,15.4,111.0,11.6,,,False,False,True,0.005545431752599155
+2549,2275127,6d7d0689-ce8f-4973-b61c-f688058cd42a,83,Reading WFC,Pass,Recovery,Angharad James,87.9,27.9,101.3,10.6,,,False,False,True,-0.040167541310977405
+2551,2275127,2ad1c858-33aa-469c-b496-8781498c1adc,83,Reading WFC,Carry,,Amalie Vevle Eikeland,101.3,10.6,107.3,19.1,,,False,False,True,-0.021893589812140096
+2558,2275127,3cb79999-3a61-4179-b3f5-1a271bbb5ebe,86,Everton LFC,Pass,,Tinja-Riikka Tellervo Korpela,13.6,50.6,17.8,60.5,,,False,False,True,0.0002866296720935987
+2560,2275127,a462437f-7b36-4780-af59-01c0c27f6fc5,86,Everton LFC,Carry,,Megan Finnigan,17.8,60.5,18.8,64.7,,,False,False,True,0.0
+2564,2275127,7a34dba3-aa5a-480f-ab9d-0f835a126007,86,Reading WFC,Carry,,Rakel Hönnudóttir,92.6,46.1,95.5,42.4,,,False,False,True,0.0
+2567,2275127,50bce421-6abf-4dd9-9b01-7c353eafe38a,86,Everton LFC,Pass,,Tinja-Riikka Tellervo Korpela,15.4,42.2,51.2,20.3,,,False,False,True,0.005935722969214976
+2569,2275127,00d0f833-8250-46af-ba17-f3082706eefc,86,Everton LFC,Carry,,Lucy Hope,51.2,20.3,55.4,7.7,,,False,False,True,0.007787198050011629
+2574,2275127,8a0f1374-3215-47e5-98b8-821fc3e66eef,87,Reading WFC,Pass,Throw-in,Natasha Harding,60.7,80.0,76.5,67.4,,,False,False,True,-0.006706766204629653
+2576,2275127,da56b21a-491b-4f60-a577-0232a6ebc1ef,87,Reading WFC,Carry,,Rakel Hönnudóttir,76.5,67.4,77.0,67.6,,,False,False,True,0.0
+2579,2275127,d8e9f733-5a41-4f00-86f0-26a495e0d346,87,Everton LFC,Carry,,Chloe Kelly,47.8,12.2,100.8,12.4,,,False,False,True,0.018854400309708932
+2584,2275127,8a508a0f-27a3-4316-b31e-29082fea4772,87,Everton LFC,Pass,Throw-in,Danielle Turner,91.4,0.1,89.7,16.9,,,False,False,True,0.008678019411814203
+2587,2275127,f21001ae-626d-4b24-86cf-f856d1851b40,87,Everton LFC,Carry,,Hannah Cain,89.7,16.9,90.4,22.6,,,False,False,True,0.03792163206664751
+2590,2275127,944e7f39-3413-4cae-8cbb-64b1dd1e4eb9,87,Everton LFC,Carry,,Hannah Cain,90.4,22.6,89.7,27.6,,,False,False,True,0.006251655646702062
+2595,2275127,eecfde63-7409-47f1-a35f-219f965e5e89,87,Everton LFC,Carry,,Megan Finnigan,57.6,43.9,55.4,40.4,,,False,False,True,0.0
+2596,2275127,809f7291-de4a-414a-9e22-e354d4592988,87,Everton LFC,Pass,,Megan Finnigan,55.4,40.4,55.2,30.7,,,False,False,True,-1.7971314668642144e-05
+2598,2275127,4523aa14-6214-497e-a72b-3ffa3dd0790c,87,Everton LFC,Carry,,Gabrielle George,55.2,30.7,64.6,25.5,,,False,False,True,0.005197385617163947
+2599,2275127,97a811fc-bf49-4949-824e-2e233fbedfd0,87,Everton LFC,Pass,,Gabrielle George,64.6,25.5,83.3,4.0,,,False,False,True,-0.0025065559674184116
+2601,2275127,9583218a-8e30-47fd-bc10-bf1e8ee9075f,87,Everton LFC,Carry,,Danielle Turner,83.3,4.0,93.7,5.2,,,False,False,True,0.0027284999954373824
+2607,2275127,ed7c3d3b-e96a-4ad8-aed4-551993d33b89,87,Reading WFC,Carry,,Angharad James,32.0,49.9,56.9,45.1,,,False,False,True,0.0057299630111985415
+2608,2275127,4c7ba02b-3d5d-4d0c-ba5d-66de60d2308f,87,Reading WFC,Pass,,Angharad James,56.9,45.1,92.8,16.8,,,False,False,True,0.020570271556125536
+2610,2275127,4b9eaa0c-24d6-4566-b2a2-8af0896d0864,87,Reading WFC,Carry,,Amalie Vevle Eikeland,92.8,16.8,112.5,18.7,,,False,False,True,-0.02512163789373091
+2622,2275127,7e920712-a85d-4108-b34f-42e70a54b55b,88,Everton LFC,Pass,Throw-in,Danielle Turner,44.0,0.1,42.9,9.9,,,False,False,True,-0.004121973185533439
+2624,2275127,16109f71-9d4d-4e7f-9286-8aa174bf3255,88,Everton LFC,Carry,,Abbey-Leigh Stringer,42.9,9.9,34.8,8.0,,,False,False,True,-0.002233108236260187
+2626,2275127,70ef71c3-403c-4aad-a9b6-f04fb32251b1,88,Everton LFC,Pass,,Abbey-Leigh Stringer,34.8,8.0,20.0,12.7,,,False,False,True,-0.0002728052958087769
+2628,2275127,91096b6c-dc7f-4966-9549-e3560cf74487,88,Everton LFC,Carry,,Gabrielle George,20.0,12.7,22.3,7.8,,,False,False,True,0.0
+2633,2275127,8bdbf018-75d5-4e5e-9b7e-c85cf8f36bb3,88,Reading WFC,Carry,,Angharad James,74.4,70.0,76.1,74.9,,,False,False,True,0.0078559616555815
+2635,2275127,202d83fe-43cb-43d3-8e06-7e3a18ec4b26,88,Reading WFC,Pass,,Angharad James,76.1,74.9,86.4,76.4,,,False,False,True,0.010714872949052531
+2637,2275127,ab86569a-1260-497e-a8a3-6ab27fc87f0f,88,Reading WFC,Carry,,Rakel Hönnudóttir,86.4,76.4,86.4,75.4,,,False,False,True,0.0
+2638,2275127,1500c009-d5fe-4a65-8fe2-0f2b1407c18f,88,Reading WFC,Pass,,Rakel Hönnudóttir,86.4,75.4,95.7,74.9,,,False,False,True,-0.0016164136167917988
+2640,2275127,d9cf864e-5ca1-4e41-aed1-c825da395dd7,88,Reading WFC,Carry,,Lisa-Marie Utland,95.7,74.9,118.2,71.0,,,False,False,True,-0.025170360999586888
+2646,2275127,2706fa63-466e-4bb5-8e47-49048033293d,89,Everton LFC,Carry,,Tinja-Riikka Tellervo Korpela,1.3,39.6,12.9,47.7,,,False,False,True,-0.0025119599824489705
+2647,2275127,9a1cad9d-2c37-4129-b9e6-5bab850ebb6b,89,Everton LFC,Pass,,Tinja-Riikka Tellervo Korpela,12.9,47.7,40.7,63.6,,,False,False,True,-0.0006418907615275628
+2649,2275127,141817f1-bdbe-4074-8a34-e5c7bb6af1de,89,Everton LFC,Carry,,Lucy Hope,40.7,63.6,42.7,66.2,,,False,False,True,0.0
+2652,2275127,03870aa2-4ee5-40c9-95d5-87d5f3c99415,89,Reading WFC,Carry,,Rachel Rowe,74.1,7.5,74.4,0.1,,,False,False,True,-0.00032991172974793787
+2654,2275127,db50d276-daec-4dc9-b6fd-69aad47978a2,89,Everton LFC,Pass,Recovery,Lucy Hope,42.6,79.1,42.9,71.6,,,False,False,True,0.0014187459080152792
+2656,2275127,67e11ea1-6ed3-46f5-9206-061cce2a7138,89,Everton LFC,Carry,,Esme Beth Morgan,42.9,71.6,44.1,68.1,,,False,False,True,0.0
+2658,2275127,4cc5000e-bcf3-45bb-9e2a-a924317e4c3c,89,Everton LFC,Pass,,Esme Beth Morgan,44.1,68.1,57.6,62.9,,,False,False,True,0.007011249251246647
+2660,2275127,b2c53100-89df-4a6d-bafa-5e400670be04,89,Everton LFC,Carry,,Maéva Clemaron,57.6,62.9,58.2,63.3,,,False,False,True,0.0
+2665,2275127,8ab642b3-3288-47ce-b16b-e4854c3393de,89,Reading WFC,Pass,Recovery,Kristine Leine,51.5,25.1,61.8,34.5,,,False,False,True,0.006838302034545971
+2667,2275127,a61f61b9-bf5d-4c65-bb20-03128a2b471d,89,Reading WFC,Carry,,Amalie Vevle Eikeland,61.8,34.5,54.3,37.9,,,False,False,True,-0.005088710335186245
+2668,2275127,d325e5e1-ed37-4ebf-a2c3-52fd30b13008,89,Reading WFC,Pass,,Amalie Vevle Eikeland,54.3,37.9,43.9,32.6,,,False,False,True,-0.0025284277889862147
+2670,2275127,730984a2-0f85-4c1b-bdc2-a1046f6496f5,89,Reading WFC,Carry,,Kristine Leine,43.9,32.6,42.4,34.8,,,False,False,True,-0.004250433281817884
+2671,2275127,67700b52-b889-4d83-9657-851646b039de,89,Reading WFC,Pass,,Kristine Leine,42.4,34.8,50.3,57.0,,,False,False,True,0.005236601693008329
+2673,2275127,614d73aa-841b-4ed5-8a17-17abe52d31e0,89,Reading WFC,Carry,,Fara Williams,50.3,57.0,54.1,61.2,,,False,False,True,0.003814826212653607
+2682,2275127,3cb48596-6558-447f-8bb6-4b73716475d3,90,Everton LFC,Pass,Throw-in,Esme Beth Morgan,98.2,80.0,106.0,67.1,,,False,False,True,0.023352364521614204
+2687,2275127,a0060fce-5e0c-468e-8988-82a36d81b439,90,Everton LFC,Pass,Throw-in,Esme Beth Morgan,92.8,80.0,98.2,73.7,,,False,False,True,-0.005321460965983384
+2689,2275127,3222ff2c-6b8f-42c3-beaf-1a54a0998429,90,Everton LFC,Pass,,Lucy Hope,98.2,73.9,93.3,78.2,,,False,False,True,0.005321460965983384
+2692,2275127,1b9055ef-354b-4972-9d0b-84cc8fb80a3e,90,Everton LFC,Carry,,Esme Beth Morgan,93.3,78.2,92.8,77.1,,,False,False,True,0.0
+2696,2275127,f995366f-5df9-4916-a452-7d18321fefb6,90,Everton LFC,Pass,Throw-in,Esme Beth Morgan,93.5,80.0,110.0,76.5,,,False,False,True,-0.01910795588525096
+2699,2275127,98131e2c-08a9-4fd6-8ade-afe3b535b735,90,Everton LFC,Carry,,Chloe Kelly,110.0,76.5,117.2,75.4,,,False,False,True,0.00661259088566407
+2709,2275127,a0449b9b-aae7-443d-ba0c-24e18b498ef4,91,Reading WFC,Carry,,Lisa-Marie Utland,59.3,73.1,63.1,76.8,,,False,False,True,0.003204262175589014
+2712,2275127,52c39019-b5e2-4158-b6f1-bf013e4a9b05,91,Reading WFC,Pass,Throw-in,Natasha Harding,64.7,80.0,85.3,74.2,,,False,False,True,0.020080008411749034
+2714,2275127,0ff3f722-99d7-4cf1-af82-4f8c61242d86,91,Reading WFC,Carry,,Amalie Vevle Eikeland,85.3,74.2,86.0,73.3,,,False,False,True,-0.010124540989511915
+2717,2275127,fae1fa5d-0754-4185-8fb6-1c75c73d1f86,91,Everton LFC,Pass,Recovery,Abbey-Leigh Stringer,34.6,9.9,25.1,5.8,,,False,False,True,0.002816856820002424
+2720,2275127,00b6bbfa-8434-4825-bc80-f847ca8818f8,91,Everton LFC,Carry,,Danielle Turner,25.1,5.8,22.0,5.1,,,False,False,True,-0.0064864920968499586
+2721,2275127,8850bac8-9252-4d32-869b-ec063f0606e5,91,Everton LFC,Pass,,Danielle Turner,22.0,5.1,24.7,14.1,,,False,False,True,0.004348503295098962
+2723,2275127,c9015291-5adc-47f6-8c07-e912a6b98170,91,Everton LFC,Carry,,Abbey-Leigh Stringer,24.7,14.1,24.9,11.0,,,False,False,True,0.0036092414594901543
+2724,2275127,ea32b12a-4a76-41d6-a8b8-b0aee4329363,91,Everton LFC,Pass,,Abbey-Leigh Stringer,24.9,11.0,35.3,5.4,,,False,False,True,-0.0010419815241277178
+2727,2275127,1490d288-5e60-4104-b170-0f2367c716fa,91,Everton LFC,Carry,,Simone Magill,35.3,5.4,37.5,4.4,,,False,False,True,0.0031089534681797617
+2728,2275127,c2800549-91d4-4fd8-b4d4-0ed805bf4314,91,Everton LFC,Pass,,Simone Magill,37.5,4.4,42.7,12.7,,,False,False,True,-0.004121973185533439
+2731,2275127,74e72d91-abac-499f-ac97-6c5f60b07007,91,Everton LFC,Carry,,Gabrielle George,42.7,12.7,47.1,6.1,,,False,False,True,0.0159700428749023
+2734,2275127,370b9794-0fc1-49cf-ab12-d667ee95610b,92,Everton LFC,Pass,Throw-in,Gabrielle George,49.8,0.1,58.3,7.3,,,False,False,True,-0.007368739950147439
+2736,2275127,e3e9c09a-f95c-4d8c-8710-bcc1a0241c90,92,Everton LFC,Carry,,Maéva Clemaron,58.3,7.3,55.9,8.4,,,False,False,True,0.0
+2739,2275127,c071145d-dcb0-414c-8ca6-7c8838be0cfa,92,Reading WFC,Carry,,Fara Williams,64.5,74.0,66.6,75.0,,,False,False,True,0.0
+2743,2275127,4c9ec0f8-dffb-48b8-a57f-56a39b8c9219,92,Reading WFC,Carry,,Amalie Vevle Eikeland,70.4,75.9,88.6,63.8,,,False,False,True,0.015523511288326717
+2747,2275127,1d7f9833-6fd8-4a8a-ab5e-a02d9fe1f12c,92,Reading WFC,Pass,Free Kick,Fara Williams,95.7,66.9,103.0,75.4,,,False,False,True,0.0013513578069055815
+2749,2275127,c8191e2b-89f0-456b-8833-62268bf09db6,92,Reading WFC,Carry,,Amalie Vevle Eikeland,103.0,75.4,110.3,77.3,,,False,False,True,-0.013786494919267573
+2751,2275127,1babcc3a-9f95-4239-a570-3555e4b5e039,93,Reading WFC,Pass,,Amalie Vevle Eikeland,110.3,77.3,111.0,73.6,,,False,False,True,0.0
+2753,2275127,b4029442-436f-423c-808a-a94e9eb66cd3,93,Reading WFC,Carry,,Fara Williams,111.0,73.6,117.7,75.0,,,False,False,True,0.00661259088566407
+2758,2275127,563c8628-41eb-4fa3-96fb-c65934a39c5e,93,Reading WFC,Pass,Throw-in,Amalie Vevle Eikeland,117.2,80.0,115.1,69.1,,,False,False,True,-0.012674996000000001
+2761,2275127,0694f2c9-faac-4843-ad8f-d1c3ae0642cd,93,Reading WFC,Carry,,Lisa-Marie Utland,115.1,69.1,115.1,70.5,,,False,False,True,0.0
+2764,2275127,8de42fd2-64c4-4418-b6da-959b0fa8e364,93,Everton LFC,Carry,,Chloe Kelly,5.0,9.6,9.8,11.1,,,False,False,True,0.0006460328545475759
+2768,2275127,18c6a48a-208d-42b3-a6c8-33eebab2c9b1,93,Reading WFC,Carry,,Remi Allen,74.6,35.3,74.9,29.5,,,False,False,True,0.009085945717300958
+2769,2275127,243ce1a0-e3c1-4e10-84c6-0a92936bec0a,93,Reading WFC,Pass,,Remi Allen,74.9,29.5,98.5,9.5,,,False,False,True,0.010279901615777968
+2771,2275127,7b1f4537-874f-4f4e-a3b4-3b077ec3edbb,93,Reading WFC,Carry,,Rakel Hönnudóttir,98.5,9.5,116.9,0.4,,,False,False,True,0.10256439478745846
+2785,2275127,b0e8ceaa-af6d-4cca-a722-f58b8cefeb83,93,Everton LFC,Carry,,Simone Magill,76.2,78.5,87.3,78.0,,,False,False,True,0.010714872949052531
+2788,2275127,4a591ab2-c926-4a45-8613-96c6b896d9e2,94,Reading WFC,Pass,Recovery,Kristine Leine,19.8,19.8,7.4,32.4,,,False,False,True,-0.005956758626597263
+2790,2275127,d6854c27-749a-4fab-8259-64c04e534d30,94,Reading WFC,Carry,,Grace Moloney,7.4,32.4,8.1,33.8,,,False,False,True,-0.0010258749359501164
